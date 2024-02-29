@@ -1,0 +1,5592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:element name="data">
+      <xsd:complexType>
+        <xsd:sequence>
+          <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+        </xsd:sequence>
+        <xsd:attribute name="name" type="xsd:string"/>
+        <xsd:attribute name="type" type="xsd:string"/>
+        <xsd:attribute name="mimetype" type="xsd:string"/>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Clangium" xml:space="preserve">
+    <value>鲈鱼</value>
+  </data>
+  <data name="Description_AssemblerT0" xml:space="preserve">
+    <value>装配工是能够生产工具和组件的高度先进的机器。
+需要铸锭和电力来生产组件。
+比基本汇编器好 1.5 倍。
+0.30 倍装配速度
+0.56MW基本用电量。</value>
+  </data>
+  <data name="Description_AssemblerT1" xml:space="preserve">
+    <value>装配工是能够生产工具和组件的高度先进的机器。
+需要铸锭和电力来生产组件。                                                                                                                                                                  
+比普通汇编程序好 1.5 倍。
+0.45 倍装配速度。
+0.84MW基本用电量</value>
+  </data>
+  <data name="Description_AssemblerT2" xml:space="preserve">
+    <value>装配工是能够生产工具和组件的高度先进的机器。
+需要铸锭和电力来生产组件。                                                                                                                                                                  
+比增强型汇编程序好 1.5 倍。
+0.675 倍装配速度。
+1.26MW基本用电量</value>
+  </data>
+  <data name="Description_AssemblerT3" xml:space="preserve">
+    <value>装配工是能够生产工具和组件的高度先进的机器。
+需要铸锭和电力来生产组件。                                                                                                                                                                   
+比熟练的汇编程序好 1.5 倍。
+1 倍装配速度。
+1.89MW基本用电量</value>
+  </data>
+  <data name="Description_AutocannonT0" xml:space="preserve">
+    <value>中等射速，具有良好的冲击力。使用普通的自动加农炮弹匣。
+
+最大射程：2500米</value>
+  </data>
+  <data name="Description_AutocannonT1" xml:space="preserve">
+    <value>中等射速，具有良好的冲击力。使用贫铀自动加农炮弹匣。
+
+最大射程：2500米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_AutocannonT2" xml:space="preserve">
+    <value>中等射速，具有良好的冲击力。使用耗尽的暗能量自动加农炮弹匣。
+
+最大射程：2500米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_AutocannonT3" xml:space="preserve">
+    <value>中等射速，具有良好的冲击力。使用耗尽的钚自动加农炮弹匣。
+
+最大射程：2500米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_AutoCannonTurretT0" xml:space="preserve">
+    <value>中等射速，在小型炮塔中具有良好的冲击力。使用普通的自动加农炮弹匣。
+
+最大射程：2500米</value>
+  </data>
+  <data name="Description_AutoCannonTurretT1" xml:space="preserve">
+    <value>中等射速，在小型炮塔中具有良好的冲击力。使用贫铀自动加农炮弹匣。
+
+最大射程：2500米</value>
+  </data>
+  <data name="Description_AutoCannonTurretT2" xml:space="preserve">
+    <value>中等射速，在小型炮塔中具有良好的冲击力。使用耗尽的暗能量自动加农炮弹匣。
+
+最大射程：2500米</value>
+  </data>
+  <data name="Description_AutoCannonTurretT3" xml:space="preserve">
+    <value>中等射速，在小型炮塔中具有良好的冲击力。使用耗尽的钚自动加农炮弹匣。
+
+最大射程：2500米</value>
+  </data>
+  <data name="Description_BatteryT0" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+正常
+最大功率输出：12MW
+最大功率输入：12MW 
+最大存储功率：3MWH</value>
+  </data>
+  <data name="Description_BatteryT1" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比正常情况好 1.5 倍
+最大输出功率：18MW
+最大功率输入：18MW 
+最大存储功率：4.5MWH</value>
+  </data>
+  <data name="Description_BatteryT2" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比增强型好 1.5 倍
+最大功率输出：27MW
+最大功率输入：27MW 
+最大储存功率：6.75MWH</value>
+  </data>
+  <data name="Description_BatteryT3" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比精通好 1.5 倍
+最大输出功率：40.5MW
+最大功率输入：40.5MW 
+最大储存功率：10.13MWH</value>
+  </data>
+  <data name="Description_BlueprintClass_ComponentsT1" xml:space="preserve">
+    <value>增强的组件
+- 增强型组件用于增强型结构的构建，
+机械和电气系统。</value>
+  </data>
+  <data name="Description_BlueprintClass_ComponentsT2" xml:space="preserve">
+    <value>熟练的组件
+- 熟练的组件用于构建熟练的结构，
+机械和电气系统。</value>
+  </data>
+  <data name="Description_BlueprintClass_ComponentsT3" xml:space="preserve">
+    <value>精英组件
+- 精英构件用于精英结构的建设，
+机械和电气系统。</value>
+  </data>
+  <data name="Description_BlueprintClass_ConsumablesT1" xml:space="preserve">
+    <value>增强型耗材
+- 单击任何项目进行组装。</value>
+  </data>
+  <data name="Description_BlueprintClass_ConsumablesT2" xml:space="preserve">
+    <value>熟练的耗材
+- 单击任何项目进行组装。</value>
+  </data>
+  <data name="Description_BlueprintClass_ConsumablesT3" xml:space="preserve">
+    <value>精英耗材
+- 单击任何项目进行组装。</value>
+  </data>
+  <data name="Description_BlueprintClass_DarkEnergyBottles" xml:space="preserve">
+    <value>一个坦克，可以容纳你的西装的黑暗能量。</value>
+  </data>
+  <data name="Description_BlueprintClass_EquipmentT1" xml:space="preserve">
+    <value>增强型设备
+- 各种实用物品和生存装备。</value>
+  </data>
+  <data name="Description_BlueprintClass_EquipmentT2" xml:space="preserve">
+    <value>熟练的设备
+- 各种实用物品和生存装备。</value>
+  </data>
+  <data name="Description_BlueprintClass_EquipmentT3" xml:space="preserve">
+    <value>精英设备
+- 各种实用物品和生存装备。</value>
+  </data>
+  <data name="Description_BlueprintClass_LargeBlocksT1" xml:space="preserve">
+    <value>增强型大块
+- 单击任何大块以组装所有组件
+它的构造所必需的。</value>
+  </data>
+  <data name="Description_BlueprintClass_LargeBlocksT2" xml:space="preserve">
+    <value>精通大块
+- 单击任何大块以组装所有组件
+它的构造所必需的。</value>
+  </data>
+  <data name="Description_BlueprintClass_LargeBlocksT3" xml:space="preserve">
+    <value>精英大块
+- 单击任何大块以组装所有组件
+它的构造所必需的。</value>
+  </data>
+  <data name="Description_BlueprintClass_SmallBlocksT1" xml:space="preserve">
+    <value>增强型小块
+- 单击任何小块以组装所有组件
+它的构造所必需的。</value>
+  </data>
+  <data name="Description_BlueprintClass_SmallBlocksT2" xml:space="preserve">
+    <value>熟练的小块
+- 单击任何小块以组装所有组件
+它的构造所必需的。</value>
+  </data>
+  <data name="Description_BlueprintClass_SmallBlocksT3" xml:space="preserve">
+    <value>精英小块
+- 单击任何小块以组装所有组件
+它的构造所必需的。</value>
+  </data>
+  <data name="Description_DarkEnergyGeneratorT0" xml:space="preserve">
+    <value>暗能量发生器从暗物质中产生暗能量
+使用暗能量罐进行储存。
+
+暗物质每秒消耗量：38
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_DarkEnergyGeneratorT1" xml:space="preserve">
+    <value>暗能量发生器从暗物质中产生暗能量
+使用暗能量罐进行储存。
+
+速度比平时快 1.5 倍，效率高 1.5 倍。
+
+暗物质每秒消耗量：57
+
+暗物质与暗能量的比例：45L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_DarkEnergyGeneratorT2" xml:space="preserve">
+    <value>暗能量发生器从暗物质中产生暗能量
+使用暗能量罐进行储存。
+
+速度比增强型快 1.5 倍，效率高 1.5 倍。
+
+暗物质每秒消耗：86
+
+暗物质与暗能量的比例：68L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_DarkEnergyGeneratorT3" xml:space="preserve">
+    <value>暗能量发生器从暗物质中产生暗能量
+使用暗能量罐进行储存。
+
+比精通快 1.5 倍，效率高 1.5 倍。
+
+暗物质每秒消耗量：129
+
+暗物质与暗能量比：102L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_DarkEnergyThrust" xml:space="preserve">
+    <value>暗能量推进器是强大的推进器，可以消耗暗能量并在各种环境中发挥作用。
+暗能量可以从暗能量发生器中的暗物质中产生。使用暗能量罐进行储存。使用传送带运输暗能量。
+暗能量推进器每层具有与氢推进器相同的力和组件成本。
+每一层暗能量推进器的效率都比同等级别的氢推进器高 1.5 倍。
+暗能量每升的能量密度是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_DarkPowerGeneratorT0" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+最大功率输出：5MW
+燃油容量：100000L</value>
+  </data>
+  <data name="Description_DarkPowerGeneratorT1" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+比正常情况好 1.5 倍
+最大功率输出：7.5MW
+油量：150000L</value>
+  </data>
+  <data name="Description_DarkPowerGeneratorT2" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+比增强型好 1.5 倍
+最大输出功率：11.25MW
+燃油容量：225000L</value>
+  </data>
+  <data name="Description_DarkPowerGeneratorT3" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+比精通好 1.5 倍
+最大输出功率：16.88MW
+油容量：337000L</value>
+  </data>
+  <data name="Description_DP3SmallSolarPanelCornerT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比正常情况好 1.5 倍。
+0.03MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SmallSolarPanelCornerT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比增强型好 1.5 倍。
+0.045MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SmallSolarPanelCornerT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比精通好 1.5 倍。
+0.0675MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SmallSolarPanelT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比正常情况好 1.5 倍。
+0.06MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SmallSolarPanelT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比增强型好 1.5 倍。
+0.09MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SmallSolarPanelT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比精通好 1.5 倍。
+0.135MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SolarPanelCornerT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比正常情况好 1.5 倍。
+0.12MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SolarPanelCornerT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比增强型好 1.5 倍。
+0.18MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SolarPanelCornerT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比精通好 1.5 倍。
+0.27MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SolarPanelT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比正常情况好 1.5 倍。
+0.24MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SolarPanelT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比增强型好 1.5 倍。
+0.36MW最大功率输出。</value>
+  </data>
+  <data name="Description_DP3SolarPanelT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比精通好 1.5 倍。
+0.54MW最大功率输出。</value>
+  </data>
+  <data name="Description_EffectivenessModuleT0" xml:space="preserve">
+    <value>产量模块在连接时可提高炼油厂的产量。
+修饰符： 0.03125
+改性剂类型：添加剂
+每个模块的有效性为 6.25%
+（25% 为 4）</value>
+  </data>
+  <data name="Description_EffectivenessModuleT1" xml:space="preserve">
+    <value>产量模块在连接时可提高炼油厂的产量。
+修正符： 0.0625
+改性剂类型：添加剂
+每个模块的有效性为 12.5%
+（50% 为 4）</value>
+  </data>
+  <data name="Description_EffectivenessModuleT2" xml:space="preserve">
+    <value>产量模块在连接时可提高炼油厂的产量。
+修饰符： 0.09375
+改性剂类型：添加剂
+每个模块的有效性为 18.75%
+（75% 为 4）</value>
+  </data>
+  <data name="Description_EffectivenessModuleT3" xml:space="preserve">
+    <value>产量模块在连接时可提高炼油厂的产量。
+修饰符： 0.125
+改性剂类型：添加剂
+每个模块的有效性为 25%
+（100% 为 4）</value>
+  </data>
+  <data name="Description_GatlingGunT0" xml:space="preserve">
+    <value>可以通过传送带装载的快速射击枪。使用普通的加特林弹药箱。
+
+最大射程：1500米</value>
+  </data>
+  <data name="Description_GatlingGunT1" xml:space="preserve">
+    <value>可以通过传送带装载的快速射击枪。使用贫铀加特林弹药箱。
+
+最大射程：1500米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_GatlingGunT2" xml:space="preserve">
+    <value>可通过传送带装载的快速射击炮塔。使用耗尽的暗能量加特林弹药箱。
+
+最大射程：1800米
+
+重新加载速度比增强型快 1.5 倍</value>
+  </data>
+  <data name="Description_GatlingGunT3" xml:space="preserve">
+    <value>可以通过传送带装载的快速射击枪。使用耗尽的钳金加特林弹药箱。
+
+最大射程：2700米
+
+充值速度比 Proficient 快 1.5 倍</value>
+  </data>
+  <data name="Description_GatlingTurretT0" xml:space="preserve">
+    <value>可通过传送带装载的快速射击炮塔。使用普通的加特林弹药箱。
+
+最大射程：1500米</value>
+  </data>
+  <data name="Description_GatlingTurretT1" xml:space="preserve">
+    <value>可通过传送带装载的快速射击炮塔。使用贫铀加特林弹药箱。
+
+最大射程：1500米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_GatlingTurretT2" xml:space="preserve">
+    <value>可通过传送带装载的快速射击炮塔。使用耗尽的暗能量加特林弹药箱。
+
+最大射程：1500米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_GatlingTurretT3" xml:space="preserve">
+    <value>可通过传送带装载的快速射击炮塔。使用耗尽的钳金加特林弹药箱。
+
+最大射程：1500米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_HeavyCalibreGunT0" xml:space="preserve">
+    <value>一把泰坦尼克号枪，非常适合与重装甲目标作战。使用普通炮弹。
+
+最大射程：3500米</value>
+  </data>
+  <data name="Description_HeavyCalibreGunT1" xml:space="preserve">
+    <value>一把泰坦尼克号枪，非常适合与重装甲目标作战。使用贫铀炮弹。
+
+最大射程：3500米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_HeavyCalibreGunT2" xml:space="preserve">
+    <value>一把泰坦尼克号枪，非常适合与重装甲目标作战。使用耗尽的暗能量炮弹。
+
+最大射程：3500米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_HeavyCalibreGunT3" xml:space="preserve">
+    <value>一把泰坦尼克号枪，非常适合与重装甲目标作战。使用贫化钚炮弹。
+
+最大射程：3500米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_HydrogenTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+容量：15,000,000L</value>
+  </data>
+  <data name="Description_HydrogenTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比正常情况好 1.5 倍
+容量： 22,500,000L</value>
+  </data>
+  <data name="Description_HydrogenTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量： 33,750,000L</value>
+  </data>
+  <data name="Description_HydrogenTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量：50,625,000L</value>
+  </data>
+  <data name="Description_JumpDriveT0" xml:space="preserve">
+    <value>跳跃驱动器允许飞船远距离传送。
+它们需要充满电才能跳跃，并且只能从驾驶舱的工具栏激活。 
+允许 FTL 跳转。
+最大跳跃范围：593KM。
+最大跳跃质量：1,250,000KG</value>
+  </data>
+  <data name="Description_JumpDriveT1" xml:space="preserve">
+    <value>跳跃驱动器允许飞船远距离传送。
+它们需要充满电才能跳跃，并且只能从驾驶舱的工具栏激活。 
+比正常情况好 1.5 倍
+允许 FTL 跳转。
+最大跳跃范围：889KM。
+最大跳跃质量：1,875,000KG</value>
+  </data>
+  <data name="Description_JumpDriveT2" xml:space="preserve">
+    <value>跳跃驱动器允许飞船远距离传送。
+它们需要充满电才能跳跃，并且只能从驾驶舱的工具栏激活。
+比增强型好 1.5 倍 
+允许 FTL 跳转。
+最大跳跃距离：1,333KM。
+最大跳跃质量：2,812,500KG</value>
+  </data>
+  <data name="Description_JumpDriveT3" xml:space="preserve">
+    <value>跳跃驱动器允许飞船远距离传送。
+它们需要充满电才能跳跃，并且只能从驾驶舱的工具栏激活。 
+比精通好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：2,000KM。
+最大跳跃质量：4,218,750KG</value>
+  </data>
+  <data name="Description_KOC" xml:space="preserve">
+    <value>在《Space Engineers： Enhanced》的沉浸式游戏玩法中，分层方块系统的引入彻底改变了工程师构建和增强其太空创作的方式。这个系统被精心地分为四个不同的等级：普通、增强、精通和精英。每一层不仅意味着性能和耐用性的飞跃，而且还引入了特定的材料要求，以反映模块的复杂性和功能。
+
+材料要求和定制组件：
+
+增强型方块：升级到增强型方块需要银和铀的组合，并整合贫铀组件。此层的资源密集度是普通方块的 1.5 倍，这与它提供的增强性能和持久性相一致。
+
+精通方块：晋升为精通方块需要扩展的材料调色板，包括银、铀、金和暗能量。这一层包含了耗尽的暗能量组件，使其成本是增强方块的 1.5 倍。黄金和暗能量的加入突显了效率和功耗的显着改善。
+
+精英方块：方块技术的巅峰之作，精英方块，需要一系列全面的材料：银、金、铂、铀、暗能量和钳。精英方块由贫化钚组件构成，使其对资源的要求是熟练方块的 1.5 倍。这一层体现了功能、耐用性和能效的极致，迎合了最雄心勃勃的工程壮举。
+
+量子变体：除了标准层外，每个层的量子变体（普通量子、增强量子、精通量子和精英量子）都体现了块功能的量子飞跃。这些变体需要的资源是非量子同类产品的 8 倍，重量是非量子同类产品的 8 倍，更耐用，使其成为优先考虑最高效率和弹性的工程师的强大选择。
+
+《Space Engineers： Enhanced》中的分层区块系统挑战玩家战略性地驾驭他们的资源管理，平衡成本与每层提供的技术和性能优势。该系统丰富了工程和施工经验，允许在广阔的宇宙中开发更复杂、耐用和高效的创作。</value>
+  </data>
+  <data name="Description_LargeCalibreTurretT0" xml:space="preserve">
+    <value>一个泰坦尼克号炮塔，非常适合与重装甲目标作战。使用贫化钚炮弹。
+
+最大射程：3500米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_LargeCalibreTurretT1" xml:space="preserve">
+    <value>一个泰坦尼克号炮塔，非常适合与重装甲目标作战。使用贫铀炮弹。
+
+最大射程：3500米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_LargeCalibreTurretT2" xml:space="preserve">
+    <value>一个泰坦尼克号炮塔，非常适合与重装甲目标作战。使用耗尽的暗能量炮弹。
+
+最大射程：3500米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_LargeCalibreTurretT3" xml:space="preserve">
+    <value>一个泰坦尼克号炮塔，非常适合与重装甲目标作战。使用贫化钚炮弹。
+
+最大射程：3500米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_LargeCargoContainerT1" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+比正常情况好 1.5 倍
+632,813L 在 1x 上</value>
+  </data>
+  <data name="Description_LargeCargoContainerT2" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+比增强型好 1.5 倍
+949,218.75L 在 1x 上</value>
+  </data>
+  <data name="Description_LargeCargoContainerT3" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+比精通好 1.5 倍
+1,423,828.10L 1x</value>
+  </data>
+  <data name="Description_LargeClangiumQReactorT0" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+正常
+最大功率输出：1,200MW</value>
+  </data>
+  <data name="Description_LargeClangiumQReactorT1" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+增强
+最大功率输出：1,800MW</value>
+  </data>
+  <data name="Description_LargeClangiumQReactorT2" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+熟练
+最大功率输出：2,700MW</value>
+  </data>
+  <data name="Description_LargeClangiumQReactorT3" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+精英
+最大输出功率：4,050MW</value>
+  </data>
+  <data name="Description_LargeClangiumReactorT0" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+最大功率输出：300MW</value>
+  </data>
+  <data name="Description_LargeClangiumReactorT1" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：450MW</value>
+  </data>
+  <data name="Description_LargeClangiumReactorT2" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：675MW</value>
+  </data>
+  <data name="Description_LargeClangiumReactorT3" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比精通好 1.5 倍。
+最大输出功率：1013MW</value>
+  </data>
+  <data name="Description_LargeDarkEnergyReactorT0" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+最大功率输出：300MW</value>
+  </data>
+  <data name="Description_LargeDarkEnergyReactorT1" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：450MW</value>
+  </data>
+  <data name="Description_LargeDarkEnergyReactorT2" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：675MW</value>
+  </data>
+  <data name="Description_LargeDarkEnergyReactorT3" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比精通好 1.5 倍。
+最大输出功率：1013MW</value>
+  </data>
+  <data name="Description_LargeDarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量燃料。
+暗能量用于暗能量推进器、发动机或喷气背包燃料。暗能量可以从暗能量发生器中的暗物质中产生。</value>
+  </data>
+  <data name="Description_LargeDarkEnergyTankT1" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量燃料。
+暗能量用于暗能量推进器、发动机或喷气背包燃料。暗能量可以从暗能量发生器中的暗物质中产生。</value>
+  </data>
+  <data name="Description_LargeDarkEnergyTankT2" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量燃料。
+暗能量用于暗能量推进器、发动机或喷气背包燃料。暗能量可以从暗能量发生器中的暗物质中产生。</value>
+  </data>
+  <data name="Description_LargeDarkEnergyTankT3" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量燃料。
+暗能量用于暗能量推进器、发动机或喷气背包燃料。暗能量可以从暗能量发生器中的暗物质中产生。</value>
+  </data>
+  <data name="Description_LargeQCargoContainerT0" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+存储量是非量子普通大型货物的 8 倍。8 倍成本。8 倍重量。
+3,375,000.08L 在 1x</value>
+  </data>
+  <data name="Description_LargeQCargoContainerT1" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+存储空间是非量子增强型大型货物的 8 倍。8 倍成本。8 倍重量。
+5,062,504L 在 1x 上</value>
+  </data>
+  <data name="Description_LargeQCargoContainerT2" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+存储空间是非量子熟练大件货物的 8 倍。8 倍成本。8 倍重量。
+7,593,750L 在 1x 上</value>
+  </data>
+  <data name="Description_LargeQCargoContainerT3" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+存储空间是非量子精英大型货物的 8 倍。8 倍成本。8 倍重量。
+11,390,624.8L 在 1x 上</value>
+  </data>
+  <data name="Description_LargeQDarkEnergyReactorT0" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+正常
+最大功率输出：1,200MW</value>
+  </data>
+  <data name="Description_LargeQDarkEnergyReactorT1" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：1,800MW</value>
+  </data>
+  <data name="Description_LargeQDarkEnergyReactorT2" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大功率输出：2,700MW</value>
+  </data>
+  <data name="Description_LargeQDarkEnergyReactorT3" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大输出功率：4,050MW</value>
+  </data>
+  <data name="Description_LargeQDarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+正常容量和成本
+容量：120,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeQDarkEnergyTankT1" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比正常情况好 1.5 倍。重量高达 8 倍的增强型非量子氢气罐。
+容量：180,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeQDarkEnergyTankT2" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比增强型好 1.5 倍。重量高达 8 倍熟练的非量子氢气罐。
+容量：270,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeQDarkEnergyTankT3" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比精通好 1.5 倍。重量高达 8 倍 Elite 非量子氢气罐。
+容量：405,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeQReactorT0" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+最大功率输出：1,200MW</value>
+  </data>
+  <data name="Description_LargeQReactorT1" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：1,800MW</value>
+  </data>
+  <data name="Description_LargeQReactorT2" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大功率输出：2,700MW</value>
+  </data>
+  <data name="Description_LargeQReactorT3" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大输出功率：4,050MW</value>
+  </data>
+  <data name="Description_LargeReactorT0" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+最大功率输出：300MW</value>
+  </data>
+  <data name="Description_LargeReactorT1" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：450MW</value>
+  </data>
+  <data name="Description_LargeReactorT2" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：675MW</value>
+  </data>
+  <data name="Description_LargeReactorT3" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大输出功率：1013MW</value>
+  </data>
+  <data name="Description_LargeRocketLauncherT0" xml:space="preserve">
+    <value>更大版本的火箭发射器，能够使用输送系统自动重新装填。使用普通导弹。
+
+最大射程：2500米</value>
+  </data>
+  <data name="Description_LargeRocketLauncherT1" xml:space="preserve">
+    <value>更大版本的火箭发射器，能够使用输送系统自动重新装填。使用贫铀导弹。
+
+最大射程：2500米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_LargeRocketLauncherT2" xml:space="preserve">
+    <value>更大版本的火箭发射器，能够使用输送系统自动重新装填。使用耗尽的暗能量导弹。
+
+最大射程：2500米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_LargeRocketLauncherT3" xml:space="preserve">
+    <value>更大版本的火箭发射器，能够使用输送系统自动重新装填。使用贫化钚导弹。
+
+最大射程：2500米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_LargeSmallClangiumQReactorT0" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+最大功率输出：120MW</value>
+  </data>
+  <data name="Description_LargeSmallClangiumQReactorT1" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：180MW</value>
+  </data>
+  <data name="Description_LargeSmallClangiumQReactorT2" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：270MW</value>
+  </data>
+  <data name="Description_LargeSmallClangiumQReactorT3" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比精通好 1.5 倍。
+最大输出功率：405MW</value>
+  </data>
+  <data name="Description_LargeSmallClangiumReactorT0" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+最大功率输出：15MW</value>
+  </data>
+  <data name="Description_LargeSmallClangiumReactorT1" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：23MW</value>
+  </data>
+  <data name="Description_LargeSmallClangiumReactorT2" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：34MW</value>
+  </data>
+  <data name="Description_LargeSmallClangiumReactorT3" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比精通好 1.5 倍。
+最大功率输出：51MW</value>
+  </data>
+  <data name="Description_LargeSmallDarkEnergyReactorT0" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+最大功率输出：15MW</value>
+  </data>
+  <data name="Description_LargeSmallDarkEnergyReactorT1" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：23MW</value>
+  </data>
+  <data name="Description_LargeSmallDarkEnergyReactorT2" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：34MW</value>
+  </data>
+  <data name="Description_LargeSmallDarkEnergyReactorT3" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比精通好 1.5 倍。
+最大功率输出：51MW</value>
+  </data>
+  <data name="Description_LargeSmallDarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+正常容量和成本
+容量：1,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeSmallDarkEnergyTankT1" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+提高产能和成本
+容量：1,500,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeSmallDarkEnergyTankT2" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+熟练的容量和成本
+容量：2,250,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeSmallDarkEnergyTankT3" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+精英容量和成本
+容量： 3,375,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeSmallHydrogenTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+正常容量和成本
+容量：1,000,000L</value>
+  </data>
+  <data name="Description_LargeSmallHydrogenTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量：1,500,000L</value>
+  </data>
+  <data name="Description_LargeSmallHydrogenTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量：2,250,000L</value>
+  </data>
+  <data name="Description_LargeSmallHydrogenTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量： 3,375,000L</value>
+  </data>
+  <data name="Description_LargeSmallQDarkEnergyReactorT0" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+最大功率输出：120MW</value>
+  </data>
+  <data name="Description_LargeSmallQDarkEnergyReactorT1" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：180MW</value>
+  </data>
+  <data name="Description_LargeSmallQDarkEnergyReactorT2" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：270MW</value>
+  </data>
+  <data name="Description_LargeSmallQDarkEnergyReactorT3" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大输出功率：405MW</value>
+  </data>
+  <data name="Description_LargeSmallQDarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+正常容量和成本
+容量：8,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeSmallQDarkEnergyTankT1" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比增强型好 1.5 倍
+容量：12,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeSmallQDarkEnergyTankT2" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比增强型好 1.5 倍。重量高达 8 倍熟练的非量子氢气罐。
+容量：18,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeSmallQDarkEnergyTankT3" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比精通好 1.5 倍。重量高达 8 倍 Elite 非量子氢气罐。
+容量：27,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_LargeSmallQHydrogenTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+容量：8,000,000L</value>
+  </data>
+  <data name="Description_LargeSmallQHydrogenTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量：12,000,000L</value>
+  </data>
+  <data name="Description_LargeSmallQHydrogenTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量：18,000,000L</value>
+  </data>
+  <data name="Description_LargeSmallQHydrogenTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量：27,000,000L</value>
+  </data>
+  <data name="Description_LargeSmallQReactorT0" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+最大功率输出：120MW</value>
+  </data>
+  <data name="Description_LargeSmallQReactorT1" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：180MW</value>
+  </data>
+  <data name="Description_LargeSmallQReactorT2" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：270MW</value>
+  </data>
+  <data name="Description_LargeSmallQReactorT3" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大输出功率：405MW</value>
+  </data>
+  <data name="Description_LargeSmallReactorT0" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+最大功率输出：15MW</value>
+  </data>
+  <data name="Description_LargeSmallReactorT1" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：23MW</value>
+  </data>
+  <data name="Description_LargeSmallReactorT2" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：34MW</value>
+  </data>
+  <data name="Description_LargeSmallReactorT3" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大功率输出：50MW</value>
+  </data>
+  <data name="Description_MediumCalibreGunT0" xml:space="preserve">
+    <value>自动加农炮的更慢和更大的兄弟姐妹。对装甲目标造成可观的伤害。使用普通的突击炮弹。
+
+最大射程：3000米</value>
+  </data>
+  <data name="Description_MediumCalibreGunT1" xml:space="preserve">
+    <value>自动加农炮的更慢和更大的兄弟姐妹。对装甲目标造成可观的伤害。使用贫铀突击炮弹。
+
+最大射程：3000米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_MediumCalibreGunT2" xml:space="preserve">
+    <value>自动加农炮的更慢和更大的兄弟姐妹。对装甲目标造成可观的伤害。使用耗尽的暗能量突击炮弹。
+
+最大射程：3000米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_MediumCalibreGunT3" xml:space="preserve">
+    <value>自动加农炮的更慢和更大的兄弟姐妹。对装甲目标造成可观的伤害。使用耗尽的钳突击炮弹。
+
+最大射程：3000米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_MediumCalibreTurretT0" xml:space="preserve">
+    <value>自动加农炮的更慢和更大的兄弟姐妹。对装甲目标造成可观的伤害。使用普通的突击炮弹。
+
+最大射程：3000米</value>
+  </data>
+  <data name="Description_MediumCalibreTurretT1" xml:space="preserve">
+    <value>自动加农炮的更慢和更大的兄弟姐妹。对装甲目标造成可观的伤害。使用贫铀突击炮弹。
+
+最大射程：3000米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_MediumCalibreTurretT2" xml:space="preserve">
+    <value>自动加农炮的更慢和更大的兄弟姐妹。对装甲目标造成可观的伤害。使用耗尽的暗能量突击炮弹。
+
+最大射程：3000米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_MediumCalibreTurretT3" xml:space="preserve">
+    <value>自动加农炮的更慢和更大的兄弟姐妹。对装甲目标造成可观的伤害。使用耗尽的钳突击炮弹。
+
+最大射程：3000米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_MediumCargoContainerT1" xml:space="preserve">
+    <value>中型货物集装箱可用于存放物品。
+比正常情况好 1.5 倍
+5,062.50L 在 1x 上</value>
+  </data>
+  <data name="Description_MediumCargoContainerT2" xml:space="preserve">
+    <value>中型货物集装箱可用于存放物品。
+比增强型好 1.5 倍
+7,593.75L 在 1x 上</value>
+  </data>
+  <data name="Description_MediumCargoContainerT3" xml:space="preserve">
+    <value>中型货物集装箱可用于存放物品。
+比精通好 1.5 倍
+11,390.63L 在 1x 上</value>
+  </data>
+  <data name="Description_MediumQCargoContainerT0" xml:space="preserve">
+    <value>中型量子货物集装箱可用于存储物品。
+存储量是非量子普通大型货物的 8 倍。8 倍成本。8 倍重量。
+27,000L 1x</value>
+  </data>
+  <data name="Description_MediumQCargoContainerT1" xml:space="preserve">
+    <value>中型量子货物集装箱可用于存储物品。
+存储空间是非量子增强型大型货物的 8 倍。8 倍成本。8 倍重量。
+比普通量子好 1.5 倍
+40,500L 1x</value>
+  </data>
+  <data name="Description_MediumQCargoContainerT2" xml:space="preserve">
+    <value>中型量子货物集装箱可用于存储物品。
+存储空间是非量子熟练大件货物的 8 倍。8 倍成本。8 倍重量。
+比增强型量子处理器好 1.5 倍
+60,750L 在 1x 上</value>
+  </data>
+  <data name="Description_MediumQCargoContainerT3" xml:space="preserve">
+    <value>中型量子货物集装箱可用于存储物品。
+存储空间是非量子精英大型货物的 8 倍。8 倍成本。8 倍重量。
+比 Proficient Quantum 好 1.5 倍
+91,120L 1x</value>
+  </data>
+  <data name="Description_MissileTurretT0" xml:space="preserve">
+    <value>慢速射击，寻热，爆炸伤害处理，导弹发射器，可以通过传送带装载。使用普通导弹。
+
+最大射程：2500米</value>
+  </data>
+  <data name="Description_MissileTurretT1" xml:space="preserve">
+    <value>慢速射击，寻热，爆炸伤害处理，导弹发射器，可以通过传送带装载。使用贫铀导弹。
+
+最大射程：2500米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_MissileTurretT2" xml:space="preserve">
+    <value>慢速射击，寻热，爆炸伤害处理，导弹发射器，可以通过传送带装载。使用耗尽的暗能量导弹。
+
+最大射程：2500米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_MissileTurretT3" xml:space="preserve">
+    <value>慢速射击，寻热，爆炸伤害处理，导弹发射器，可以通过传送带装载。使用贫化钚导弹。
+
+最大射程：2500米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_OreConversion" xml:space="preserve">
+    <value>为了本地化 mod，我不得不更改所有 moded 矿石的子类型 ID。这允许您将旧矿石转换为新矿石。</value>
+  </data>
+  <data name="Description_OreDetectorT0" xml:space="preserve">
+    <value>矿石探测器检测有限半径内的矿石，并使其显示在您的 HUD 上。
+最大射程：150M</value>
+  </data>
+  <data name="Description_OreDetectorT1" xml:space="preserve">
+    <value>矿石探测器检测有限半径内的矿石，并使其显示在您的 HUD 上。
+最大范围：225M</value>
+  </data>
+  <data name="Description_OreDetectorT2" xml:space="preserve">
+    <value>矿石探测器检测有限半径内的矿石，并使其显示在您的 HUD 上。
+最大射程：337M</value>
+  </data>
+  <data name="Description_OreDetectorT3" xml:space="preserve">
+    <value>矿石探测器检测有限半径内的矿石，并使其显示在您的 HUD 上。
+最大射程：505.5M</value>
+  </data>
+  <data name="Description_OxygenFarmT0" xml:space="preserve">
+    <value>水培农场在阳光下产生少量氧气。
+使用氧气罐储存氧气。
+普通农场
+最大输出：0.03LP/s
+功耗：0.02MW</value>
+  </data>
+  <data name="Description_OxygenFarmT1" xml:space="preserve">
+    <value>水培农场在阳光下产生少量氧气。
+使用氧气罐储存氧气。
+比正常情况好 1.5 倍
+最大输出：0.045LP/s
+耗电量：0.03MW</value>
+  </data>
+  <data name="Description_OxygenFarmT2" xml:space="preserve">
+    <value>水培农场在阳光下产生少量氧气。
+使用氧气罐储存氧气。
+比精通好 1.5 倍
+最大输出：0.10125LP/s
+耗电量：0.0675MW</value>
+  </data>
+  <data name="Description_OxygenFarmT3" xml:space="preserve">
+    <value>水培农场在阳光下产生少量氧气。
+使用氧气罐储存氧气。
+比 Enhhanced 好 1.5 倍
+最大输出：0.0675LP/s
+耗电量：0.045MW</value>
+  </data>
+  <data name="Description_OxygenGeneratorT0" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+每秒耗冰量：25
+
+冰氧比：10L
+
+冰氢比：20L</value>
+  </data>
+  <data name="Description_OxygenGeneratorT1" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+速度比平时快 1.5 倍，效率高 1.5 倍。
+
+每秒耗冰量：38
+
+冰氧比：15L
+
+冰氢比：30L</value>
+  </data>
+  <data name="Description_OxygenGeneratorT2" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+速度比增强型快 1.5 倍，效率高 1.5 倍。
+
+每秒冰消耗量：57
+
+冰氧比：23L
+
+冰氢比：45L</value>
+  </data>
+  <data name="Description_OxygenGeneratorT3" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+比精通快 1.5 倍，效率高 1.5 倍。
+
+每秒冰消耗量：86
+
+冰氧比：35L
+
+冰氢比：68L</value>
+  </data>
+  <data name="Description_OxygenTankT0" xml:space="preserve">
+    <value>氧气罐储存氧气。
+能够储存和补充氧气瓶。
+使用 O2/H2 发生器生产氧气。
+容量：100000L。</value>
+  </data>
+  <data name="Description_OxygenTankT1" xml:space="preserve">
+    <value>氧气罐储存氧气。
+能够储存和补充氧气瓶。
+使用 O2/H2 发生器生产氧气。
+比正常情况好 1.5 倍。 
+容量：150000L。</value>
+  </data>
+  <data name="Description_OxygenTankT2" xml:space="preserve">
+    <value>氧气罐储存氧气。
+能够储存和补充氧气瓶。
+使用 O2/H2 发生器生产氧气。
+比增强型好 1.5 倍。 
+容量：225000L。</value>
+  </data>
+  <data name="Description_OxygenTankT3" xml:space="preserve">
+    <value>氧气罐储存氧气。
+能够储存和补充氧气瓶。
+使用 O2/H2 发生器生产氧气。
+比精通好 1.5 倍。 
+容量：337500L。</value>
+  </data>
+  <data name="Description_ParachuteHatchT1" xml:space="preserve">
+    <value>降落伞舱口展开降落伞以减缓船只在大气层内的下降速度。
+
+可以配置为自动打开或从工具栏或设置手动使用。
+增强版的效果比正常版本高 1.5 倍。
+需要 8 个 Canvas 来部署。</value>
+  </data>
+  <data name="Description_ParachuteHatchT2" xml:space="preserve">
+    <value>降落伞舱口展开降落伞以减缓船只在大气层内的下降速度。
+
+可以配置为自动打开或从工具栏或设置手动使用。
+精通版本的效果是增强版的 1.5 倍。
+需要 12 个 Canvas 才能部署。</value>
+  </data>
+  <data name="Description_ParachuteHatchT3" xml:space="preserve">
+    <value>降落伞舱口展开降落伞以减缓船只在大气层内的下降速度。
+
+可以配置为自动打开或从工具栏或设置手动使用。
+精英版的效率是精通版的 1.5 倍。
+需要 18 个 Canvas 来部署。</value>
+  </data>
+  <data name="Description_PowerEfficiencyModuleT0" xml:space="preserve">
+    <value>电源模块在连接时可降低炼油厂或装配厂的功耗。
+修饰符： 0.125
+改性剂类型：添加剂
+每个模块的电源效率为 25%。
+（100% 为 4）</value>
+  </data>
+  <data name="Description_PowerEfficiencyModuleT1" xml:space="preserve">
+    <value>电源模块在连接时可降低炼油厂或装配厂的功耗。
+修饰符： 0.25
+改性剂类型：添加剂
+每个模块的电源效率为 50%。
+（200% 为 4）</value>
+  </data>
+  <data name="Description_PowerEfficiencyModuleT2" xml:space="preserve">
+    <value>电源模块在连接时可降低炼油厂或装配厂的功耗。
+修饰符： 0.375
+改性剂类型：添加剂
+每个模块的电源效率为 75%
+（300% 为 4）</value>
+  </data>
+  <data name="Description_PowerEfficiencyModuleT3" xml:space="preserve">
+    <value>电源模块在连接时可降低炼油厂或装配厂的功耗。
+修饰符：0.5
+改性剂类型：添加剂
+每个模块的电源效率为 100%。
+（400% 为 4）</value>
+  </data>
+  <data name="Description_PowerGeneratorT0" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+正常
+最大功率输出：5MW
+燃油容量：100000L</value>
+  </data>
+  <data name="Description_PowerGeneratorT1" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+比正常情况好 1.5 倍
+最大功率输出：7.5MW
+油量：150000L</value>
+  </data>
+  <data name="Description_PowerGeneratorT2" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+比增强型好 1.5 倍
+最大输出功率：11.25MW
+燃油容量：225000L</value>
+  </data>
+  <data name="Description_PowerGeneratorT3" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+比精通好 1.5 倍
+最大输出功率：16.88MW
+油容量：337000L</value>
+  </data>
+  <data name="Description_ProductivityModuleT0" xml:space="preserve">
+    <value>生产模块在连接时可提高炼油厂或装配厂的速度。
+修饰符： 0.125
+改性剂类型：添加剂
+每个模块的速度为 25%
+（100% 为 4）</value>
+  </data>
+  <data name="Description_ProductivityModuleT1" xml:space="preserve">
+    <value>生产模块在连接时可提高炼油厂或装配厂的速度。
+修饰符： 0.25
+改性剂类型：添加剂
+每个模块的生产率为 50%
+（200% 为 4）</value>
+  </data>
+  <data name="Description_ProductivityModuleT2" xml:space="preserve">
+    <value>生产模块在连接时可提高炼油厂或装配厂的速度。
+修饰符： 0.375
+改性剂类型：添加剂
+每个模块的生产率为 75%
+（300% 为 4）</value>
+  </data>
+  <data name="Description_ProductivityModuleT3" xml:space="preserve">
+    <value>生产模块在连接时可提高炼油厂或装配厂的速度。
+修饰符：0.5
+改性剂类型：添加剂
+每个模块的生产率 100%
+（400% 为 4）</value>
+  </data>
+  <data name="Description_QAssemblerT0" xml:space="preserve">
+    <value>装配工是能够生产工具和组件的高度先进的机器。
+需要铸锭和电力来生产组件。                                                                                                                                                                   
+2.4 倍装配速度。
+4.48MW基本用电量。
+比普通汇编器快 8 倍。
+成本是普通汇编程序的 8 倍。
+包括 28 个正常速度模块的成本。</value>
+  </data>
+  <data name="Description_QAssemblerT1" xml:space="preserve">
+    <value>装配工是能够生产工具和组件的高度先进的机器。
+需要铸锭和电力来生产组件。                                                                                                                                                                   
+3.6 倍装配速度。
+6.72MW基本用电量。
+比增强型汇编器快 8 倍。
+成本是增强型汇编程序的 8 倍。
+包括 28 个增强速度模块的成本。</value>
+  </data>
+  <data name="Description_QAssemblerT2" xml:space="preserve">
+    <value>装配工是能够生产工具和组件的高度先进的机器。
+需要铸锭和电力来生产组件。                                                                                                                                                                   
+5.4 倍装配速度。
+10.08MW基本用电量。
+比熟练的汇编程序快 8 倍。
+成本是熟练装配工的 8 倍。
+包括 28 个熟练速度模块的成本。</value>
+  </data>
+  <data name="Description_QAssemblerT3" xml:space="preserve">
+    <value>装配工是能够生产工具和组件的高度先进的机器。
+需要铸锭和电力来生产组件。                                                                                                                                                                   
+8 倍装配速度。
+15.12MW基本用电量。
+比精英装配工快 8 倍。
+成本是精英装配商的 8 倍。
+包括 28 个精英速度模块的成本。</value>
+  </data>
+  <data name="Description_QBatteryT0" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+正常量子
+最大输出功率：96MW
+最大功率输入：96MW 
+最大储存功率：24MWH</value>
+  </data>
+  <data name="Description_QBatteryT1" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比普通量子好 1.5 倍
+最大输出功率：144MW
+最大输入功率：144MW 
+最大存储功率：36MWH</value>
+  </data>
+  <data name="Description_QBatteryT2" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比增强型量子处理器好 1.5 倍
+最大输出功率：216MW
+最大功率输入：216MW 
+最大储存功率：54MWH</value>
+  </data>
+  <data name="Description_QBatteryT3" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比 Proficient Quantum 好 1.5 倍
+最大输出功率：324MW
+最大输入功率：324MW 
+最大存储功率：81.04MWH</value>
+  </data>
+  <data name="Description_QDarkEnergyGeneratorT0" xml:space="preserve">
+    <value>普通暗能量发生器
+
+暗物质每秒消耗量：304
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_QDarkEnergyGeneratorT1" xml:space="preserve">
+    <value>增强型暗能量发生器
+
+暗物质每秒消耗：456
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_QDarkEnergyGeneratorT2" xml:space="preserve">
+    <value>精通暗能量发生器
+
+暗物质每秒消耗量：684
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_QDarkEnergyGeneratorT3" xml:space="preserve">
+    <value>精英暗能量发生器
+
+每秒暗物质消耗：1,026
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_QDarkPowerGeneratorT0" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+正常
+最大功率输出：40MW
+燃油容量：800000L</value>
+  </data>
+  <data name="Description_QDarkPowerGeneratorT1" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+增强
+最大功率输出：60MW
+燃油容量：1200000L</value>
+  </data>
+  <data name="Description_QDarkPowerGeneratorT2" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+熟练
+最大功率输出：90MW
+油量：1800000L</value>
+  </data>
+  <data name="Description_QDarkPowerGeneratorT3" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+精英
+最大输出功率：135MW
+燃油容量：2700000L</value>
+  </data>
+  <data name="Description_QDP3SmallSolarPanelCornerT0" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.16MW最大功率输出。
+成本是普通太阳能电池板的 8 倍。
+重量是普通太阳能电池板的 8 倍
+发电量是普通太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SmallSolarPanelCornerT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.24MW最大功率输出。
+是增强型太阳能电池板成本的 8 倍。
+重量是增强型太阳能电池板的 8 倍
+发电量是增强型太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SmallSolarPanelCornerT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.36MW最大功率输出。
+成本是熟练太阳能电池板的 8 倍。
+重量是熟练太阳能电池板的 8 倍
+发电量是熟练太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SmallSolarPanelCornerT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.54MW最大功率输出。
+成本是精英太阳能电池板的 8 倍。
+重量是精英太阳能电池板的 8 倍
+发电量是精英太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SmallSolarPanelT0" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.32MW最大功率输出。
+成本是普通太阳能电池板的 8 倍。
+重量是普通太阳能电池板的 8 倍
+发电量是普通太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SmallSolarPanelT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.48MW最大功率输出。
+是增强型太阳能电池板成本的 8 倍。
+重量是增强型太阳能电池板的 8 倍
+发电量是增强型太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SmallSolarPanelT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.72MW最大功率输出。
+成本是熟练太阳能电池板的 8 倍。
+重量是熟练太阳能电池板的 8 倍
+发电量是熟练太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SmallSolarPanelT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+1.08MW最大功率输出。
+成本是精英太阳能电池板的 8 倍。
+重量是精英太阳能电池板的 8 倍
+发电量是精英太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SolarPanelCornerT0" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.64MW最大功率输出。
+成本是普通太阳能电池板的 8 倍。
+重量是普通太阳能电池板的 8 倍
+发电量是普通太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SolarPanelCornerT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.96MW最大功率输出。
+是增强型太阳能电池板成本的 8 倍。
+重量是增强型太阳能电池板的 8 倍
+发电量是增强型太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SolarPanelCornerT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+1.44MW最大功率输出。
+成本是熟练太阳能电池板的 8 倍。
+重量是熟练太阳能电池板的 8 倍
+发电量是熟练太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SolarPanelCornerT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+2.16MW最大功率输出。
+成本是精英太阳能电池板的 8 倍。
+重量是精英太阳能电池板的 8 倍
+发电量是精英太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SolarPanelT0" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+1.28MW最大功率输出。
+成本是普通太阳能电池板的 8 倍。
+重量是普通太阳能电池板的 8 倍
+发电量是普通太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SolarPanelT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+1.92MW最大功率输出。
+是增强型太阳能电池板成本的 8 倍。
+重量是增强型太阳能电池板的 8 倍
+发电量是增强型太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SolarPanelT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+2.88MW最大功率输出。
+成本是熟练太阳能电池板的 8 倍。
+重量是熟练太阳能电池板的 8 倍
+发电量是熟练太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QDP3SolarPanelT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+4.32MW最大功率输出。
+成本是精英太阳能电池板的 8 倍。
+重量是精英太阳能电池板的 8 倍
+发电量是精英太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QHRefineryT0" xml:space="preserve">
+    <value>5.12 倍优化速度。
+0.3375 倍效率。
+4.48MW基本用电量。
+比普通炼油厂快 8 倍。
+8 倍成本。
+包括 16 个正常产量模块、8 个速度模块和 8 个功率模块的成本。
+相当于8个普通炼油厂，每个炼油厂有2个产量、1个速度和1个功率模块。</value>
+  </data>
+  <data name="Description_QHRefineryT1" xml:space="preserve">
+    <value>6.64 倍优化速度。
+0.5625 倍效率。
+6.72MW基本用电量。
+比增强型炼油厂快 8 倍。
+8 倍成本。
+包括 16 个增强良率模块、8 个速度模块和 8 个功率模块的成本。
+相当于 8 个增强型炼油厂，每个炼油厂有 2 个产量、1 个速度和 1 个功率模块。</value>
+  </data>
+  <data name="Description_QHRefineryT2" xml:space="preserve">
+    <value>12.96 倍优化速度。
+0.92125 倍效率。
+10.08MW用电量。
+比 Proficent 炼油厂快 8 倍。
+8 倍成本。
+包括 16 个良率模块、8 个速度模块和 8 个功率模块的成本。
+相当于 8 家精炼厂，每家炼油厂有 2 个产量、1 个速度和 1 个功率模块。</value>
+  </data>
+  <data name="Description_QHRefineryT3" xml:space="preserve">
+    <value>18.4 倍优化速度。
+效率 1.5 倍。
+15.12MW用电量。
+比 Elite Refinery 快 8 倍。
+8 倍成本。
+包括 16 个精英良率模块、8 个速度模块和 8 个电源模块的成本。
+相当于8家精英炼油厂，每家有2个产量、1个速度和1个功率模块。</value>
+  </data>
+  <data name="Description_QHydrogenTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+容量：120,000,000L</value>
+  </data>
+  <data name="Description_QHydrogenTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比正常情况好 1.5 倍
+容量：180,000,000L</value>
+  </data>
+  <data name="Description_QHydrogenTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量：270,000,000L</value>
+  </data>
+  <data name="Description_QHydrogenTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量：405,000,000L</value>
+  </data>
+  <data name="Description_QJumpDriveT0" xml:space="preserve">
+    <value>普通量子技术。
+允许 FTL 跳转。
+最大跳跃距离：4,744KM。
+最大跳跃质量：10,000,000KG</value>
+  </data>
+  <data name="Description_QJumpDriveT1" xml:space="preserve">
+    <value>增强的量子技术。
+比正常情况好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：7,112KM。
+最大跳跃质量：15,000,000KG</value>
+  </data>
+  <data name="Description_QJumpDriveT2" xml:space="preserve">
+    <value>精通量子技术。
+比增强型好 1.5 倍 
+允许 FTL 跳转。
+最大跳跃距离：10,664KM。
+最大跳跃质量：22,500,000KG</value>
+  </data>
+  <data name="Description_QJumpDriveT3" xml:space="preserve">
+    <value>Elite Quantum 技术。
+比精通好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：16,000KM。
+最大跳跃质量：33,750,000KG</value>
+  </data>
+  <data name="Description_QOxygenGeneratorT0" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+每秒耗冰量：200
+
+冰氧比：10L
+
+冰氢比：20L</value>
+  </data>
+  <data name="Description_QOxygenGeneratorT1" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+比普通量子快 1.5 倍，效率高 1.5 倍。
+
+每秒耗冰量：304
+
+冰氧比：15L
+
+冰氢比：30L</value>
+  </data>
+  <data name="Description_QOxygenGeneratorT2" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+速度比增强型量子快 1.5 倍，效率高 1.5 倍。
+
+每秒耗冰量：456
+
+冰氧比：23L
+
+冰氢比：45L</value>
+  </data>
+  <data name="Description_QOxygenGeneratorT3" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+速度比 Proficient Quantum 快 1.5 倍，效率高 1.5 倍。
+
+每秒耗冰量：688
+
+冰氧比：35L
+
+冰氢比：68L</value>
+  </data>
+  <data name="Description_QPowerGeneratorT0" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+正常
+最大功率输出：40MW
+燃油容量：800000L</value>
+  </data>
+  <data name="Description_QPowerGeneratorT1" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+增强
+最大功率输出：60MW
+燃油容量：1200000L</value>
+  </data>
+  <data name="Description_QPowerGeneratorT2" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+熟练
+最大功率输出：90MW
+油量：1800000L</value>
+  </data>
+  <data name="Description_QPowerGeneratorT3" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+精英
+最大输出功率：135MW
+燃油容量：2700000L</value>
+  </data>
+  <data name="Description_QSmallLargeJumpDriveT0" xml:space="preserve">
+    <value>普通量子技术。
+允许 FTL 跳转。
+最大跳跃距离：526.744KM。
+最大跳跃质量：329,224KG
+其中 9 个大致相当于 1 个大型版的 Quantum 跳跃驱动器。</value>
+  </data>
+  <data name="Description_QSmallLargeJumpDriveT1" xml:space="preserve">
+    <value>增强的量子技术。
+比正常情况好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：790.12公里。
+最大跳跃质量：493,832KG
+其中 9 个大致相当于 1 个大型版的 Quantum 跳跃驱动器。</value>
+  </data>
+  <data name="Description_QSmallLargeJumpDriveT2" xml:space="preserve">
+    <value>精通量子技术。
+比增强型好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：1,185.184KM。
+最大跳跃质量：740,744KG
+其中 9 个大致相当于 1 个大型版的 Quantum 跳跃驱动器。</value>
+  </data>
+  <data name="Description_QSmallLargeJumpDriveT3" xml:space="preserve">
+    <value>Elite Quantum 技术。
+比精通好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：1,777.78KM。
+最大跳跃质量：1,111,112KG
+其中 9 个大致相当于 1 个大型版的 Quantum 跳跃驱动器。</value>
+  </data>
+  <data name="Description_QSmallSolarPanelT0" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.32MW最大功率输出。
+成本是普通太阳能电池板的 8 倍。
+重量是普通太阳能电池板的 8 倍
+发电量是普通太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QSmallSolarPanelT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.48MW最大功率输出。
+是增强型太阳能电池板成本的 8 倍。
+重量是增强型太阳能电池板的 8 倍
+发电量是增强型太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QSmallSolarPanelT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.72MW最大功率输出。
+成本是熟练太阳能电池板的 8 倍。
+重量是熟练太阳能电池板的 8 倍
+发电量是熟练太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QSmallSolarPanelT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+1.08MW最大功率输出。
+成本是精英太阳能电池板的 8 倍。
+重量是精英太阳能电池板的 8 倍
+发电量是精英太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QSolarPanelT0" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+1.28MW最大功率输出。
+成本是普通太阳能电池板的 8 倍。
+重量是普通太阳能电池板的 8 倍
+发电量是普通太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QSolarPanelT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+1.92MW最大功率输出。
+是增强型太阳能电池板成本的 8 倍。
+重量是增强型太阳能电池板的 8 倍
+发电量是增强型太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QSolarPanelT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+2.88MW最大功率输出。
+成本是熟练太阳能电池板的 8 倍。
+重量是熟练太阳能电池板的 8 倍
+发电量是熟练太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QSolarPanelT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+4.32MW最大功率输出。
+成本是精英太阳能电池板的 8 倍。
+重量是精英太阳能电池板的 8 倍
+发电量是精英太阳能电池板的 8 倍</value>
+  </data>
+  <data name="Description_QSRefineryT0" xml:space="preserve">
+    <value>11.12 倍优化速度。
+效率 0.30 倍。
+8.96MW基本用电量。
+比普通炼油厂快 8 倍。
+8 倍成本。
+包括 32 个正常速度模块的成本。
+相当于 8 个普通炼油厂，每个炼油厂有 4 个速度模块。</value>
+  </data>
+  <data name="Description_QSRefineryT1" xml:space="preserve">
+    <value>20.64 倍优化速度。
+效率 0.45 倍。
+20.16MW基本用电量。
+比增强型炼油厂快 8 倍。
+8 倍成本。
+包括 32 个增强速度模块的成本。
+相当于 8 个增强型炼油厂，每个炼油厂有 4 个速度模块。</value>
+  </data>
+  <data name="Description_QSRefineryT2" xml:space="preserve">
+    <value>30.96 倍优化速度。
+效率 0.67 倍。
+用电量40.32MW。
+比 Proficent 炼油厂快 8 倍。
+8 倍成本。
+包括 32 个熟练速度模块的成本及其功率成本和速度修正器。
+相当于 8 家精炼厂，每家炼油厂有 4 个速度模块。</value>
+  </data>
+  <data name="Description_QSRefineryT3" xml:space="preserve">
+    <value>42.4 倍优化速度。
+1 倍效率。
+用电量75.6MW。
+比 Elite Refinery 快 8 倍。
+8 倍成本。
+包括 32 个精英速度模块的成本及其功率成本和速度修改器。
+相当于 8 家精英炼油厂，每家有 4 个速度模块。</value>
+  </data>
+  <data name="Description_QWindTurbineT0" xml:space="preserve">
+    <value>量子风力涡轮机在暴露在空旷区域时会产生大量电力。仅适用于有大气层的行星。
+最大功率3.2MW。
+功率输出是普通风力涡轮机的 8 倍。
+成本是普通风力涡轮机成本的 8 倍。</value>
+  </data>
+  <data name="Description_QWindTurbineT1" xml:space="preserve">
+    <value>量子风力涡轮机在暴露在空旷区域时会产生大量电力。仅适用于有大气层的行星。
+4.8MW最大功率。
+功率输出是增强型风力涡轮机的 8 倍。
+8 倍于增强型风力涡轮机的成本。</value>
+  </data>
+  <data name="Description_QWindTurbineT2" xml:space="preserve">
+    <value>量子风力涡轮机在暴露在空旷区域时会产生大量电力。仅适用于有大气层的行星。
+7.2MW最大功率。
+功率输出是熟练风力涡轮机的 8 倍。
+熟练风力涡轮机成本的 8 倍。</value>
+  </data>
+  <data name="Description_QWindTurbineT3" xml:space="preserve">
+    <value>量子风力涡轮机在暴露在空旷区域时会产生大量电力。仅适用于有大气层的行星。
+最大功率10.8MW。
+功率输出是精英风力涡轮机的 8 倍。
+精英风力涡轮机成本的 8 倍。</value>
+  </data>
+  <data name="Description_QYRefineryT0" xml:space="preserve">
+    <value>3.12 倍优化速度。
+效率为 0.375 倍。
+4.48MW基本用电量。
+比普通炼油厂快 8 倍。
+8 倍成本。
+包括 32 个正常产量模块的成本。
+相当于 8 个普通炼油厂，每个炼油厂有 4 个产量模块。</value>
+  </data>
+  <data name="Description_QYRefineryT1" xml:space="preserve">
+    <value>4.64 倍优化速度。
+效率 0.675 倍。
+6.72MW基本用电量。
+比增强型炼油厂快 8 倍。
+8 倍成本。
+包括 32 个增强良率模块的成本。
+相当于 8 个增强型炼油厂，每个炼油厂有 4 个产量模块。</value>
+  </data>
+  <data name="Description_QYRefineryT2" xml:space="preserve">
+    <value>6.96 倍优化速度。
+效率 1.1725 倍。
+10.08MW基本用电量。
+比 Proficent 炼油厂快 8 倍。
+8 倍成本。
+包括 32 个熟练良率模块的成本。
+相当于 8 个熟练的炼油厂，每个炼油厂有 4 个产量模块。</value>
+  </data>
+  <data name="Description_QYRefineryT3" xml:space="preserve">
+    <value>10.4 倍优化速度。
+效率提高 2 倍。
+15.12MW用电量。
+比 Elite Refinery 快 8 倍。
+8 倍成本。
+包括 32 个精英良率模块的成本。
+相当于 8 家精英炼油厂，每家有 4 个产量模块。</value>
+  </data>
+  <data name="Description_RailgunT0" xml:space="preserve">
+    <value>高射程，最大穿透力，极低射速。每次拍摄前都需要充电。使用普通的大型轨道炮弹头。
+
+最大射程：5000米</value>
+  </data>
+  <data name="Description_RailgunT1" xml:space="preserve">
+    <value>高射程，最大穿透力，极低射速。每次拍摄前都需要充电。使用贫铀大型轨道炮弹头。
+
+最大射程：5000米</value>
+  </data>
+  <data name="Description_RailgunT2" xml:space="preserve">
+    <value>高射程，最大穿透力，极低射速。每次拍摄前都需要充电。使用耗尽的暗能量大型轨道炮弹。
+
+最大射程：5000米</value>
+  </data>
+  <data name="Description_RailgunT3" xml:space="preserve">
+    <value>高射程，最大穿透力，极低射速。每次拍摄前都需要充电。使用耗尽的钳钵大型轨道炮弹头。
+
+最大射程：5000米</value>
+  </data>
+  <data name="Description_RefineryBasicT0" xml:space="preserve">
+    <value>基础炼油厂将有限类型的矿石精炼成锭。 
+0.26 倍优化速度。
+效率 0.20 倍。
+0.38MW基本用电量。</value>
+  </data>
+  <data name="Description_RefineryT0" xml:space="preserve">
+    <value>先进的炼油厂将所有矿石提炼成锭。
+它们可以通过升级模块进行升级。 
+0.39 倍优化速度。
+效率 0.30 倍。
+0.56MW基本用电量。
+比基本炼油厂效率高 1.5 倍，速度快。</value>
+  </data>
+  <data name="Description_RefineryT1" xml:space="preserve">
+    <value>先进的炼油厂将所有矿石提炼成锭。
+它们可以通过升级模块进行升级。
+0.58 倍精炼速度。
+效率 0.45 倍。
+0.84MW基本用电量。
+比普通炼油厂效率高 1.5 倍，速度更快。</value>
+  </data>
+  <data name="Description_RefineryT2" xml:space="preserve">
+    <value>先进的炼油厂将所有矿石提炼成锭。
+它们可以通过升级模块进行升级。 
+0.87 倍精炼速度。
+效率 0.67 倍。
+1.26MW基本用电量。
+比增强型炼油厂效率高 1.5 倍，速度更快。</value>
+  </data>
+  <data name="Description_RefineryT3" xml:space="preserve">
+    <value>先进的炼油厂将所有矿石提炼成锭。
+它们可以通过升级模块进行升级。
+1.3 倍优化速度。
+1 倍效率。
+1.89MW基本用电量。
+比熟练的炼油厂效率高 1.5 倍，速度更快。</value>
+  </data>
+  <data name="Description_RocketLauncherReloadT0" xml:space="preserve">
+    <value>火箭发射器的高级版本，能够使用输送系统自动重新装填。使用普通火箭。
+最大射程：2500米</value>
+  </data>
+  <data name="Description_RocketLauncherReloadT1" xml:space="preserve">
+    <value>火箭发射器的高级版本，能够使用输送系统自动重新装填。使用贫铀火箭。
+
+最大射程：2500米
+
+装填速度比平时快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_RocketLauncherReloadT2" xml:space="preserve">
+    <value>火箭发射器的高级版本，能够使用输送系统自动重新装填。使用耗尽的暗能量火箭。
+
+最大射程：2500米
+
+与增强型相比，装填速度提高 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_RocketLauncherReloadT3" xml:space="preserve">
+    <value>火箭发射器的高级版本，能够使用输送系统自动重新装填。使用耗尽的钚火箭。
+
+最大射程：2500米
+
+装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_RocketLauncherT0" xml:space="preserve">
+    <value>慢速射击，爆炸性伤害处理，必须手动装载的火箭发射器。使用火箭。
+最大射程：2500米</value>
+  </data>
+  <data name="Description_RocketLauncherT1" xml:space="preserve">
+    <value>慢速射击，爆炸性伤害处理，必须手动装载的火箭发射器。使用贫铀火箭。
+最大射程：2500米 装填速度比正常速度快 1.5 倍，伤害高 1.5 倍</value>
+  </data>
+  <data name="Description_RocketLauncherT2" xml:space="preserve">
+    <value>慢速射击，爆炸性伤害处理，必须手动装载的火箭发射器。使用耗尽的暗能量火箭。
+最大射程：2500米 装填速度比增强型快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_RocketLauncherT3" xml:space="preserve">
+    <value>慢速射击，爆炸性伤害处理，必须手动装载的火箭发射器。使用耗尽的钚火箭。
+最大射程：2500米 装填速度比熟练者快 1.5 倍，造成伤害 1.5 倍</value>
+  </data>
+  <data name="Description_SafeZoneT0" xml:space="preserve">
+    <value>在自身周围投射安全区。安全区可用于保护您的资产。
+
+芯片维护：每 60 分钟 1 次
+
+激活时间：120秒
+
+最大功耗：89MW
+
+最小功耗：14.81KW</value>
+  </data>
+  <data name="Description_SafeZoneT1" xml:space="preserve">
+    <value>在自身周围投射安全区。安全区可用于保护您的资产。
+
+使用的功率是正常安全区的 1.5 倍
+
+芯片维护：每 90 分钟 1 次
+
+激活时间：80秒
+
+最大功率消耗：133MW
+
+最小功耗：22.22KW</value>
+  </data>
+  <data name="Description_SafeZoneT2" xml:space="preserve">
+    <value>在自身周围投射安全区。安全区可用于保护您的资产。
+
+使用的功率是增强型安全区的 1.5 倍
+
+芯片维护：每 135 分钟 1 次
+
+激活时间：53秒
+
+最大功耗：200MW
+
+最小功耗：33.33KW</value>
+  </data>
+  <data name="Description_SafeZoneT3" xml:space="preserve">
+    <value>在自身周围投射安全区。安全区可用于保护您的资产。
+
+使用的功率是熟练安全区的 1.5 倍
+
+芯片维护：每 203 分钟 1 次
+
+激活时间：35秒
+
+最大功耗：300MW
+
+最小功耗：50KW</value>
+  </data>
+  <data name="Description_Searchlight" xml:space="preserve">
+    <value>探照灯是铰接式聚光灯，可以瞄准附近的网格，并可用作相机。</value>
+  </data>
+  <data name="Description_Searchlight1" xml:space="preserve">
+    <value>探照灯是铰接式聚光灯，可以瞄准附近的网格，并可用作相机。</value>
+  </data>
+  <data name="Description_Searchlight2" xml:space="preserve">
+    <value>探照灯是铰接式聚光灯，可以瞄准附近的网格，并可用作相机。</value>
+  </data>
+  <data name="Description_Searchlight3" xml:space="preserve">
+    <value>探照灯是铰接式聚光灯，可以瞄准附近的网格，并可用作相机。</value>
+  </data>
+  <data name="Description_SensorT0" xml:space="preserve">
+    <value>普通传感器。
+50M范围。</value>
+  </data>
+  <data name="Description_SensorT1" xml:space="preserve">
+    <value>增强型传感器。
+75M范围。
+冰雹叮当。</value>
+  </data>
+  <data name="Description_SensorT2" xml:space="preserve">
+    <value>熟练的传感器。
+112M范围。
+冰雹叮当。</value>
+  </data>
+  <data name="Description_SensorT3" xml:space="preserve">
+    <value>精英传感器。
+168M范围。
+冰雹叮当。</value>
+  </data>
+  <data name="Description_SmallBatteryT0" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+正常
+最大功率输出：4MW
+最大功率输入：4MW 
+最大存储功率：1MWH</value>
+  </data>
+  <data name="Description_SmallBatteryT1" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比正常情况好 1.5 倍
+最大功率输出：6MW
+最大功率输入：6MW 
+最大存储功率：1.5MWH</value>
+  </data>
+  <data name="Description_SmallBatteryT2" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比增强型好 1.5 倍
+最大输出功率：9MW
+最大功率输入：9MW 
+最大存储功率：2.25MWH</value>
+  </data>
+  <data name="Description_SmallBatteryT3" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比精通好 1.5 倍
+最大功率输出：13.5MW
+最大功率输入：13.5MW 
+最大储存功率：3.38MWH</value>
+  </data>
+  <data name="Description_SmallCargoContainerT1" xml:space="preserve">
+    <value>小型货物集装箱可用于存放物品。
+比正常情况好 1.5 倍
+23,437.50L 1x</value>
+  </data>
+  <data name="Description_SmallCargoContainerT2" xml:space="preserve">
+    <value>小型货物集装箱可用于存放物品。
+比增强型好 1.5 倍
+35,156.25L 在 1x 上</value>
+  </data>
+  <data name="Description_SmallCargoContainerT3" xml:space="preserve">
+    <value>小型货物集装箱可用于存放物品。
+比精通好 1.5 倍
+52,734.38L 在 1x</value>
+  </data>
+  <data name="Description_SmallDarkEnergyGeneratorT0" xml:space="preserve">
+    <value>暗能量发生器从暗物质中产生暗能量
+使用暗能量罐进行储存。
+
+暗物质每秒消耗量：38
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallDarkEnergyGeneratorT1" xml:space="preserve">
+    <value>暗能量发生器从暗物质中产生暗能量
+使用暗能量罐进行储存。
+
+速度比平时快 1.5 倍，效率高 1.5 倍。
+
+暗物质每秒消耗量：12
+
+暗物质与暗能量的比例：45L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallDarkEnergyGeneratorT2" xml:space="preserve">
+    <value>暗能量发生器从暗物质中产生暗能量
+使用暗能量罐进行储存。
+
+速度比增强型快 1.5 倍，效率高 1.5 倍。
+
+暗物质每秒消耗量：18
+
+暗物质与暗能量的比例：68L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallDarkEnergyGeneratorT3" xml:space="preserve">
+    <value>暗能量发生器从暗物质中产生暗能量
+使用暗能量罐进行储存。
+
+比精通快 1.5 倍，效率高 1.5 倍。
+
+暗物质每秒消耗量：27
+
+暗物质与暗能量比：102L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallDarkEnergyTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+正常容量和成本
+容量：500,000L</value>
+  </data>
+  <data name="Description_SmallDarkEnergyTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比正常情况好 1.5 倍
+容量：750,000L</value>
+  </data>
+  <data name="Description_SmallDarkEnergyTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量： 1,125,000L</value>
+  </data>
+  <data name="Description_SmallDarkEnergyTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量：1,687,500L</value>
+  </data>
+  <data name="Description_SmallDarkPowerGeneratorT0" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 22 倍。
+正常
+最大功率输出：0.5MW
+燃油容量：5000L</value>
+  </data>
+  <data name="Description_SmallDarkPowerGeneratorT1" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 1.5 倍。
+1.5 比正常情况好
+最大输出功率：0.75MW
+油量：75000L</value>
+  </data>
+  <data name="Description_SmallDarkPowerGeneratorT2" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 1.5 倍。
+1.5 优于增强型
+最大输出功率：1.13MW
+油量：11250L</value>
+  </data>
+  <data name="Description_SmallDarkPowerGeneratorT3" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 1.5 倍。
+1.5 优于精通
+最大输出功率：1.69MW
+燃油容量：16875L</value>
+  </data>
+  <data name="Description_SmallHydrogenTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+正常容量和成本
+容量：500,000L</value>
+  </data>
+  <data name="Description_SmallHydrogenTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比正常情况好 1.5 倍
+容量：750,000L</value>
+  </data>
+  <data name="Description_SmallHydrogenTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量： 1,125,000L</value>
+  </data>
+  <data name="Description_SmallHydrogenTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量：1,687,500L</value>
+  </data>
+  <data name="Description_SmallJumpDriveT0" xml:space="preserve">
+    <value>跳跃驱动器允许飞船远距离传送。
+它们需要充满电才能跳跃，并且只能从驾驶舱的工具栏激活。 
+允许 FTL 跳转。
+最大跳跃范围：59KM。
+最大跳跃质量：125,000KG</value>
+  </data>
+  <data name="Description_SmallJumpDriveT1" xml:space="preserve">
+    <value>跳跃驱动器允许飞船远距离传送。
+它们需要充满电才能跳跃，并且只能从驾驶舱的工具栏激活。
+比正常情况好 1.5 倍
+允许 FTL 跳转。
+最大跳跃范围：89KM。
+最大跳跃质量：187,500KG</value>
+  </data>
+  <data name="Description_SmallJumpDriveT2" xml:space="preserve">
+    <value>跳跃驱动器允许飞船远距离传送。
+它们需要充满电才能跳跃，并且只能从驾驶舱的工具栏激活。
+比增强型好 1.5 倍
+允许 FTL 跳转。
+最大跳跃范围：133KM。
+最大跳跃质量：281,250KG</value>
+  </data>
+  <data name="Description_SmallJumpDriveT3" xml:space="preserve">
+    <value>跳跃驱动器允许飞船远距离传送。
+它们需要充满电才能跳跃，并且只能从驾驶舱的工具栏激活。 
+允许 FTL 跳转。
+最大跳跃范围：200KM。
+最大跳跃质量：421,875KG</value>
+  </data>
+  <data name="Description_SmallLargeCargoContainerT1" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+比正常情况好 1.5 倍
+23,437.50L 1x</value>
+  </data>
+  <data name="Description_SmallLargeCargoContainerT2" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+比增强型好 1.5 倍
+35,156.25L 在 1x 上</value>
+  </data>
+  <data name="Description_SmallLargeCargoContainerT3" xml:space="preserve">
+    <value>大型货物集装箱可用于存储大量物品。
+比精通好 1.5 倍
+52,734.38L 在 1x</value>
+  </data>
+  <data name="Description_SmallLargeClangiumQReactorT0" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+最大输出功率：118MW</value>
+  </data>
+  <data name="Description_SmallLargeClangiumQReactorT1" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：177MW</value>
+  </data>
+  <data name="Description_SmallLargeClangiumQReactorT2" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：265.5MW</value>
+  </data>
+  <data name="Description_SmallLargeClangiumQReactorT3" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比精通好 1.5 倍。
+最大输出功率：398.25MW</value>
+  </data>
+  <data name="Description_SmallLargeClangiumReactorT0" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+最大输出功率：14.75MW</value>
+  </data>
+  <data name="Description_SmallLargeClangiumReactorT1" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：22MW</value>
+  </data>
+  <data name="Description_SmallLargeClangiumReactorT2" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：33MW</value>
+  </data>
+  <data name="Description_SmallLargeClangiumReactorT3" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比精通好 1.5 倍。
+最大功率输出：50MW</value>
+  </data>
+  <data name="Description_SmallLargeDarkEnergyReactorT0" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+最大输出功率：14.75MW</value>
+  </data>
+  <data name="Description_SmallLargeDarkEnergyReactorT1" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：22MW</value>
+  </data>
+  <data name="Description_SmallLargeDarkEnergyReactorT2" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：33MW</value>
+  </data>
+  <data name="Description_SmallLargeDarkEnergyReactorT3" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比精通好 1.5 倍。
+最大功率输出：50MW</value>
+  </data>
+  <data name="Description_SmallLargeDarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+正常容量和成本
+容量：500,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallLargeDarkEnergyTankT1" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+提高产能和成本
+容量：750,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallLargeDarkEnergyTankT2" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+熟练的容量和成本
+容量： 1,125,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallLargeDarkEnergyTankT3" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+精英容量和成本
+容量：1,687,500L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallLargeJumpDriveT0" xml:space="preserve">
+    <value>普通技术。
+允许 FTL 跳转。
+最大跳跃距离：65.843KM。
+最大跳跃质量：41,153KG
+其中 9 个大致等于 1 个大型版的跳跃驱动器。</value>
+  </data>
+  <data name="Description_SmallLargeJumpDriveT1" xml:space="preserve">
+    <value>增强的技术。
+比正常情况好 1.5 倍
+允许 FTL 跳转。
+最大跳跃范围：98.765KM。
+最大跳跃质量：61,729KG
+其中 9 个大致等于 1 个大型版的跳跃驱动器。</value>
+  </data>
+  <data name="Description_SmallLargeJumpDriveT2" xml:space="preserve">
+    <value>熟练的技术。
+比增强型好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：148.148KM。
+最大跳跃质量：92,593KG
+其中 9 个大致等于 1 个大型版的跳跃驱动器。</value>
+  </data>
+  <data name="Description_SmallLargeJumpDriveT3" xml:space="preserve">
+    <value>精英技术。
+比精通好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：222.222KM。
+最大跳跃质量：138,889KG
+其中 9 个大致等于 1 个大型版的跳跃驱动器。</value>
+  </data>
+  <data name="Description_SmallLargeQCargoContainerT0" xml:space="preserve">
+    <value>大型量子货物集装箱可用于存储大量物品。
+正常库存大小
+125,000L 1x</value>
+  </data>
+  <data name="Description_SmallLargeQCargoContainerT1" xml:space="preserve">
+    <value>大型量子货物集装箱可用于存储大量物品。
+比普通量子好 1.5 倍
+187,500L 1x</value>
+  </data>
+  <data name="Description_SmallLargeQCargoContainerT2" xml:space="preserve">
+    <value>大型量子货物集装箱可用于存储大量物品。
+比增强型量子处理器好 1.5 倍
+281,249.98L 在 1x</value>
+  </data>
+  <data name="Description_SmallLargeQCargoContainerT3" xml:space="preserve">
+    <value>大型量子货物集装箱可用于存储大量物品。
+比 Proficient Quantum 好 1.5 倍
+421,875.01L 在 1x 上</value>
+  </data>
+  <data name="Description_SmallLargeQDarkEnergyReactorT0" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+最大输出功率：118MW</value>
+  </data>
+  <data name="Description_SmallLargeQDarkEnergyReactorT1" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：177MW</value>
+  </data>
+  <data name="Description_SmallLargeQDarkEnergyReactorT2" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：265.5MW</value>
+  </data>
+  <data name="Description_SmallLargeQDarkEnergyReactorT3" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大输出功率：398.25MW</value>
+  </data>
+  <data name="Description_SmallLargeQDarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+正常容量和成本
+容量：4,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallLargeQDarkEnergyTankT1" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比正常情况好 1.5 倍。重量高达 8 倍的增强型非量子氢气罐。
+容量：6,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallLargeQDarkEnergyTankT2" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比增强型好 1.5 倍。重量高达 8 倍熟练的非量子氢气罐。
+容量： 9,000,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallLargeQDarkEnergyTankT3" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比精通好 1.5 倍。重量高达 8 倍 Elite 非量子氢气罐。
+容量：13,500,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallLargeQReactorT0" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+最大输出功率：118MW</value>
+  </data>
+  <data name="Description_SmallLargeQReactorT1" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：177MW</value>
+  </data>
+  <data name="Description_SmallLargeQReactorT2" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：265.5MW</value>
+  </data>
+  <data name="Description_SmallLargeQReactorT3" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大输出功率：398.25MW</value>
+  </data>
+  <data name="Description_SmallLargeReactorT0" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+最大输出功率：14.75MW</value>
+  </data>
+  <data name="Description_SmallLargeReactorT1" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：22MW</value>
+  </data>
+  <data name="Description_SmallLargeReactorT2" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：33MW</value>
+  </data>
+  <data name="Description_SmallLargeReactorT3" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大功率输出：50MW</value>
+  </data>
+  <data name="Description_SmallOreDetectorT0" xml:space="preserve">
+    <value>矿石探测器检测有限半径内的矿石，并使其显示在您的 HUD 上。
+最大范围：50M</value>
+  </data>
+  <data name="Description_SmallOreDetectorT1" xml:space="preserve">
+    <value>矿石探测器检测有限半径内的矿石，并使其显示在您的 HUD 上。
+最大射程：75M</value>
+  </data>
+  <data name="Description_SmallOreDetectorT2" xml:space="preserve">
+    <value>矿石探测器检测有限半径内的矿石，并使其显示在您的 HUD 上。
+最大射程：112M</value>
+  </data>
+  <data name="Description_SmallOreDetectorT3" xml:space="preserve">
+    <value>矿石探测器检测有限半径内的矿石，并使其显示在您的 HUD 上。
+最大射程：168M</value>
+  </data>
+  <data name="Description_SmallOxygenGeneratorT0" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+每秒冰消耗量：5
+
+冰氧比：10L
+
+冰氢比：20L</value>
+  </data>
+  <data name="Description_SmallOxygenGeneratorT1" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+速度比平时快 1.5 倍，效率高 1.5 倍。
+
+每秒冰消耗量：8
+
+冰氧比：15L
+
+冰氢比：30L</value>
+  </data>
+  <data name="Description_SmallOxygenGeneratorT2" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+速度比增强型快 1.5 倍，效率高 1.5 倍。
+
+每秒冰消耗量：12
+
+冰氧比：23L
+
+冰氢比：45L</value>
+  </data>
+  <data name="Description_SmallOxygenGeneratorT3" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+比精通快 1.5 倍，效率高 1.5 倍。
+
+每秒耗冰量：18
+
+冰氧比：35L
+
+冰氢比：68L</value>
+  </data>
+  <data name="Description_SmallOxygenTankT0" xml:space="preserve">
+    <value>氧气罐储存氧气。
+能够储存和补充氧气瓶。
+使用 O2/H2 发生器生产氧气。
+容量：50000L。</value>
+  </data>
+  <data name="Description_SmallOxygenTankT1" xml:space="preserve">
+    <value>氧气罐储存氧气。
+能够储存和补充氧气瓶。
+使用 O2/H2 发生器生产氧气。
+比正常情况好 1.5 倍。 
+容量：75000L。</value>
+  </data>
+  <data name="Description_SmallOxygenTankT2" xml:space="preserve">
+    <value>氧气罐储存氧气。
+能够储存和补充氧气瓶。
+使用 O2/H2 发生器生产氧气。
+比增强型好 1.5 倍。 
+容量：112500L。</value>
+  </data>
+  <data name="Description_SmallOxygenTankT3" xml:space="preserve">
+    <value>氧气罐储存氧气。
+能够储存和补充氧气瓶。
+使用 O2/H2 发生器生产氧气。
+比精通好 1.5 倍。 
+容量：168750L。</value>
+  </data>
+  <data name="Description_SmallParachuteHatchT1" xml:space="preserve">
+    <value>降落伞舱口展开降落伞以减缓船只在大气层内的下降速度。
+
+可以配置为自动打开或从工具栏或设置手动使用。
+增强版的效果比正常版本高 1.5 倍。
+需要 2 个 Canvas 才能部署。</value>
+  </data>
+  <data name="Description_SmallParachuteHatchT2" xml:space="preserve">
+    <value>降落伞舱口展开降落伞以减缓船只在大气层内的下降速度。
+
+可以配置为自动打开或从工具栏或设置手动使用。
+精通版本的效果是增强版的 1.5 倍。
+需要 3 个 Canvas 才能部署。</value>
+  </data>
+  <data name="Description_SmallParachuteHatchT3" xml:space="preserve">
+    <value>降落伞舱口展开降落伞以减缓船只在大气层内的下降速度。
+
+可以配置为自动打开或从工具栏或设置手动使用。
+精英版的效率是精通版的 1.5 倍。
+需要 4 个 Canvas 来部署。</value>
+  </data>
+  <data name="Description_SmallPowerGeneratorT0" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+正常
+最大功率输出：0.5MW
+燃油容量：5000L</value>
+  </data>
+  <data name="Description_SmallPowerGeneratorT1" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+比正常情况好 1.5 倍
+最大输出功率：0.75MW
+油量：75000L</value>
+  </data>
+  <data name="Description_SmallPowerGeneratorT2" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+比增强型好 1.5 倍
+最大输出功率：1.13MW
+油量：11250L</value>
+  </data>
+  <data name="Description_SmallPowerGeneratorT3" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+比精通好 1.5 倍
+最大输出功率：1.69MW
+燃油容量：16875L</value>
+  </data>
+  <data name="Description_SmallQBatteryT0" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+正常
+最大输出功率：32MW
+最大输入功率：32MW 
+最大储存功率：8MWH</value>
+  </data>
+  <data name="Description_SmallQBatteryT1" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比正常情况好 1.5 倍
+最大功率输出：48MW
+最大功率输入：48MW 
+最大存储功率：12MWH</value>
+  </data>
+  <data name="Description_SmallQBatteryT2" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比增强型好 1.5 倍
+最大功率输出：72MW
+最大功率输入：72MW 
+最大存储功率：18MWH</value>
+  </data>
+  <data name="Description_SmallQBatteryT3" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比精通好 1.5 倍
+最大输出功率：108MW
+最大功率输入：108MW 
+最大储存功率：27.04MWH</value>
+  </data>
+  <data name="Description_SmallQCargoContainerT0" xml:space="preserve">
+    <value>小型量子货物集装箱可用于存储物品。
+正常库存大小
+125,000L 1x</value>
+  </data>
+  <data name="Description_SmallQCargoContainerT1" xml:space="preserve">
+    <value>小型量子货物集装箱可用于存储物品。
+比普通量子好 1.5 倍
+187,500L 1x</value>
+  </data>
+  <data name="Description_SmallQCargoContainerT2" xml:space="preserve">
+    <value>小型量子货物集装箱可用于存储物品。
+比增强型量子处理器好 1.5 倍
+281,249.98L 在 1x</value>
+  </data>
+  <data name="Description_SmallQCargoContainerT3" xml:space="preserve">
+    <value>小型量子货物集装箱可用于存储物品。
+比 Proficient Quantum 好 1.5 倍
+421,875.01L 在 1x 上</value>
+  </data>
+  <data name="Description_SmallQDarkEnergyGeneratorT0" xml:space="preserve">
+    <value>普通暗能量发生器
+
+每秒暗物质消耗：64
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallQDarkEnergyGeneratorT1" xml:space="preserve">
+    <value>增强型暗能量发生器
+
+暗物质每秒消耗量：96
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallQDarkEnergyGeneratorT2" xml:space="preserve">
+    <value>精通暗能量发生器
+
+暗物质每秒消耗量：144
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallQDarkEnergyGeneratorT3" xml:space="preserve">
+    <value>精英暗能量发生器
+
+暗物质每秒消耗量：216
+
+暗物质与暗能量的比例：30L
+
+暗物质发生器从暗物质中产生暗能量。仅在小行星、Energia 行星、Moon Eltaria、Planet Clangia 和 Moon Camrina 中发现。
+
+每矿产生的气体是同等级别的 O2/H2 发电机的 1.5 倍，它产生的能量每升的能量密度是 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallQDarkPowerGeneratorT0" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 22 倍。
+正常
+最大功率输出：4MW
+油量：40000L</value>
+  </data>
+  <data name="Description_SmallQDarkPowerGeneratorT1" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+增强
+最大功率输出：6MW
+油量：60000L</value>
+  </data>
+  <data name="Description_SmallQDarkPowerGeneratorT2" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+熟练
+最大输出功率：9MW
+油量：90000L</value>
+  </data>
+  <data name="Description_SmallQDarkPowerGeneratorT3" xml:space="preserve">
+    <value>暗能量引擎将暗能量转化为能量，并拥有自己的内部暗能量罐。暗能量发动机的效率是氢发动机的 2.25 倍。
+精英
+最大功率输出：13.5MW
+燃油容量：135000L</value>
+  </data>
+  <data name="Description_SmallQHydrogenTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+容量：4,000,000L</value>
+  </data>
+  <data name="Description_SmallQHydrogenTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比正常情况好 1.5 倍
+容量：6,000,000L</value>
+  </data>
+  <data name="Description_SmallQHydrogenTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量： 9,000,000L</value>
+  </data>
+  <data name="Description_SmallQHydrogenTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量：13,500,000L</value>
+  </data>
+  <data name="Description_SmallQJumpDriveT0" xml:space="preserve">
+    <value>普通量子技术。
+允许 FTL 跳转。
+最大跳跃范围：1,000,000KM。
+最大跳跃质量：125,000KG</value>
+  </data>
+  <data name="Description_SmallQJumpDriveT1" xml:space="preserve">
+    <value>增强的量子技术。
+比正常情况好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：712KM。
+最大跳跃质量：1,500,000KG</value>
+  </data>
+  <data name="Description_SmallQJumpDriveT2" xml:space="preserve">
+    <value>精通量子技术。
+比增强型好 1.5 倍
+允许 FTL 跳转。
+最大跳跃距离：1,064KM。
+最大跳跃质量：2,250,000KG</value>
+  </data>
+  <data name="Description_SmallQJumpDriveT3" xml:space="preserve">
+    <value>Elite Quantum 技术。
+允许 FTL 跳转。
+最大跳跃距离：1,600KM。
+最大跳跃质量：3,375,000KG</value>
+  </data>
+  <data name="Description_SmallQOxygenGeneratorT0" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+每秒冰消耗量：40
+
+冰氧比：10L
+
+冰氢比：20L</value>
+  </data>
+  <data name="Description_SmallQOxygenGeneratorT1" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+比普通量子快 1.5 倍，效率高 1.5 倍。
+
+每秒耗冰量：64
+
+冰氧比：15L
+
+冰氢比：30L</value>
+  </data>
+  <data name="Description_SmallQOxygenGeneratorT2" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+速度比增强型量子快 1.5 倍，效率高 1.5 倍。
+
+每秒耗冰量：96
+
+冰氧比：23L
+
+冰氢比：45L</value>
+  </data>
+  <data name="Description_SmallQOxygenGeneratorT3" xml:space="preserve">
+    <value>O2/H2 发生器从冰中产生氧气和氢气。
+使用氧气和氢气罐储存。将自动重新装满瓶子。
+
+速度比 Proficient Quantum 快 1.5 倍，效率高 1.5 倍。
+
+每秒耗冰量：144
+
+冰氧比：35L
+
+冰氢比：68L</value>
+  </data>
+  <data name="Description_SmallQPowerGeneratorT0" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+正常
+最大功率输出：4MW
+油量：40000L</value>
+  </data>
+  <data name="Description_SmallQPowerGeneratorT1" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+增强
+最大功率输出：6MW
+油量：60000L</value>
+  </data>
+  <data name="Description_SmallQPowerGeneratorT2" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+熟练
+最大输出功率：9MW
+油量：90000L</value>
+  </data>
+  <data name="Description_SmallQPowerGeneratorT3" xml:space="preserve">
+    <value>氢发动机将氢气转化为动力，并有自己的内部氢气罐。
+精英
+最大功率输出：13.5MW
+燃油容量：135000L</value>
+  </data>
+  <data name="Description_SmallRailgunT0" xml:space="preserve">
+    <value>高射程，最大穿透力，极低射速。每次拍摄前都需要充电。使用普通的小型轨道炮弹头。
+
+最大射程：3500米</value>
+  </data>
+  <data name="Description_SmallRailgunT1" xml:space="preserve">
+    <value>高射程，最大穿透力，极低射速。每次拍摄前都需要充电。使用贫铀小型轨道炮弹头。
+
+最大射程：3500米</value>
+  </data>
+  <data name="Description_SmallRailgunT2" xml:space="preserve">
+    <value>高射程，最大穿透力，极低射速。每次拍摄前都需要充电。使用耗尽的暗能量大型轨道炮弹。
+
+最大射程：3500米</value>
+  </data>
+  <data name="Description_SmallRailgunT3" xml:space="preserve">
+    <value>高射程，最大穿透力，极低射速。每次拍摄前都需要充电。使用耗尽的钳钵大型轨道炮弹头。
+
+最大射程：3500米</value>
+  </data>
+  <data name="Description_SmallSmallBatteryT0" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+正常
+最大功率输出：0.2MW
+最大输入功率：0.2MW 
+最大储存功率：0.05MWH</value>
+  </data>
+  <data name="Description_SmallSmallBatteryT1" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比正常情况好 1.5 倍
+最大功率输出：0.3MW
+最大功率输入：0.3MW 
+最大储存功率：0.08MWH</value>
+  </data>
+  <data name="Description_SmallSmallBatteryT2" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比增强型好 1.5 倍
+最大功率输出：0.45MW
+最大功率输入：0.45MW 
+最大储存功率：0.12MWH</value>
+  </data>
+  <data name="Description_SmallSmallBatteryT3" xml:space="preserve">
+    <value>电池储存电力并能够分配高输出的能量。
+比精通好 1.5 倍
+最大功率输出：0.68MW
+最大功率输入：0.68MW 
+最大储存功率：0.18MWH</value>
+  </data>
+  <data name="Description_SmallSmallCargoContainerT1" xml:space="preserve">
+    <value>小型货物集装箱可用于存放物品。
+比正常情况好 1.5 倍
+187.50L 1x</value>
+  </data>
+  <data name="Description_SmallSmallCargoContainerT2" xml:space="preserve">
+    <value>小型货物集装箱可用于存放物品。
+比增强型好 1.5 倍
+281.25L 1x</value>
+  </data>
+  <data name="Description_SmallSmallCargoContainerT3" xml:space="preserve">
+    <value>小型货物集装箱可用于存放物品。
+比精通好 1.5 倍
+52,734.38L 在 1x</value>
+  </data>
+  <data name="Description_SmallSmallClangiumQReactorT0" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+最大功率输出：4MW</value>
+  </data>
+  <data name="Description_SmallSmallClangiumQReactorT1" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比正常情况好 1.5 倍。
+最大功率输出：6MW</value>
+  </data>
+  <data name="Description_SmallSmallClangiumQReactorT2" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：9MW</value>
+  </data>
+  <data name="Description_SmallSmallClangiumQReactorT3" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比精通好 1.5 倍。
+最大功率输出：13.5MW</value>
+  </data>
+  <data name="Description_SmallSmallClangiumReactorT0" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+最大功率输出：0.5MW</value>
+  </data>
+  <data name="Description_SmallSmallClangiumReactorT1" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比正常情况好 1.5 倍。
+最大输出功率：0.75MW</value>
+  </data>
+  <data name="Description_SmallSmallClangiumReactorT2" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：1.13MW</value>
+  </data>
+  <data name="Description_SmallSmallClangiumReactorT3" xml:space="preserve">
+    <value>钚反应堆产生高功率，代价是精炼的钚锭。锆锭的效率是暗能量的 1.5 倍。比铀效率高 3.38 倍。Clangium极为罕见。仅在小行星和克兰吉亚行星上发现。
+比精通好 1.5 倍。
+最大输出功率：1.69MW</value>
+  </data>
+  <data name="Description_SmallSmallDarkEnergyReactorT0" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+最大功率输出：0.5MW</value>
+  </data>
+  <data name="Description_SmallSmallDarkEnergyReactorT1" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比正常情况好 1.5 倍。
+最大输出功率：0.75MW</value>
+  </data>
+  <data name="Description_SmallSmallDarkEnergyReactorT2" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比增强型好 1.5 倍。
+最大输出功率：1.13MW</value>
+  </data>
+  <data name="Description_SmallSmallDarkEnergyReactorT3" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是暗能量的 1.5 倍。效率是铀的 2.25 倍。暗能量极为罕见。仅在小行星、Energia 行星和 Clangia 行星上发现。
+比精通好 1.5 倍。
+最大输出功率：1.69MW</value>
+  </data>
+  <data name="Description_SmallSmallDarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+正常容量和成本
+容量：15,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallSmallDarkEnergyTankT1" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+提高产能和成本
+容量：22,500L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallSmallDarkEnergyTankT2" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+熟练的容量和成本
+容量：33,750L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallSmallDarkEnergyTankT3" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+精英容量和成本
+容量：50,625L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallSmallHydrogenTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+正常容量和成本
+容量：15,000L</value>
+  </data>
+  <data name="Description_SmallSmallHydrogenTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比正常情况好 1.5 倍
+容量：22,500L</value>
+  </data>
+  <data name="Description_SmallSmallHydrogenTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量：33,750L</value>
+  </data>
+  <data name="Description_SmallSmallHydrogenTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量：50,625L</value>
+  </data>
+  <data name="Description_SmallSmallQBatteryT0" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+正常
+最大功率输出：1.6MW
+最大输入功率：1.6MW 
+最大储存功率：0.4MWH</value>
+  </data>
+  <data name="Description_SmallSmallQBatteryT1" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比正常情况好 1.5 倍
+最大功率输出：2.4MW
+最大功率输入：2.4MW 
+最大储存功率：0.64MWH</value>
+  </data>
+  <data name="Description_SmallSmallQBatteryT2" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比增强型好 1.5 倍
+最大输出功率：3.6MW
+最大功率输入：3.6MW 
+最大储存功率：0.96MWH</value>
+  </data>
+  <data name="Description_SmallSmallQBatteryT3" xml:space="preserve">
+    <value>量子电池相当于 8 倍非量子对应电池。成本和重量是原来的 8 倍。
+比精通好 1.5 倍
+最大输出功率：5.44MW
+最大功率输入：5.44MW 
+最大储存功率：1.44MWH</value>
+  </data>
+  <data name="Description_SmallSmallQCargoContainerT0" xml:space="preserve">
+    <value>小型量子货物集装箱可用于存储物品。
+正常库存大小
+1000L 1x</value>
+  </data>
+  <data name="Description_SmallSmallQCargoContainerT1" xml:space="preserve">
+    <value>小型量子货物集装箱可用于存储物品。
+比普通量子好 1.5 倍
+1500L 1x</value>
+  </data>
+  <data name="Description_SmallSmallQCargoContainerT2" xml:space="preserve">
+    <value>小型量子货物集装箱可用于存储物品。
+比增强型量子处理器好 1.5 倍
+2250L 在 1x</value>
+  </data>
+  <data name="Description_SmallSmallQCargoContainerT3" xml:space="preserve">
+    <value>小型量子货物集装箱可用于存储物品。
+比 Proficient Quantum 好 1.5 倍
+421.88L 1x</value>
+  </data>
+  <data name="Description_SmallSmallQDarkEnergyReactorT0" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+最大功率输出：4MW</value>
+  </data>
+  <data name="Description_SmallSmallQDarkEnergyReactorT1" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：6MW</value>
+  </data>
+  <data name="Description_SmallSmallQDarkEnergyReactorT2" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：9MW</value>
+  </data>
+  <data name="Description_SmallSmallQDarkEnergyReactorT3" xml:space="preserve">
+    <value>暗能量反应堆产生大量能量，代价是精炼的暗能量锭。暗能量锭的效率是铀的 2.25 倍。暗物质极为罕见。仅在小行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大功率输出：13.5MW</value>
+  </data>
+  <data name="Description_SmallSmallQDarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+正常容量和成本
+容量：120,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallSmallQDarkEnergyTankT1" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比正常情况好 1.5 倍。重量高达 8 倍的增强型非量子氢气罐。
+容量：180,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallSmallQDarkEnergyTankT2" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比增强型好 1.5 倍。重量高达 8 倍熟练的非量子氢气罐。
+容量：270,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallSmallQDarkEnergyTankT3" xml:space="preserve">
+    <value>暗能量罐用于储存暗能量。
+比精通好 1.5 倍。重量高达 8 倍 Elite 非量子氢气罐。
+容量：405,000L
+暗能量每升的功率是氢气的 2.25 倍。</value>
+  </data>
+  <data name="Description_SmallSmallQHydrogenTankT0" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+容量：120,000L</value>
+  </data>
+  <data name="Description_SmallSmallQHydrogenTankT1" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比正常情况好 1.5 倍
+容量：180,000L</value>
+  </data>
+  <data name="Description_SmallSmallQHydrogenTankT2" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比增强型好 1.5 倍
+容量：270,000L</value>
+  </data>
+  <data name="Description_SmallSmallQHydrogenTankT3" xml:space="preserve">
+    <value>氢气罐用于储存氢燃料。
+氢气用于氢气推进器、发动机或喷气背包燃料。氢气可以在 O2/H2 发生器中由冰产生。可以储存和重新填充氢气瓶。
+比精通好 1.5 倍
+容量：405,000L</value>
+  </data>
+  <data name="Description_SmallSmallQReactorT0" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+最大功率输出：4MW</value>
+  </data>
+  <data name="Description_SmallSmallQReactorT1" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大功率输出：6MW</value>
+  </data>
+  <data name="Description_SmallSmallQReactorT2" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：9MW</value>
+  </data>
+  <data name="Description_SmallSmallQReactorT3" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大功率输出：13.5MW</value>
+  </data>
+  <data name="Description_SmallSmallReactorT0" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+最大功率输出：0.5MW</value>
+  </data>
+  <data name="Description_SmallSmallReactorT1" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比正常情况好 1.5 倍。
+最大输出功率：0.75MW</value>
+  </data>
+  <data name="Description_SmallSmallReactorT2" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比增强型好 1.5 倍。
+最大输出功率：1.13MW</value>
+  </data>
+  <data name="Description_SmallSmallReactorT3" xml:space="preserve">
+    <value>反应堆产生高功率，代价是精炼铀锭。铀极为稀有。仅在小行星、乌拉尼亚行星、能量行星和克兰吉亚行星中发现。
+比精通好 1.5 倍。
+最大输出功率：1.69MW</value>
+  </data>
+  <data name="Description_SmallSolarPanelT0" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.04MW最大功率输出。</value>
+  </data>
+  <data name="Description_SmallSolarPanelT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比正常情况好 1.5 倍。
+0.06MW最大功率输出。</value>
+  </data>
+  <data name="Description_SmallSolarPanelT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比增强型好 1.5 倍。
+0.09MW最大功率输出。</value>
+  </data>
+  <data name="Description_SmallSolarPanelT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比精通好 1.5 倍。
+0.135MW最大功率输出。</value>
+  </data>
+  <data name="Description_SmallSurvivalKitT0" xml:space="preserve">
+    <value>在一个工厂里，让太空工程师开始，但它的精炼和组装能力有限。
+0.13 倍装配速度
+效率 0.13 倍
+0.25MW基本用电量。</value>
+  </data>
+  <data name="Description_SmallWelderT0" xml:space="preserve">
+    <value>船舶焊机是一种实用工具，可以使用其库存中的组件构建蓝图和块。
+
+可以在驾驶舱内使用或手动打开。当它处于活动状态时，请注意不要靠得太近。
+按 RMB 将缺少的组件放入 Build Planner。
+
+半径：2.5</value>
+  </data>
+  <data name="Description_SmallWelderT1" xml:space="preserve">
+    <value>船舶焊机是一种实用工具，可以使用其库存中的组件构建蓝图和块。
+
+可以在驾驶舱内使用或手动打开。当它处于活动状态时，请注意不要靠得太近。
+按 RMB 将缺少的组件放入 Build Planner。
+
+比正常情况好 1.5 倍。
+
+作用范围：3.75</value>
+  </data>
+  <data name="Description_SmallWelderT2" xml:space="preserve">
+    <value>船舶焊机是一种实用工具，可以使用其库存中的组件构建蓝图和块。
+
+可以在驾驶舱内使用或手动打开。当它处于活动状态时，请注意不要靠得太近。
+按 RMB 将缺少的组件放入 Build Planner。
+
+比增强型好 1.5 倍。
+
+半径： 5.625</value>
+  </data>
+  <data name="Description_SmallWelderT3" xml:space="preserve">
+    <value>船舶焊机是一种实用工具，可以使用其库存中的组件构建蓝图和块。
+
+可以在驾驶舱内使用或手动打开。当它处于活动状态时，请注意不要靠得太近。
+按 RMB 将缺少的组件放入 Build Planner。
+
+比精通好 1.5 倍。
+
+作用范围： 8.4375</value>
+  </data>
+  <data name="Description_SolarPanelT0" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+0.15MW最大功率输出。</value>
+  </data>
+  <data name="Description_SolarPanelT1" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比正常情况好 1.5 倍。
+0.24MW最大功率输出。</value>
+  </data>
+  <data name="Description_SolarPanelT2" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比增强型好 1.5 倍。
+0.36MW最大功率输出。</value>
+  </data>
+  <data name="Description_SolarPanelT3" xml:space="preserve">
+    <value>太阳能电池板在暴露在阳光下时会收集能量。直接指向太阳，以提高产生的功率。
+比精通好 1.5 倍。
+0.54MW最大功率输出。</value>
+  </data>
+  <data name="Description_SurvivalKitT0" xml:space="preserve">
+    <value>在一个工厂里，让太空工程师开始，但它的精炼和组装能力有限。
+0.17x 装配速度
+效率 0.13 倍
+0.25MW基本用电量。</value>
+  </data>
+  <data name="Description_WelderT0" xml:space="preserve">
+    <value>船舶焊机是一种实用工具，可以使用其库存中的组件构建蓝图和块。
+
+可以在驾驶舱内使用或手动打开。当它处于活动状态时，请注意不要靠得太近。
+按 RMB 将缺少的组件放入 Build Planner。
+
+作用范围：6</value>
+  </data>
+  <data name="Description_WelderT1" xml:space="preserve">
+    <value>船舶焊机是一种实用工具，可以使用其库存中的组件构建蓝图和块。
+
+可以在驾驶舱内使用或手动打开。当它处于活动状态时，请注意不要靠得太近。
+按 RMB 将缺少的组件放入 Build Planner。
+
+比正常情况好 1.5 倍。
+
+作用范围：9</value>
+  </data>
+  <data name="Description_WelderT2" xml:space="preserve">
+    <value>船舶焊机是一种实用工具，可以使用其库存中的组件构建蓝图和块。
+
+可以在驾驶舱内使用或手动打开。当它处于活动状态时，请注意不要靠得太近。
+按 RMB 将缺少的组件放入 Build Planner。
+
+比增强型好 1.5 倍。
+
+作用范围：13.5</value>
+  </data>
+  <data name="Description_WelderT3" xml:space="preserve">
+    <value>船舶焊机是一种实用工具，可以使用其库存中的组件构建蓝图和块。
+
+可以在驾驶舱内使用或手动打开。当它处于活动状态时，请注意不要靠得太近。
+按 RMB 将缺少的组件放入 Build Planner。
+
+比精通好 1.5 倍。
+
+作用范围：20.25</value>
+  </data>
+  <data name="Description_WindTurbineT1" xml:space="preserve">
+    <value>当暴露在空旷区域时，风力涡轮机产生的功率很低。仅适用于有大气层的行星。
+比普通涡轮机好 1.5 倍。
+0.6MW最大功率。</value>
+  </data>
+  <data name="Description_WindTurbineT2" xml:space="preserve">
+    <value>当暴露在空旷区域时，风力涡轮机产生的功率很低。仅适用于有大气层的行星。
+比增强型涡轮机好 1.5 倍。
+0.9MW最大功率。</value>
+  </data>
+  <data name="Description_WindTurbineT3" xml:space="preserve">
+    <value>当暴露在空旷区域时，风力涡轮机产生的功率很低。仅适用于有大气层的行星。
+比 Proficient Turbine 好 1.5 倍。
+最大功率1.35MW。</value>
+  </data>
+  <data name="DisplayName_Block_AssemblerIndustrialT1" xml:space="preserve">
+    <value>增强型工业装配机</value>
+  </data>
+  <data name="DisplayName_Block_AssemblerIndustrialT2" xml:space="preserve">
+    <value>熟练的工业装配工</value>
+  </data>
+  <data name="DisplayName_Block_AssemblerIndustrialT3" xml:space="preserve">
+    <value>精英工业装配工</value>
+  </data>
+  <data name="DisplayName_Block_AssemblerT1" xml:space="preserve">
+    <value>增强的汇编程序</value>
+  </data>
+  <data name="DisplayName_Block_AssemblerT2" xml:space="preserve">
+    <value>熟练的汇编工</value>
+  </data>
+  <data name="DisplayName_Block_AssemblerT3" xml:space="preserve">
+    <value>精英汇编程序</value>
+  </data>
+  <data name="DisplayName_Block_AutocannonT1" xml:space="preserve">
+    <value>增强型自动加农炮</value>
+  </data>
+  <data name="DisplayName_Block_AutocannonT2" xml:space="preserve">
+    <value>熟练的自动加农炮</value>
+  </data>
+  <data name="DisplayName_Block_AutocannonT3" xml:space="preserve">
+    <value>精英自动加农炮</value>
+  </data>
+  <data name="DisplayName_Block_AutoCannonTurretT1" xml:space="preserve">
+    <value>增强型自动加农炮炮塔</value>
+  </data>
+  <data name="DisplayName_Block_AutoCannonTurretT2" xml:space="preserve">
+    <value>熟练的自动加农炮炮塔</value>
+  </data>
+  <data name="DisplayName_Block_AutoCannonTurretT3" xml:space="preserve">
+    <value>精英自动加农炮炮塔</value>
+  </data>
+  <data name="DisplayName_Block_BatteryT1" xml:space="preserve">
+    <value>增强型电池</value>
+  </data>
+  <data name="DisplayName_Block_BatteryT2" xml:space="preserve">
+    <value>熟练的电池</value>
+  </data>
+  <data name="DisplayName_Block_BatteryT3" xml:space="preserve">
+    <value>精英电池</value>
+  </data>
+  <data name="DisplayName_Block_BatteryWarfare2T1" xml:space="preserve">
+    <value>增强型战争电池</value>
+  </data>
+  <data name="DisplayName_Block_BatteryWarfare2T2" xml:space="preserve">
+    <value>熟练的战争电池</value>
+  </data>
+  <data name="DisplayName_Block_BatteryWarfare2T3" xml:space="preserve">
+    <value>精英战争炮台</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelCornerInvertedT1" xml:space="preserve">
+    <value>增强型可着色太阳能电池板向右倾斜</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelCornerInvertedT2" xml:space="preserve">
+    <value>熟练的可着色太阳能电池板向右倾斜</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelCornerInvertedT3" xml:space="preserve">
+    <value>Elite Colorable 太阳能电池板向右倾斜</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelCornerT1" xml:space="preserve">
+    <value>增强型可着色太阳能电池板 左坡度</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelCornerT2" xml:space="preserve">
+    <value>熟练的可着色太阳能电池板坡度左</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelCornerT3" xml:space="preserve">
+    <value>Elite Colorable 太阳能电池板左坡</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelT1" xml:space="preserve">
+    <value>增强型可着色太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelT2" xml:space="preserve">
+    <value>熟练的可着色太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_ColorableSolarPanelT3" xml:space="preserve">
+    <value>精英可着色太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_ConnectorSmallT1" xml:space="preserve">
+    <value>增强型小型连接器</value>
+  </data>
+  <data name="DisplayName_Block_ConnectorSmallT2" xml:space="preserve">
+    <value>熟练的小型连接器</value>
+  </data>
+  <data name="DisplayName_Block_ConnectorSmallT3" xml:space="preserve">
+    <value>Elite 小型连接器</value>
+  </data>
+  <data name="DisplayName_Block_ConveyorSorterT1" xml:space="preserve">
+    <value>增强型输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_ConveyorSorterT2" xml:space="preserve">
+    <value>熟练的输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_ConveyorSorterT3" xml:space="preserve">
+    <value>精英输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergy_EngineT0" xml:space="preserve">
+    <value>暗能量引擎</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergy_EngineT1" xml:space="preserve">
+    <value>增强型暗能量引擎</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergy_EngineT2" xml:space="preserve">
+    <value>精通暗能量引擎</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergy_EngineT3" xml:space="preserve">
+    <value>精英暗能量引擎</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyGeneratorT0" xml:space="preserve">
+    <value>暗能量发生器</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyGeneratorT1" xml:space="preserve">
+    <value>增强型暗能量发生器</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyGeneratorT2" xml:space="preserve">
+    <value>精通暗能量发生器</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyGeneratorT3" xml:space="preserve">
+    <value>精英暗能量发生器</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyTankSmallT0" xml:space="preserve">
+    <value>小型暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyTankSmallT1" xml:space="preserve">
+    <value>增强型小型暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyTankSmallT2" xml:space="preserve">
+    <value>精通小暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyTankSmallT3" xml:space="preserve">
+    <value>精英小暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyTankT0" xml:space="preserve">
+    <value>暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyTankT1" xml:space="preserve">
+    <value>增强型暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyTankT2" xml:space="preserve">
+    <value>精通暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_DarkEnergyTankT3" xml:space="preserve">
+    <value>精英暗能量坦克</value>
+  </data>
+  <data name="DisplayName_Block_DrillT1" xml:space="preserve">
+    <value>增强型钻头</value>
+  </data>
+  <data name="DisplayName_Block_DrillT2" xml:space="preserve">
+    <value>熟练钻头</value>
+  </data>
+  <data name="DisplayName_Block_DrillT3" xml:space="preserve">
+    <value>精英演习</value>
+  </data>
+  <data name="DisplayName_Block_EffectivenessModuleT1" xml:space="preserve">
+    <value>增强良率模块</value>
+  </data>
+  <data name="DisplayName_Block_EffectivenessModuleT2" xml:space="preserve">
+    <value>熟练产量模块</value>
+  </data>
+  <data name="DisplayName_Block_EffectivenessModuleT3" xml:space="preserve">
+    <value>Elite 良率模块</value>
+  </data>
+  <data name="DisplayName_Block_GatlingGunT1" xml:space="preserve">
+    <value>增强型加特林机枪</value>
+  </data>
+  <data name="DisplayName_Block_GatlingGunT2" xml:space="preserve">
+    <value>熟练的加特林机枪</value>
+  </data>
+  <data name="DisplayName_Block_GatlingGunT3" xml:space="preserve">
+    <value>精英加特林机枪</value>
+  </data>
+  <data name="DisplayName_Block_GatlingGunWarfare2T1" xml:space="preserve">
+    <value>增强型战争加特林机枪</value>
+  </data>
+  <data name="DisplayName_Block_GatlingGunWarfare2T2" xml:space="preserve">
+    <value>精通战争加特林机枪</value>
+  </data>
+  <data name="DisplayName_Block_GatlingGunWarfare2T3" xml:space="preserve">
+    <value>精英战争加特林机枪</value>
+  </data>
+  <data name="DisplayName_Block_GatlingTurretT1" xml:space="preserve">
+    <value>增强型加特林炮塔</value>
+  </data>
+  <data name="DisplayName_Block_GatlingTurretT2" xml:space="preserve">
+    <value>熟练的加特林炮塔</value>
+  </data>
+  <data name="DisplayName_Block_GatlingTurretT3" xml:space="preserve">
+    <value>精英加特林炮塔</value>
+  </data>
+  <data name="DisplayName_Block_GyroscopeT1" xml:space="preserve">
+    <value>增强型陀螺仪</value>
+  </data>
+  <data name="DisplayName_Block_GyroscopeT2" xml:space="preserve">
+    <value>熟练的陀螺仪</value>
+  </data>
+  <data name="DisplayName_Block_GyroscopeT3" xml:space="preserve">
+    <value>精英陀螺仪</value>
+  </data>
+  <data name="DisplayName_Block_HeavyCalibreGunT1" xml:space="preserve">
+    <value>增强型火炮</value>
+  </data>
+  <data name="DisplayName_Block_HeavyCalibreGunT2" xml:space="preserve">
+    <value>熟练的火炮</value>
+  </data>
+  <data name="DisplayName_Block_HeavyCalibreGunT3" xml:space="preserve">
+    <value>精英炮兵</value>
+  </data>
+  <data name="DisplayName_Block_Hydrogen_EngineT1" xml:space="preserve">
+    <value>增强型氢发动机</value>
+  </data>
+  <data name="DisplayName_Block_Hydrogen_EngineT2" xml:space="preserve">
+    <value>熟练的氢发动机</value>
+  </data>
+  <data name="DisplayName_Block_Hydrogen_EngineT3" xml:space="preserve">
+    <value>精英氢气发动机</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankIndustrialT0" xml:space="preserve">
+    <value>工业氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankIndustrialT1" xml:space="preserve">
+    <value>增强型工业氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankIndustrialT2" xml:space="preserve">
+    <value>熟练工业氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankIndustrialT3" xml:space="preserve">
+    <value>精英工业氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankSmallT0" xml:space="preserve">
+    <value>小型氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankSmallT1" xml:space="preserve">
+    <value>增强型小型氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankSmallT2" xml:space="preserve">
+    <value>精通小型氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankSmallT3" xml:space="preserve">
+    <value>精英小型氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankT0" xml:space="preserve">
+    <value>氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankT1" xml:space="preserve">
+    <value>增强型氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankT2" xml:space="preserve">
+    <value>熟练氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenTankT3" xml:space="preserve">
+    <value>精英氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenThrustIndustrialT1" xml:space="preserve">
+    <value>增强型工业氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenThrustIndustrialT2" xml:space="preserve">
+    <value>熟练工业氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_HydrogenThrustIndustrialT3" xml:space="preserve">
+    <value>精英工业氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_IndustrialConveyorSorterT1" xml:space="preserve">
+    <value>工业输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_IndustrialConveyorSorterT2" xml:space="preserve">
+    <value>工业输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_IndustrialConveyorSorterT3" xml:space="preserve">
+    <value>工业输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_JumpDriveT1" xml:space="preserve">
+    <value>增强型跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_JumpDriveT2" xml:space="preserve">
+    <value>熟练的跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_JumpDriveT3" xml:space="preserve">
+    <value>精英跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_KOC" xml:space="preserve">
+    <value>叮叮当当的知识</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustFlatDShapeT1" xml:space="preserve">
+    <value>大型扁平大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustFlatDShapeT2" xml:space="preserve">
+    <value>大型扁平大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustFlatDShapeT3" xml:space="preserve">
+    <value>大型扁平大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustFlatT1" xml:space="preserve">
+    <value>增强型大型扁平大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustFlatT2" xml:space="preserve">
+    <value>熟练的大型扁平大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustFlatT3" xml:space="preserve">
+    <value>Elite大型扁平大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustSciFiT1" xml:space="preserve">
+    <value>增强型科幻大型大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustSciFiT2" xml:space="preserve">
+    <value>精通科幻大型大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustSciFiT3" xml:space="preserve">
+    <value>精英科幻大型大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustT1" xml:space="preserve">
+    <value>增强型大型大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustT2" xml:space="preserve">
+    <value>熟练的大型大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeAtmoThrustT3" xml:space="preserve">
+    <value>精英大型大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeCalibreTurretT1" xml:space="preserve">
+    <value>增强型炮塔</value>
+  </data>
+  <data name="DisplayName_Block_LargeCalibreTurretT2" xml:space="preserve">
+    <value>熟练的炮塔</value>
+  </data>
+  <data name="DisplayName_Block_LargeCalibreTurretT3" xml:space="preserve">
+    <value>精英炮塔</value>
+  </data>
+  <data name="DisplayName_Block_LargeCargoContainerT1" xml:space="preserve">
+    <value>增强型大型货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_LargeCargoContainerT2" xml:space="preserve">
+    <value>熟练的大型货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_LargeCargoContainerT3" xml:space="preserve">
+    <value>精英大型货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_LargeClangiumQReactorT0" xml:space="preserve">
+    <value>大型量子钳钳反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeClangiumQReactorT1" xml:space="preserve">
+    <value>增强型大型量子钳铌反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeClangiumQReactorT2" xml:space="preserve">
+    <value>熟练的大型量子钳钳反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeClangiumQReactorT3" xml:space="preserve">
+    <value>精英大型量子钳钳反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeClangiumReactorT0" xml:space="preserve">
+    <value>大型Clangium反应釜</value>
+  </data>
+  <data name="DisplayName_Block_LargeClangiumReactorT1" xml:space="preserve">
+    <value>增强型大型钳铯反应器</value>
+  </data>
+  <data name="DisplayName_Block_LargeClangiumReactorT2" xml:space="preserve">
+    <value>熟练的大型钳铚反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeClangiumReactorT3" xml:space="preserve">
+    <value>精英大型钳铯反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeDarkEnergyReactorT0" xml:space="preserve">
+    <value>大型暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeDarkEnergyReactorT1" xml:space="preserve">
+    <value>增强型大型暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeDarkEnergyReactorT2" xml:space="preserve">
+    <value>精通大型暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeDarkEnergyReactorT3" xml:space="preserve">
+    <value>精英大型暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeDarkEnergyThrustT0" xml:space="preserve">
+    <value>大型暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeDarkEnergyThrustT1" xml:space="preserve">
+    <value>增强型大型暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeDarkEnergyThrustT2" xml:space="preserve">
+    <value>精通大型暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeDarkEnergyThrustT3" xml:space="preserve">
+    <value>精英大型暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeHydrogenThrustIndustrialT1" xml:space="preserve">
+    <value>增强型工业大型氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeHydrogenThrustIndustrialT2" xml:space="preserve">
+    <value>熟练工业大型氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeHydrogenThrustIndustrialT3" xml:space="preserve">
+    <value>精英工业大型氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeHydrogenThrustT1" xml:space="preserve">
+    <value>增强型大型氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeHydrogenThrustT2" xml:space="preserve">
+    <value>熟练的大型氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeHydrogenThrustT3" xml:space="preserve">
+    <value>精英大型氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeIndustrialCargoContainerT1" xml:space="preserve">
+    <value>大型工业货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_LargeIndustrialCargoContainerT2" xml:space="preserve">
+    <value>大型工业货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_LargeIndustrialCargoContainerT3" xml:space="preserve">
+    <value>大型工业货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_LargeIndustrialQCargoContainerT0" xml:space="preserve">
+    <value>大型工业量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_LargeIndustrialQCargoContainerT1" xml:space="preserve">
+    <value>增强型大型工业量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_LargeIndustrialQCargoContainerT2" xml:space="preserve">
+    <value>熟练的大型工业量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_LargeIndustrialQCargoContainerT3" xml:space="preserve">
+    <value>精英大型工业量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_LargeModularThrusterT1" xml:space="preserve">
+    <value>增强型大型作战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeModularThrusterT2" xml:space="preserve">
+    <value>熟练的大型战争离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeModularThrusterT3" xml:space="preserve">
+    <value>精英大型战争离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustFlatDShapeT0" xml:space="preserve">
+    <value>大型扁平量子大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustFlatDShapeT1" xml:space="preserve">
+    <value>大型扁平量子大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustFlatDShapeT2" xml:space="preserve">
+    <value>大型扁平量子大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustFlatDShapeT3" xml:space="preserve">
+    <value>大型扁平量子大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustFlatT0" xml:space="preserve">
+    <value>增强型大型扁平量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustFlatT1" xml:space="preserve">
+    <value>增强型大型扁平量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustFlatT2" xml:space="preserve">
+    <value>熟练的大型平面量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustFlatT3" xml:space="preserve">
+    <value>精英大型扁平量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustSciFiT0" xml:space="preserve">
+    <value>科幻大型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustSciFiT1" xml:space="preserve">
+    <value>增强型科幻大型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustSciFiT2" xml:space="preserve">
+    <value>精通科幻大型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustSciFiT3" xml:space="preserve">
+    <value>精英科幻大型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustT0" xml:space="preserve">
+    <value>大型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustT1" xml:space="preserve">
+    <value>增强型大型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustT2" xml:space="preserve">
+    <value>熟练的大型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQAtmoThrustT3" xml:space="preserve">
+    <value>精英大型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQCargoContainerT0" xml:space="preserve">
+    <value>大型量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_LargeQCargoContainerT1" xml:space="preserve">
+    <value>增强型大型量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_LargeQCargoContainerT2" xml:space="preserve">
+    <value>熟练的大型量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_LargeQCargoContainerT3" xml:space="preserve">
+    <value>精英大型量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_LargeQDarkEnergyReactorT0" xml:space="preserve">
+    <value>大型量子暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQDarkEnergyReactorT1" xml:space="preserve">
+    <value>增强型大型量子暗能反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQDarkEnergyReactorT2" xml:space="preserve">
+    <value>精通大型量子暗能反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQDarkEnergyReactorT3" xml:space="preserve">
+    <value>精英大型量子暗能反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQDarkEnergyThrustT0" xml:space="preserve">
+    <value>大型量子暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQDarkEnergyThrustT1" xml:space="preserve">
+    <value>增强型大型量子暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQDarkEnergyThrustT2" xml:space="preserve">
+    <value>精通大型量子暗能推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQDarkEnergyThrustT3" xml:space="preserve">
+    <value>精英大型量子暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQHydrogenThrustIndustrialT0" xml:space="preserve">
+    <value>量子工业大型氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQHydrogenThrustIndustrialT1" xml:space="preserve">
+    <value>增强型量子工业大型氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQHydrogenThrustIndustrialT2" xml:space="preserve">
+    <value>精通量子工业大型氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQHydrogenThrustIndustrialT3" xml:space="preserve">
+    <value>Elite Quantum Industrial 大型氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQHydrogenThrustT0" xml:space="preserve">
+    <value>大型量子氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQHydrogenThrustT1" xml:space="preserve">
+    <value>增强型大型量子氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQHydrogenThrustT2" xml:space="preserve">
+    <value>熟练的大型量子氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQHydrogenThrustT3" xml:space="preserve">
+    <value>精英大型量子氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQModularThrusterT0" xml:space="preserve">
+    <value>量子大型量子战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQModularThrusterT1" xml:space="preserve">
+    <value>增强型量子大量子战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQModularThrusterT2" xml:space="preserve">
+    <value>熟练量子大量子战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQModularThrusterT3" xml:space="preserve">
+    <value>精英量子大型量子战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQReactorT0" xml:space="preserve">
+    <value>大型量子反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQReactorT1" xml:space="preserve">
+    <value>增强型大型量子反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQReactorT2" xml:space="preserve">
+    <value>精通大型量子反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQReactorT3" xml:space="preserve">
+    <value>精英大型量子反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQReactorWarfare2T0" xml:space="preserve">
+    <value>量子大型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQReactorWarfare2T1" xml:space="preserve">
+    <value>增强型量子大型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQReactorWarfare2T2" xml:space="preserve">
+    <value>熟练的量子大型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQReactorWarfare2T3" xml:space="preserve">
+    <value>精英量子大型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeQThrustSciFiT0" xml:space="preserve">
+    <value>量子科幻大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQThrustSciFiT1" xml:space="preserve">
+    <value>增强型量子科幻大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQThrustSciFiT2" xml:space="preserve">
+    <value>精通量子科幻大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQThrustSciFiT3" xml:space="preserve">
+    <value>精英量子科幻大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQThrustT0" xml:space="preserve">
+    <value>量子大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQThrustT1" xml:space="preserve">
+    <value>增强型量子大离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQThrustT2" xml:space="preserve">
+    <value>熟练的量子大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeQThrustT3" xml:space="preserve">
+    <value>Elite Quantum 大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeReactorT1" xml:space="preserve">
+    <value>增强型大型反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeReactorT2" xml:space="preserve">
+    <value>熟练的大型反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeReactorT3" xml:space="preserve">
+    <value>精英大型反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeReactorWarfare2" xml:space="preserve">
+    <value>大型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeReactorWarfare2T1" xml:space="preserve">
+    <value>增强型大型作战反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeReactorWarfare2T2" xml:space="preserve">
+    <value>熟练的大型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeReactorWarfare2T3" xml:space="preserve">
+    <value>精英大型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_LargeThrustSciFiT1" xml:space="preserve">
+    <value>增强型科幻大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeThrustSciFiT2" xml:space="preserve">
+    <value>精通科幻大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeThrustSciFiT3" xml:space="preserve">
+    <value>精英科幻大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeThrustT1" xml:space="preserve">
+    <value>增强型大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeThrustT2" xml:space="preserve">
+    <value>熟练的大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_LargeThrustT3" xml:space="preserve">
+    <value>Elite大型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_MediumCalibreGunT1" xml:space="preserve">
+    <value>增强型突击炮</value>
+  </data>
+  <data name="DisplayName_Block_MediumCalibreGunT2" xml:space="preserve">
+    <value>熟练突击炮</value>
+  </data>
+  <data name="DisplayName_Block_MediumCalibreGunT3" xml:space="preserve">
+    <value>精英突击炮</value>
+  </data>
+  <data name="DisplayName_Block_MediumCalibreTurretT1" xml:space="preserve">
+    <value>增强型突击炮塔</value>
+  </data>
+  <data name="DisplayName_Block_MediumCalibreTurretT2" xml:space="preserve">
+    <value>熟练突击炮塔</value>
+  </data>
+  <data name="DisplayName_Block_MediumCalibreTurretT3" xml:space="preserve">
+    <value>精英突击炮塔</value>
+  </data>
+  <data name="DisplayName_Block_MediumCargoContainerT1" xml:space="preserve">
+    <value>增强型中型货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_MediumCargoContainerT2" xml:space="preserve">
+    <value>熟练的中型货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_MediumCargoContainerT3" xml:space="preserve">
+    <value>精英中型货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_MediumQCargoContainerT0" xml:space="preserve">
+    <value>中型量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_MediumQCargoContainerT1" xml:space="preserve">
+    <value>增强型中量子货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_MediumQCargoContainerT2" xml:space="preserve">
+    <value>熟练的中量子货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_MediumQCargoContainerT3" xml:space="preserve">
+    <value>Elite 中型量子货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_MissileTurretT1" xml:space="preserve">
+    <value>增强型火箭炮塔</value>
+  </data>
+  <data name="DisplayName_Block_MissileTurretT2" xml:space="preserve">
+    <value>熟练火箭炮塔</value>
+  </data>
+  <data name="DisplayName_Block_MissileTurretT3" xml:space="preserve">
+    <value>精英火箭炮塔</value>
+  </data>
+  <data name="DisplayName_Block_OreDetectorT1" xml:space="preserve">
+    <value>增强型矿石检测仪</value>
+  </data>
+  <data name="DisplayName_Block_OreDetectorT2" xml:space="preserve">
+    <value>熟练的矿石检测仪</value>
+  </data>
+  <data name="DisplayName_Block_OreDetectorT3" xml:space="preserve">
+    <value>精英矿石探测器</value>
+  </data>
+  <data name="DisplayName_Block_OxygenFarmT1" xml:space="preserve">
+    <value>增强型氧气农场</value>
+  </data>
+  <data name="DisplayName_Block_OxygenFarmT2" xml:space="preserve">
+    <value>Proficient 氧气农场</value>
+  </data>
+  <data name="DisplayName_Block_OxygenFarmT3" xml:space="preserve">
+    <value>精英氧气农场</value>
+  </data>
+  <data name="DisplayName_Block_OxygenGeneratorT1" xml:space="preserve">
+    <value>增强型 O2/H2 发生器</value>
+  </data>
+  <data name="DisplayName_Block_OxygenGeneratorT2" xml:space="preserve">
+    <value>精通 O2/H2 发生器</value>
+  </data>
+  <data name="DisplayName_Block_OxygenGeneratorT3" xml:space="preserve">
+    <value>Elite O2/H2 发生器</value>
+  </data>
+  <data name="DisplayName_Block_OxygenTankT1" xml:space="preserve">
+    <value>增强型氧气罐</value>
+  </data>
+  <data name="DisplayName_Block_OxygenTankT2" xml:space="preserve">
+    <value>熟练氧气罐</value>
+  </data>
+  <data name="DisplayName_Block_OxygenTankT3" xml:space="preserve">
+    <value>精英氧气罐</value>
+  </data>
+  <data name="DisplayName_Block_ParachuteHatchT1" xml:space="preserve">
+    <value>增强型降落伞舱口</value>
+  </data>
+  <data name="DisplayName_Block_ParachuteHatchT2" xml:space="preserve">
+    <value>熟练降落伞舱口</value>
+  </data>
+  <data name="DisplayName_Block_ParachuteHatchT3" xml:space="preserve">
+    <value>精英降落伞舱口</value>
+  </data>
+  <data name="DisplayName_Block_PowerEfficiencyModuleT1" xml:space="preserve">
+    <value>增强型电源效率模块</value>
+  </data>
+  <data name="DisplayName_Block_PowerEfficiencyModuleT2" xml:space="preserve">
+    <value>精通电源效率模块</value>
+  </data>
+  <data name="DisplayName_Block_PowerEfficiencyModuleT3" xml:space="preserve">
+    <value>Elite 能效模块</value>
+  </data>
+  <data name="DisplayName_Block_ProductivityModuleT1" xml:space="preserve">
+    <value>增强速度模块</value>
+  </data>
+  <data name="DisplayName_Block_ProductivityModuleT2" xml:space="preserve">
+    <value>精通速度模块</value>
+  </data>
+  <data name="DisplayName_Block_ProductivityModuleT3" xml:space="preserve">
+    <value>精英速度模块</value>
+  </data>
+  <data name="DisplayName_Block_QAssemblerIndustrialT0" xml:space="preserve">
+    <value>工业量子汇编器</value>
+  </data>
+  <data name="DisplayName_Block_QAssemblerIndustrialT1" xml:space="preserve">
+    <value>增强型工业量子汇编器</value>
+  </data>
+  <data name="DisplayName_Block_QAssemblerIndustrialT2" xml:space="preserve">
+    <value>精通工业量子组装工</value>
+  </data>
+  <data name="DisplayName_Block_QAssemblerIndustrialT3" xml:space="preserve">
+    <value>精英工业量子组装机</value>
+  </data>
+  <data name="DisplayName_Block_QAssemblerT0" xml:space="preserve">
+    <value>量子汇编程序</value>
+  </data>
+  <data name="DisplayName_Block_QAssemblerT1" xml:space="preserve">
+    <value>增强型量子汇编程序</value>
+  </data>
+  <data name="DisplayName_Block_QAssemblerT2" xml:space="preserve">
+    <value>熟练的量子汇编者</value>
+  </data>
+  <data name="DisplayName_Block_QAssemblerT3" xml:space="preserve">
+    <value>精英量子汇编程序</value>
+  </data>
+  <data name="DisplayName_Block_QBatteryT0" xml:space="preserve">
+    <value>量子电池</value>
+  </data>
+  <data name="DisplayName_Block_QBatteryT1" xml:space="preserve">
+    <value>增强型量子电池</value>
+  </data>
+  <data name="DisplayName_Block_QBatteryT2" xml:space="preserve">
+    <value>熟练的量子电池</value>
+  </data>
+  <data name="DisplayName_Block_QBatteryT3" xml:space="preserve">
+    <value>精英量子电池</value>
+  </data>
+  <data name="DisplayName_Block_QBatteryWarfare2T0" xml:space="preserve">
+    <value>量子战电池</value>
+  </data>
+  <data name="DisplayName_Block_QBatteryWarfare2T1" xml:space="preserve">
+    <value>增强型量子战电池</value>
+  </data>
+  <data name="DisplayName_Block_QBatteryWarfare2T2" xml:space="preserve">
+    <value>熟练的量子战电池</value>
+  </data>
+  <data name="DisplayName_Block_QBatteryWarfare2T3" xml:space="preserve">
+    <value>精英量子战电池</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelCornerInvertedT0" xml:space="preserve">
+    <value>量子可着色太阳能电池板向右倾斜</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelCornerInvertedT1" xml:space="preserve">
+    <value>增强型量子可着色太阳能电池板向右倾斜</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelCornerInvertedT2" xml:space="preserve">
+    <value>熟练的量子可着色太阳能电池板向右倾斜</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelCornerInvertedT3" xml:space="preserve">
+    <value>Elite Quantum 可着色太阳能电池板向右倾斜</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelCornerT0" xml:space="preserve">
+    <value>量子可着色太阳能电池板左坡</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelCornerT1" xml:space="preserve">
+    <value>增强型量子可着色太阳能电池板左坡</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelCornerT2" xml:space="preserve">
+    <value>熟练的量子可着色太阳能电池板左斜率</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelCornerT3" xml:space="preserve">
+    <value>Elite Quantum 可着色太阳能电池板左斜率</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelT0" xml:space="preserve">
+    <value>量子可着色太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelT1" xml:space="preserve">
+    <value>增强型量子可着色太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelT2" xml:space="preserve">
+    <value>Proficient Quantum 可着色太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_QColorableSolarPanelT3" xml:space="preserve">
+    <value>Elite Quantum 可着色太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergy_EngineT0" xml:space="preserve">
+    <value>暗能量引擎</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergy_EngineT1" xml:space="preserve">
+    <value>增强型暗能量引擎</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergy_EngineT2" xml:space="preserve">
+    <value>精通暗能量引擎</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergy_EngineT3" xml:space="preserve">
+    <value>精英暗能量引擎</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyGeneratorT0" xml:space="preserve">
+    <value>量子暗能量发生器</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyGeneratorT1" xml:space="preserve">
+    <value>增强型量子暗能量发生器</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyGeneratorT2" xml:space="preserve">
+    <value>精通量子暗能量发生器</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyGeneratorT3" xml:space="preserve">
+    <value>精英量子暗能量发生器</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyTankSmallT0" xml:space="preserve">
+    <value>小型量子暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyTankSmallT1" xml:space="preserve">
+    <value>增强型小型量子暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyTankSmallT2" xml:space="preserve">
+    <value>精通小型量子暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyTankSmallT3" xml:space="preserve">
+    <value>精英小型量子暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyTankT0" xml:space="preserve">
+    <value>量子暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyTankT1" xml:space="preserve">
+    <value>增强型量子暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyTankT2" xml:space="preserve">
+    <value>精通量子暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_QDarkEnergyTankT3" xml:space="preserve">
+    <value>精英量子暗能量罐</value>
+  </data>
+  <data name="DisplayName_Block_QGyroscopeT0" xml:space="preserve">
+    <value>量子陀螺仪</value>
+  </data>
+  <data name="DisplayName_Block_QGyroscopeT1" xml:space="preserve">
+    <value>量子增强陀螺仪</value>
+  </data>
+  <data name="DisplayName_Block_QGyroscopeT2" xml:space="preserve">
+    <value>量子精通陀螺仪</value>
+  </data>
+  <data name="DisplayName_Block_QGyroscopeT3" xml:space="preserve">
+    <value>Quantum Elite 陀螺仪</value>
+  </data>
+  <data name="DisplayName_Block_QHRefineryIndustrialT0" xml:space="preserve">
+    <value>量子工业炼油厂（混合）</value>
+  </data>
+  <data name="DisplayName_Block_QHRefineryIndustrialT1" xml:space="preserve">
+    <value>增强型量子工业炼油厂（混合）</value>
+  </data>
+  <data name="DisplayName_Block_QHRefineryIndustrialT2" xml:space="preserve">
+    <value>精通量子工业炼油厂（混合）</value>
+  </data>
+  <data name="DisplayName_Block_QHRefineryIndustrialT3" xml:space="preserve">
+    <value>Elite Quantum Industrial Refinery（混合）</value>
+  </data>
+  <data name="DisplayName_Block_QHRefineryT0" xml:space="preserve">
+    <value>量子炼油厂（混合）</value>
+  </data>
+  <data name="DisplayName_Block_QHRefineryT1" xml:space="preserve">
+    <value>增强型量子精炼厂（混合）</value>
+  </data>
+  <data name="DisplayName_Block_QHRefineryT2" xml:space="preserve">
+    <value>精通量子炼油厂（混合）</value>
+  </data>
+  <data name="DisplayName_Block_QHRefineryT3" xml:space="preserve">
+    <value>Elite Quantum Refinery（混合）</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogen_EngineT0" xml:space="preserve">
+    <value>量子氢发动机</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogen_EngineT1" xml:space="preserve">
+    <value>增强型量子氢发动机</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogen_EngineT2" xml:space="preserve">
+    <value>熟练的量子氢发动机</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogen_EngineT3" xml:space="preserve">
+    <value>精英量子氢发动机</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankIndustrialT0" xml:space="preserve">
+    <value>量子工业氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankIndustrialT1" xml:space="preserve">
+    <value>增强型量子工业氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankIndustrialT2" xml:space="preserve">
+    <value>精通量子工业氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankIndustrialT3" xml:space="preserve">
+    <value>Elite Quantum 工业氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankSmallT0" xml:space="preserve">
+    <value>小型量子氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankSmallT1" xml:space="preserve">
+    <value>增强型小型量子氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankSmallT2" xml:space="preserve">
+    <value>熟练的小型量子氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankSmallT3" xml:space="preserve">
+    <value>精英小型量子氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankT0" xml:space="preserve">
+    <value>量子氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankT1" xml:space="preserve">
+    <value>增强型量子氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankT2" xml:space="preserve">
+    <value>精通量子氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenTankT3" xml:space="preserve">
+    <value>Elite Quantum 氢气罐</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenThrustIndustrialT0" xml:space="preserve">
+    <value>量子工业氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenThrustIndustrialT1" xml:space="preserve">
+    <value>增强型量子工业氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenThrustIndustrialT2" xml:space="preserve">
+    <value>精通量子工业氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_QHydrogenThrustIndustrialT3" xml:space="preserve">
+    <value>Elite Quantum 工业氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_QJumpDriveT0" xml:space="preserve">
+    <value>量子跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_QJumpDriveT1" xml:space="preserve">
+    <value>增强型量子跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_QJumpDriveT2" xml:space="preserve">
+    <value>精通量子跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_QJumpDriveT3" xml:space="preserve">
+    <value>精英量子跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_QOxygenGeneratorT0" xml:space="preserve">
+    <value>量子 O2/H2 发生器</value>
+  </data>
+  <data name="DisplayName_Block_QOxygenGeneratorT1" xml:space="preserve">
+    <value>增强型量子 O2/H2 发生器</value>
+  </data>
+  <data name="DisplayName_Block_QOxygenGeneratorT2" xml:space="preserve">
+    <value>精通量子 O2/H2 发生器</value>
+  </data>
+  <data name="DisplayName_Block_QOxygenGeneratorT3" xml:space="preserve">
+    <value>Elite Quantum O2/H2 发生器</value>
+  </data>
+  <data name="DisplayName_Block_QSmallLargeJumpDriveT0" xml:space="preserve">
+    <value>Quantum Sm. Lrg. 跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_QSmallLargeJumpDriveT1" xml:space="preserve">
+    <value>增强型 Quantum Sm. Lrg. 跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_QSmallLargeJumpDriveT2" xml:space="preserve">
+    <value>精通量子 Sm. Lrg. Jump Drive</value>
+  </data>
+  <data name="DisplayName_Block_QSmallLargeJumpDriveT3" xml:space="preserve">
+    <value>Elite Quantum sm. lrg.跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_QSolarPanelT0" xml:space="preserve">
+    <value>量子太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_QSolarPanelT1" xml:space="preserve">
+    <value>增强型量子太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_QSolarPanelT2" xml:space="preserve">
+    <value>精通量子太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_QSolarPanelT3" xml:space="preserve">
+    <value>Elite Quantum 太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_QSRefineryIndustrialT0" xml:space="preserve">
+    <value>量子工业炼油厂（速度）</value>
+  </data>
+  <data name="DisplayName_Block_QSRefineryIndustrialT1" xml:space="preserve">
+    <value>增强型量子工业炼油厂（速度）</value>
+  </data>
+  <data name="DisplayName_Block_QSRefineryIndustrialT2" xml:space="preserve">
+    <value>精通量子工业炼油厂（速度）</value>
+  </data>
+  <data name="DisplayName_Block_QSRefineryIndustrialT3" xml:space="preserve">
+    <value>Elite Quantum 工业炼油厂（速度）</value>
+  </data>
+  <data name="DisplayName_Block_QSRefineryT0" xml:space="preserve">
+    <value>量子炼油厂（速度）</value>
+  </data>
+  <data name="DisplayName_Block_QSRefineryT1" xml:space="preserve">
+    <value>增强型量子精炼厂（速度）</value>
+  </data>
+  <data name="DisplayName_Block_QSRefineryT2" xml:space="preserve">
+    <value>精通量子精炼厂（速度）</value>
+  </data>
+  <data name="DisplayName_Block_QSRefineryT3" xml:space="preserve">
+    <value>Elite Quantum Refinery （速度）</value>
+  </data>
+  <data name="DisplayName_Block_QWindTurbineReskinT0" xml:space="preserve">
+    <value>量子双叶片风力发电机组</value>
+  </data>
+  <data name="DisplayName_Block_QWindTurbineReskinT1" xml:space="preserve">
+    <value>增强型量子双叶片风力涡轮机</value>
+  </data>
+  <data name="DisplayName_Block_QWindTurbineReskinT2" xml:space="preserve">
+    <value>精通量子双叶片风力发电机组</value>
+  </data>
+  <data name="DisplayName_Block_QWindTurbineReskinT3" xml:space="preserve">
+    <value>Elite Quantum 双叶片风力发电机组</value>
+  </data>
+  <data name="DisplayName_Block_QWindTurbineT0" xml:space="preserve">
+    <value>量子风力涡轮机</value>
+  </data>
+  <data name="DisplayName_Block_QWindTurbineT1" xml:space="preserve">
+    <value>增强型量子风力涡轮机</value>
+  </data>
+  <data name="DisplayName_Block_QWindTurbineT2" xml:space="preserve">
+    <value>精通量子风力涡轮机</value>
+  </data>
+  <data name="DisplayName_Block_QWindTurbineT3" xml:space="preserve">
+    <value>精英量子风力涡轮机</value>
+  </data>
+  <data name="DisplayName_Block_QYRefineryIndustrialT0" xml:space="preserve">
+    <value>量子工业炼油厂（产量）</value>
+  </data>
+  <data name="DisplayName_Block_QYRefineryIndustrialT1" xml:space="preserve">
+    <value>增强型量子工业炼油厂（产量）</value>
+  </data>
+  <data name="DisplayName_Block_QYRefineryIndustrialT2" xml:space="preserve">
+    <value>精通量子工业精炼厂（产量）</value>
+  </data>
+  <data name="DisplayName_Block_QYRefineryIndustrialT3" xml:space="preserve">
+    <value>Elite Quantum Industrial Refinery （产量）</value>
+  </data>
+  <data name="DisplayName_Block_QYRefineryT0" xml:space="preserve">
+    <value>量子炼油厂（产量）</value>
+  </data>
+  <data name="DisplayName_Block_QYRefineryT1" xml:space="preserve">
+    <value>增强型量子精炼厂（产量）</value>
+  </data>
+  <data name="DisplayName_Block_QYRefineryT2" xml:space="preserve">
+    <value>精通量子精炼厂（产量）</value>
+  </data>
+  <data name="DisplayName_Block_QYRefineryT3" xml:space="preserve">
+    <value>Elite Quantum Refinery（产量）</value>
+  </data>
+  <data name="DisplayName_Block_RailgunT1" xml:space="preserve">
+    <value>增强型轨道炮</value>
+  </data>
+  <data name="DisplayName_Block_RailgunT2" xml:space="preserve">
+    <value>熟练的轨道炮</value>
+  </data>
+  <data name="DisplayName_Block_RailgunT3" xml:space="preserve">
+    <value>精英轨道炮</value>
+  </data>
+  <data name="DisplayName_Block_RefineryIndustrialT1" xml:space="preserve">
+    <value>增强型工业炼油厂</value>
+  </data>
+  <data name="DisplayName_Block_RefineryIndustrialT2" xml:space="preserve">
+    <value>熟练的工业炼油厂</value>
+  </data>
+  <data name="DisplayName_Block_RefineryIndustrialT3" xml:space="preserve">
+    <value>精英工业炼油厂</value>
+  </data>
+  <data name="DisplayName_Block_RefineryT1" xml:space="preserve">
+    <value>增强型炼油厂</value>
+  </data>
+  <data name="DisplayName_Block_RefineryT2" xml:space="preserve">
+    <value>精炼厂</value>
+  </data>
+  <data name="DisplayName_Block_RefineryT3" xml:space="preserve">
+    <value>精英炼油厂</value>
+  </data>
+  <data name="DisplayName_Block_ReflectorLightT1" xml:space="preserve">
+    <value>增强的聚光灯</value>
+  </data>
+  <data name="DisplayName_Block_ReflectorLightT2" xml:space="preserve">
+    <value>熟练的聚光灯</value>
+  </data>
+  <data name="DisplayName_Block_ReflectorLightT3" xml:space="preserve">
+    <value>精英聚光灯</value>
+  </data>
+  <data name="DisplayName_Block_RocketLauncherT1" xml:space="preserve">
+    <value>增强型火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_RocketLauncherT2" xml:space="preserve">
+    <value>熟练的火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_RocketLauncherT3" xml:space="preserve">
+    <value>精英火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_RocketLauncherWarfare2T1" xml:space="preserve">
+    <value>增强型战争火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_RocketLauncherWarfare2T2" xml:space="preserve">
+    <value>熟练的战争火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_RocketLauncherWarfare2T3" xml:space="preserve">
+    <value>精英战争火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_SafeZoneT1" xml:space="preserve">
+    <value>增强型安全区</value>
+  </data>
+  <data name="DisplayName_Block_SafeZoneT2" xml:space="preserve">
+    <value>熟练安全区</value>
+  </data>
+  <data name="DisplayName_Block_SafeZoneT3" xml:space="preserve">
+    <value>精英安全区</value>
+  </data>
+  <data name="DisplayName_Block_SearchlightT1" xml:space="preserve">
+    <value>增强型探照灯</value>
+  </data>
+  <data name="DisplayName_Block_SearchlightT2" xml:space="preserve">
+    <value>熟练的探照灯</value>
+  </data>
+  <data name="DisplayName_Block_SearchlightT3" xml:space="preserve">
+    <value>精英探照灯</value>
+  </data>
+  <data name="DisplayName_Block_SensorReskinT1" xml:space="preserve">
+    <value>增强型自动机传感器</value>
+  </data>
+  <data name="DisplayName_Block_SensorReskinT2" xml:space="preserve">
+    <value>熟练的自动机传感器</value>
+  </data>
+  <data name="DisplayName_Block_SensorReskinT3" xml:space="preserve">
+    <value>Elite 自动机传感器</value>
+  </data>
+  <data name="DisplayName_Block_SensorT1" xml:space="preserve">
+    <value>增强型传感器</value>
+  </data>
+  <data name="DisplayName_Block_SensorT2" xml:space="preserve">
+    <value>熟练的传感器</value>
+  </data>
+  <data name="DisplayName_Block_SensorT3" xml:space="preserve">
+    <value>精英传感器</value>
+  </data>
+  <data name="DisplayName_Block_ShipGrinderT1" xml:space="preserve">
+    <value>增强型研磨机</value>
+  </data>
+  <data name="DisplayName_Block_ShipGrinderT2" xml:space="preserve">
+    <value>熟练的研磨机</value>
+  </data>
+  <data name="DisplayName_Block_ShipGrinderT3" xml:space="preserve">
+    <value>精英研磨机</value>
+  </data>
+  <data name="DisplayName_Block_ShipWelderT1" xml:space="preserve">
+    <value>增强型焊机</value>
+  </data>
+  <data name="DisplayName_Block_ShipWelderT2" xml:space="preserve">
+    <value>熟练焊工</value>
+  </data>
+  <data name="DisplayName_Block_ShipWelderT3" xml:space="preserve">
+    <value>精英焊工</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustFlat" xml:space="preserve">
+    <value>扁平大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustFlatDShapeT1" xml:space="preserve">
+    <value>增强型扁平大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustFlatDShapeT2" xml:space="preserve">
+    <value>熟练扁平大气推进器D型</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustFlatDShapeT3" xml:space="preserve">
+    <value>Elite 扁平大气推进器 D 形</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustFlatT1" xml:space="preserve">
+    <value>增强型扁平大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustFlatT2" xml:space="preserve">
+    <value>Proficient Flat 大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustFlatT3" xml:space="preserve">
+    <value>Elite 扁平大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustSciFiT1" xml:space="preserve">
+    <value>增强型科幻大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustSciFiT2" xml:space="preserve">
+    <value>精通科幻大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustSciFiT3" xml:space="preserve">
+    <value>精英科幻大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustT1" xml:space="preserve">
+    <value>增强型大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustT2" xml:space="preserve">
+    <value>熟练大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallAtmoThrustT3" xml:space="preserve">
+    <value>精英大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallBatteryT0" xml:space="preserve">
+    <value>Sm. 电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallBatteryT1" xml:space="preserve">
+    <value>Sm. 增强型电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallBatteryT2" xml:space="preserve">
+    <value>Sm. Proficient 电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallBatteryT3" xml:space="preserve">
+    <value>Sm. Elilte 电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallBatteryWarfare2T0" xml:space="preserve">
+    <value>Sm. Warfare 电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallBatteryWarfare2T1" xml:space="preserve">
+    <value>Sm. 增强型战争电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallBatteryWarfare2T2" xml:space="preserve">
+    <value>Sm. 精通战争电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallBatteryWarfare2T3" xml:space="preserve">
+    <value>Sm. Elite Warfare 电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallCargoContainerT1" xml:space="preserve">
+    <value>增强型小型货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_SmallCargoContainerT2" xml:space="preserve">
+    <value>熟练的小型货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_SmallCargoContainerT3" xml:space="preserve">
+    <value>精英小型货柜</value>
+  </data>
+  <data name="DisplayName_Block_SmallClangiumQReactorT0" xml:space="preserve">
+    <value>小型量子钳铌反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallClangiumQReactorT1" xml:space="preserve">
+    <value>增强型小型量子钳铌反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallClangiumQReactorT2" xml:space="preserve">
+    <value>熟练的小型量子钳髌反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallClangiumQReactorT3" xml:space="preserve">
+    <value>精英小型量子钳铯反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallClangiumReactorT0" xml:space="preserve">
+    <value>小型Clangium反应釜</value>
+  </data>
+  <data name="DisplayName_Block_SmallClangiumReactorT1" xml:space="preserve">
+    <value>增强型小型钳镯反应器</value>
+  </data>
+  <data name="DisplayName_Block_SmallClangiumReactorT2" xml:space="preserve">
+    <value>熟练的小型钳铯反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallClangiumReactorT3" xml:space="preserve">
+    <value>精英小型钳铯反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallConveyorSorterT1" xml:space="preserve">
+    <value>增强型小型输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_SmallConveyorSorterT2" xml:space="preserve">
+    <value>熟练的小型输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_SmallConveyorSorterT3" xml:space="preserve">
+    <value>Elite小型输送机分拣机</value>
+  </data>
+  <data name="DisplayName_Block_SmallDarkEnergyReactorT0" xml:space="preserve">
+    <value>小型暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallDarkEnergyReactorT1" xml:space="preserve">
+    <value>增强型小型暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallDarkEnergyReactorT2" xml:space="preserve">
+    <value>精通小型暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallDarkEnergyReactorT3" xml:space="preserve">
+    <value>精英小型暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallDarkEnergyThrustT0" xml:space="preserve">
+    <value>暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallDarkEnergyThrustT1" xml:space="preserve">
+    <value>增强型暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallDarkEnergyThrustT2" xml:space="preserve">
+    <value>精通暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallDarkEnergyThrustT3" xml:space="preserve">
+    <value>精英暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallHydrogenThrustT1" xml:space="preserve">
+    <value>增强型氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallHydrogenThrustT2" xml:space="preserve">
+    <value>熟练的氢气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallHydrogenThrustT3" xml:space="preserve">
+    <value>精英氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallLargeJumpDriveT0" xml:space="preserve">
+    <value>Sm. Lrg. 跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_SmallLargeJumpDriveT1" xml:space="preserve">
+    <value>增强型 Sm. Lrg. Jump Drive</value>
+  </data>
+  <data name="DisplayName_Block_SmallLargeJumpDriveT2" xml:space="preserve">
+    <value>精通 Sm. Lrg. Jump Drive</value>
+  </data>
+  <data name="DisplayName_Block_SmallLargeJumpDriveT3" xml:space="preserve">
+    <value>精英 sm. lrg.跳跃驱动器</value>
+  </data>
+  <data name="DisplayName_Block_SmallModularThrusterT1" xml:space="preserve">
+    <value>增强型战争离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallModularThrusterT2" xml:space="preserve">
+    <value>精通战争离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallModularThrusterT3" xml:space="preserve">
+    <value>精英战争离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustFlatDShapeT0" xml:space="preserve">
+    <value>增强型扁平量子大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustFlatDShapeT1" xml:space="preserve">
+    <value>增强型扁平量子大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustFlatDShapeT2" xml:space="preserve">
+    <value>Proficient Flat Quantum Atmospheric Thruster D Shape（熟练扁平量子大气推进器D型）</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustFlatDShapeT3" xml:space="preserve">
+    <value>精英扁平量子大气推进器D形</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustFlatT0" xml:space="preserve">
+    <value>增强型扁平量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustFlatT1" xml:space="preserve">
+    <value>增强型扁平量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustFlatT2" xml:space="preserve">
+    <value>Proficient Flat Quantum Atmospheric Thruster（熟练平面量子大气推进器）</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustFlatT3" xml:space="preserve">
+    <value>精英扁平量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustSciFiT0" xml:space="preserve">
+    <value>科幻量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustSciFiT1" xml:space="preserve">
+    <value>增强型科幻量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustSciFiT2" xml:space="preserve">
+    <value>精通科幻量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustSciFiT3" xml:space="preserve">
+    <value>精英科幻量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustT0" xml:space="preserve">
+    <value>量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustT1" xml:space="preserve">
+    <value>增强型量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustT2" xml:space="preserve">
+    <value>熟练的量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQAtmoThrustT3" xml:space="preserve">
+    <value>精英量子大气推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQBatteryWarfare2T0" xml:space="preserve">
+    <value>Sm. Warfare 量子电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallQBatteryWarfare2T1" xml:space="preserve">
+    <value>Sm. 增强型战争量子电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallQBatteryWarfare2T2" xml:space="preserve">
+    <value>Sm. Proficient Warfare 量子电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallQBatteryWarfare2T3" xml:space="preserve">
+    <value>Sm. Elite Warfare 量子电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallQCargoContainerT0" xml:space="preserve">
+    <value>小型量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_SmallQCargoContainerT1" xml:space="preserve">
+    <value>增强型小型量子货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_SmallQCargoContainerT2" xml:space="preserve">
+    <value>熟练的小型量子货物集装箱</value>
+  </data>
+  <data name="DisplayName_Block_SmallQCargoContainerT3" xml:space="preserve">
+    <value>Elite 小型量子货柜</value>
+  </data>
+  <data name="DisplayName_Block_SmallQDarkEnergyReactorT0" xml:space="preserve">
+    <value>小型量子暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQDarkEnergyReactorT1" xml:space="preserve">
+    <value>增强型小型量子暗能反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQDarkEnergyReactorT2" xml:space="preserve">
+    <value>熟练的小型量子暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQDarkEnergyReactorT3" xml:space="preserve">
+    <value>精英小型量子暗能量反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQDarkEnergyThrustT0" xml:space="preserve">
+    <value>量子暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQDarkEnergyThrustT1" xml:space="preserve">
+    <value>增强型量子暗能推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQDarkEnergyThrustT2" xml:space="preserve">
+    <value>精通量子暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQDarkEnergyThrustT3" xml:space="preserve">
+    <value>精英量子暗能量推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQHydrogenThrustT0" xml:space="preserve">
+    <value>量子氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQHydrogenThrustT1" xml:space="preserve">
+    <value>增强型量子氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQHydrogenThrustT2" xml:space="preserve">
+    <value>精通量子氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQHydrogenThrustT3" xml:space="preserve">
+    <value>精英量子氢推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQModularThrusterT0" xml:space="preserve">
+    <value>量子战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQModularThrusterT1" xml:space="preserve">
+    <value>增强型量子战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQModularThrusterT2" xml:space="preserve">
+    <value>熟练的量子战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQModularThrusterT3" xml:space="preserve">
+    <value>精英量子战离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQReactorT0" xml:space="preserve">
+    <value>小型量子反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQReactorT1" xml:space="preserve">
+    <value>增强型小型量子反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQReactorT2" xml:space="preserve">
+    <value>熟练的小型量子反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQReactorT3" xml:space="preserve">
+    <value>精英小型量子反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQReactorWarfare2T0" xml:space="preserve">
+    <value>量子小型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQReactorWarfare2T1" xml:space="preserve">
+    <value>增强型量子小型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQReactorWarfare2T2" xml:space="preserve">
+    <value>熟练的量子小型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQReactorWarfare2T3" xml:space="preserve">
+    <value>精英量子小型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallQThrustSciFiT0" xml:space="preserve">
+    <value>量子科幻离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQThrustSciFiT1" xml:space="preserve">
+    <value>增强型量子科幻离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQThrustSciFiT2" xml:space="preserve">
+    <value>精通量子科幻离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQThrustSciFiT3" xml:space="preserve">
+    <value>精英量子科幻离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQThrustT0" xml:space="preserve">
+    <value>量子离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQThrustT1" xml:space="preserve">
+    <value>增强型量子离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQThrustT2" xml:space="preserve">
+    <value>熟练的量子离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallQThrustT3" xml:space="preserve">
+    <value>精英量子离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallReactorT1" xml:space="preserve">
+    <value>增强型小型反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallReactorT2" xml:space="preserve">
+    <value>熟练的小型反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallReactorT3" xml:space="preserve">
+    <value>精英小型反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallReactorWarfare2T1" xml:space="preserve">
+    <value>增强型小型作战反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallReactorWarfare2T2" xml:space="preserve">
+    <value>熟练的小型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallReactorWarfare2T3" xml:space="preserve">
+    <value>精英小型战争反应堆</value>
+  </data>
+  <data name="DisplayName_Block_SmallRocketLauncherReloadT1" xml:space="preserve">
+    <value>增强型可重装火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_SmallRocketLauncherReloadT2" xml:space="preserve">
+    <value>熟练的可重装火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_SmallRocketLauncherReloadT3" xml:space="preserve">
+    <value>精英可重装火箭发射器</value>
+  </data>
+  <data name="DisplayName_Block_SmallSmallBatteryT0" xml:space="preserve">
+    <value>Sm. Sm. 电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallSmallBatteryT1" xml:space="preserve">
+    <value>Sm. Sm. 增强型电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallSmallBatteryT2" xml:space="preserve">
+    <value>Sm. Sm. Proficient 电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallSmallBatteryT3" xml:space="preserve">
+    <value>Sm. Sm. Elilte 电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallSmallQBatteryT0" xml:space="preserve">
+    <value>Sm. Sm. 量子电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallSmallQBatteryT1" xml:space="preserve">
+    <value>Sm. Sm. 增强型量子电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallSmallQBatteryT2" xml:space="preserve">
+    <value>Sm. Sm. Proficient 量子电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallSmallQBatteryT3" xml:space="preserve">
+    <value>Sm. Sm. Elilte 量子电池</value>
+  </data>
+  <data name="DisplayName_Block_SmallThrustSciFiT1" xml:space="preserve">
+    <value>增强型科幻离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallThrustSciFiT2" xml:space="preserve">
+    <value>精通科幻离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallThrustSciFiT3" xml:space="preserve">
+    <value>精英科幻离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallThrustT1" xml:space="preserve">
+    <value>增强型离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallThrustT2" xml:space="preserve">
+    <value>熟练离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SmallThrustT3" xml:space="preserve">
+    <value>精英离子推进器</value>
+  </data>
+  <data name="DisplayName_Block_SolarPanelT1" xml:space="preserve">
+    <value>增强型太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_SolarPanelT2" xml:space="preserve">
+    <value>熟练的太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_SolarPanelT3" xml:space="preserve">
+    <value>精英太阳能电池板</value>
+  </data>
+  <data name="DisplayName_Block_WindTurbineReskinT1" xml:space="preserve">
+    <value>增强型双叶片风力涡轮机</value>
+  </data>
+  <data name="DisplayName_Block_WindTurbineReskinT2" xml:space="preserve">
+    <value>熟练的双叶片风力发电机组</value>
+  </data>
+  <data name="DisplayName_Block_WindTurbineReskinT3" xml:space="preserve">
+    <value>精英双叶片风力发电机组</value>
+  </data>
+  <data name="DisplayName_Block_WindTurbineT1" xml:space="preserve">
+    <value>增强型风力涡轮机</value>
+  </data>
+  <data name="DisplayName_Block_WindTurbineT2" xml:space="preserve">
+    <value>熟练的风力涡轮机</value>
+  </data>
+  <data name="DisplayName_Block_WindTurbineT3" xml:space="preserve">
+    <value>精英风力发电机组</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_AmmoT1" xml:space="preserve">
+    <value>增强型弹药</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_AmmoT2" xml:space="preserve">
+    <value>熟练的弹药</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_AmmoT3" xml:space="preserve">
+    <value>精英弹药</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_ComponentsT1" xml:space="preserve">
+    <value>增强的组件</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_ComponentsT2" xml:space="preserve">
+    <value>熟练的组件</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_ComponentsT3" xml:space="preserve">
+    <value>精英组件</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_ConsumablesT1" xml:space="preserve">
+    <value>增强型耗材</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_ConsumablesT2" xml:space="preserve">
+    <value>熟练的耗材</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_ConsumablesT3" xml:space="preserve">
+    <value>精英耗材</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_DarkEnergyBottles" xml:space="preserve">
+    <value>暗能量瓶</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_EquipmentT1" xml:space="preserve">
+    <value>增强型设备</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_EquipmentT2" xml:space="preserve">
+    <value>熟练的设备</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_EquipmentT3" xml:space="preserve">
+    <value>精英设备</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_LargeBlocksT1" xml:space="preserve">
+    <value>增强型大块</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_LargeBlocksT2" xml:space="preserve">
+    <value>精通大块</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_LargeBlocksT3" xml:space="preserve">
+    <value>精英大块</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_SmallBlocksT1" xml:space="preserve">
+    <value>增强型小块</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_SmallBlocksT2" xml:space="preserve">
+    <value>熟练的小块</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_SmallBlocksT3" xml:space="preserve">
+    <value>精英小块</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_WeaponsT1" xml:space="preserve">
+    <value>强化武器</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_WeaponsT2" xml:space="preserve">
+    <value>熟练的武器</value>
+  </data>
+  <data name="DisplayName_BlueprintClass_WeaponsT3" xml:space="preserve">
+    <value>精英武器</value>
+  </data>
+  <data name="DisplayName_Category_ArmorBlocksT1" xml:space="preserve">
+    <value>增强型护甲块</value>
+  </data>
+  <data name="DisplayName_Category_ArmorBlocksT2" xml:space="preserve">
+    <value>熟练的护甲方块</value>
+  </data>
+  <data name="DisplayName_Category_ArmorBlocksT3" xml:space="preserve">
+    <value>精英护甲方块</value>
+  </data>
+  <data name="DisplayName_Category_ConveyorBlocksT1" xml:space="preserve">
+    <value>增强型卷积/货物块</value>
+  </data>
+  <data name="DisplayName_Category_ConveyorBlocksT2" xml:space="preserve">
+    <value>熟练的转换/货物块</value>
+  </data>
+  <data name="DisplayName_Category_ConveyorBlocksT3" xml:space="preserve">
+    <value>Elite Conv./Cargo Blocks（精英转换/货物区块）</value>
+  </data>
+  <data name="DisplayName_Category_LargeBlocksT1" xml:space="preserve">
+    <value>增强型大块</value>
+  </data>
+  <data name="DisplayName_Category_LargeBlocksT2" xml:space="preserve">
+    <value>精通大块</value>
+  </data>
+  <data name="DisplayName_Category_LargeBlocksT3" xml:space="preserve">
+    <value>精英大块</value>
+  </data>
+  <data name="DisplayName_Category_PowerT1" xml:space="preserve">
+    <value>增强型电源块</value>
+  </data>
+  <data name="DisplayName_Category_PowerT2" xml:space="preserve">
+    <value>熟练的电源块</value>
+  </data>
+  <data name="DisplayName_Category_PowerT3" xml:space="preserve">
+    <value>Elite 电源块</value>
+  </data>
+  <data name="DisplayName_Category_ProductionT1" xml:space="preserve">
+    <value>增强型生产模块</value>
+  </data>
+  <data name="DisplayName_Category_ProductionT2" xml:space="preserve">
+    <value>熟练的生产块</value>
+  </data>
+  <data name="DisplayName_Category_ProductionT3" xml:space="preserve">
+    <value>精英生产区块</value>
+  </data>
+  <data name="DisplayName_Category_ShipThrustersT1" xml:space="preserve">
+    <value>增强型推进器</value>
+  </data>
+  <data name="DisplayName_Category_ShipThrustersT2" xml:space="preserve">
+    <value>熟练推进器</value>
+  </data>
+  <data name="DisplayName_Category_ShipThrustersT3" xml:space="preserve">
+    <value>精英推进器</value>
+  </data>
+  <data name="DisplayName_Category_SmallBlocksT1" xml:space="preserve">
+    <value>增强型小块</value>
+  </data>
+  <data name="DisplayName_Category_SmallBlocksT2" xml:space="preserve">
+    <value>熟练的小块</value>
+  </data>
+  <data name="DisplayName_Category_SmallBlocksT3" xml:space="preserve">
+    <value>精英小块</value>
+  </data>
+  <data name="DisplayName_Category_SparksOfTheFuturePackT1" xml:space="preserve">
+    <value>增强的未来火花块</value>
+  </data>
+  <data name="DisplayName_Category_SparksOfTheFuturePackT2" xml:space="preserve">
+    <value>未来积木的熟练火花</value>
+  </data>
+  <data name="DisplayName_Category_SparksOfTheFuturePackT3" xml:space="preserve">
+    <value>未来街区的精英火花</value>
+  </data>
+  <data name="DisplayName_DLC_IndustrialPackDLCT1" xml:space="preserve">
+    <value>增强型工业区块</value>
+  </data>
+  <data name="DisplayName_DLC_IndustrialPackDLCT2" xml:space="preserve">
+    <value>熟练的工业街区</value>
+  </data>
+  <data name="DisplayName_DLC_IndustrialPackDLCT3" xml:space="preserve">
+    <value>精英工业区</value>
+  </data>
+  <data name="DisplayName_DLC_Warfare2DLCT1" xml:space="preserve">
+    <value>增强战争 2 块</value>
+  </data>
+  <data name="DisplayName_DLC_Warfare2DLCT2" xml:space="preserve">
+    <value>精通战争 2 块</value>
+  </data>
+  <data name="DisplayName_DLC_Warfare2DLCT3" xml:space="preserve">
+    <value>精英战争 2 块</value>
+  </data>
+  <data name="DisplayName_Item_AutoCannonClipT1" xml:space="preserve">
+    <value>分部你。自动加农炮弹匣</value>
+  </data>
+  <data name="DisplayName_Item_AutoCannonClipT2" xml:space="preserve">
+    <value>分部德。自动加农炮弹匣</value>
+  </data>
+  <data name="DisplayName_Item_AutoCannonClipT3" xml:space="preserve">
+    <value>分部CLa.自动加农炮弹匣</value>
+  </data>
+  <data name="DisplayName_Item_BPBulletproofGlassT1" xml:space="preserve">
+    <value>贫铀防弹玻璃</value>
+  </data>
+  <data name="DisplayName_Item_BPBulletproofGlassT2" xml:space="preserve">
+    <value>耗尽的暗能量防弹玻璃</value>
+  </data>
+  <data name="DisplayName_Item_BPBulletproofGlassT3" xml:space="preserve">
+    <value>贫化钳防弹玻璃</value>
+  </data>
+  <data name="DisplayName_Item_BPConstructionComponentT1" xml:space="preserve">
+    <value>贫铀建筑公司</value>
+  </data>
+  <data name="DisplayName_Item_BPConstructionComponentT2" xml:space="preserve">
+    <value>枯竭的暗能量建筑公司</value>
+  </data>
+  <data name="DisplayName_Item_BPConstructionComponentT3" xml:space="preserve">
+    <value>枯竭的钚建筑公司</value>
+  </data>
+  <data name="DisplayName_Item_BPDetectorComponentsT1" xml:space="preserve">
+    <value>贫铀探测器组件</value>
+  </data>
+  <data name="DisplayName_Item_BPDetectorComponentsT2" xml:space="preserve">
+    <value>耗尽的暗能量探测器组件</value>
+  </data>
+  <data name="DisplayName_Item_BPDetectorComponentsT3" xml:space="preserve">
+    <value>耗尽的钳铛探测器组件</value>
+  </data>
+  <data name="DisplayName_Item_BPDisplayT1" xml:space="preserve">
+    <value>贫铀展示</value>
+  </data>
+  <data name="DisplayName_Item_BPDisplayT2" xml:space="preserve">
+    <value>耗尽的暗能量显示器</value>
+  </data>
+  <data name="DisplayName_Item_BPDisplayT3" xml:space="preserve">
+    <value>枯竭的钳显示</value>
+  </data>
+  <data name="DisplayName_Item_BPGirderT1" xml:space="preserve">
+    <value>贫铀梁</value>
+  </data>
+  <data name="DisplayName_Item_BPGirderT2" xml:space="preserve">
+    <value>枯竭的暗能量梁</value>
+  </data>
+  <data name="DisplayName_Item_BPGirderT3" xml:space="preserve">
+    <value>枯竭的 Clangium 梁</value>
+  </data>
+  <data name="DisplayName_Item_BPGravityGeneratorComponentsT1" xml:space="preserve">
+    <value>贫铀重力补偿</value>
+  </data>
+  <data name="DisplayName_Item_BPGravityGeneratorComponentsT2" xml:space="preserve">
+    <value>耗尽的暗能量重力补偿</value>
+  </data>
+  <data name="DisplayName_Item_BPGravityGeneratorComponentsT3" xml:space="preserve">
+    <value>贫化钚重力补偿</value>
+  </data>
+  <data name="DisplayName_Item_BPInteriorPlateT1" xml:space="preserve">
+    <value>贫铀内板</value>
+  </data>
+  <data name="DisplayName_Item_BPInteriorPlateT2" xml:space="preserve">
+    <value>耗尽的暗能量内板</value>
+  </data>
+  <data name="DisplayName_Item_BPInteriorPlateT3" xml:space="preserve">
+    <value>耗尽的 Clangium 内板</value>
+  </data>
+  <data name="DisplayName_Item_BPLargeSteelTubeT1" xml:space="preserve">
+    <value>贫铀大钢管</value>
+  </data>
+  <data name="DisplayName_Item_BPLargeSteelTubeT2" xml:space="preserve">
+    <value>耗尽的暗能量大钢管</value>
+  </data>
+  <data name="DisplayName_Item_BPLargeSteelTubeT3" xml:space="preserve">
+    <value>枯竭的Clangium大钢管</value>
+  </data>
+  <data name="DisplayName_Item_BPMetalGridT1" xml:space="preserve">
+    <value>贫铀金属网格</value>
+  </data>
+  <data name="DisplayName_Item_BPMetalGridT2" xml:space="preserve">
+    <value>耗尽的暗能量金属网格</value>
+  </data>
+  <data name="DisplayName_Item_BPMetalGridT3" xml:space="preserve">
+    <value>贫化钳金属网格</value>
+  </data>
+  <data name="DisplayName_Item_BPMotorT1" xml:space="preserve">
+    <value>贫铀马达</value>
+  </data>
+  <data name="DisplayName_Item_BPMotorT2" xml:space="preserve">
+    <value>耗尽的暗能量电机</value>
+  </data>
+  <data name="DisplayName_Item_BPMotorT3" xml:space="preserve">
+    <value>耗尽的 Clangium 电机</value>
+  </data>
+  <data name="DisplayName_Item_BPPowerCellT1" xml:space="preserve">
+    <value>贫铀发电电池</value>
+  </data>
+  <data name="DisplayName_Item_BPPowerCellT2" xml:space="preserve">
+    <value>耗尽的暗能量动力电池</value>
+  </data>
+  <data name="DisplayName_Item_BPPowerCellT3" xml:space="preserve">
+    <value>耗尽的 Clangium 动力电池</value>
+  </data>
+  <data name="DisplayName_Item_BPRadioCommunicationComponentsT1" xml:space="preserve">
+    <value>贫铀无线电通信公司</value>
+  </data>
+  <data name="DisplayName_Item_BPRadioCommunicationComponentsT2" xml:space="preserve">
+    <value>耗尽的暗能量无线电通信公司</value>
+  </data>
+  <data name="DisplayName_Item_BPRadioCommunicationComponentsT3" xml:space="preserve">
+    <value>枯竭的钚无线电通信公司</value>
+  </data>
+  <data name="DisplayName_Item_BPReactorComponentsT1" xml:space="preserve">
+    <value>贫铀反应堆组件</value>
+  </data>
+  <data name="DisplayName_Item_BPReactorComponentsT2" xml:space="preserve">
+    <value>耗尽的暗能量反应堆组件</value>
+  </data>
+  <data name="DisplayName_Item_BPReactorComponentsT3" xml:space="preserve">
+    <value>贫化钚反应堆组件</value>
+  </data>
+  <data name="DisplayName_Item_BPSmallSteelTubeT1" xml:space="preserve">
+    <value>贫铀小钢管</value>
+  </data>
+  <data name="DisplayName_Item_BPSmallSteelTubeT2" xml:space="preserve">
+    <value>耗尽的暗能量小钢管</value>
+  </data>
+  <data name="DisplayName_Item_BPSmallSteelTubeT3" xml:space="preserve">
+    <value>贫化钳小钢管</value>
+  </data>
+  <data name="DisplayName_Item_BPSolarCellT1" xml:space="preserve">
+    <value>贫铀太阳能电池</value>
+  </data>
+  <data name="DisplayName_Item_BPSolarCellT2" xml:space="preserve">
+    <value>耗尽的暗能量太阳能电池</value>
+  </data>
+  <data name="DisplayName_Item_BPSolarCellT3" xml:space="preserve">
+    <value>贫化钚太阳能电池</value>
+  </data>
+  <data name="DisplayName_Item_BPSteelPlateT1" xml:space="preserve">
+    <value>贫铀钢板</value>
+  </data>
+  <data name="DisplayName_Item_BPSteelPlateT2" xml:space="preserve">
+    <value>枯竭的暗能量钢板</value>
+  </data>
+  <data name="DisplayName_Item_BPSteelPlateT3" xml:space="preserve">
+    <value>贫化钳钢板</value>
+  </data>
+  <data name="DisplayName_Item_BPSuperconductorT1" xml:space="preserve">
+    <value>贫铀超导体</value>
+  </data>
+  <data name="DisplayName_Item_BPSuperconductorT2" xml:space="preserve">
+    <value>耗尽的暗能量超导体</value>
+  </data>
+  <data name="DisplayName_Item_BPSuperconductorT3" xml:space="preserve">
+    <value>贫化钚超导体</value>
+  </data>
+  <data name="DisplayName_Item_BPThrustComponentsT1" xml:space="preserve">
+    <value>贫铀推进器公司</value>
+  </data>
+  <data name="DisplayName_Item_BPThrustComponentsT2" xml:space="preserve">
+    <value>耗尽的暗能量推进器组件</value>
+  </data>
+  <data name="DisplayName_Item_BPThrustComponentsT3" xml:space="preserve">
+    <value>耗尽的钚推进器组件</value>
+  </data>
+  <data name="DisplayName_Item_BulletproofGlassT1" xml:space="preserve">
+    <value>分部你。防弹玻璃</value>
+  </data>
+  <data name="DisplayName_Item_BulletproofGlassT2" xml:space="preserve">
+    <value>分部德。防弹玻璃</value>
+  </data>
+  <data name="DisplayName_Item_BulletproofGlassT3" xml:space="preserve">
+    <value>分部CLa.防弹玻璃</value>
+  </data>
+  <data name="DisplayName_Item_ClangiumIngot" xml:space="preserve">
+    <value>锭锭</value>
+  </data>
+  <data name="DisplayName_Item_ClangiumOldOre" xml:space="preserve">
+    <value>已过时：旧钳矿石</value>
+  </data>
+  <data name="DisplayName_Item_ClangiumOre" xml:space="preserve">
+    <value>钳矿</value>
+  </data>
+  <data name="DisplayName_Item_ConstructionComponentT1" xml:space="preserve">
+    <value>分部你。建筑公司</value>
+  </data>
+  <data name="DisplayName_Item_ConstructionComponentT2" xml:space="preserve">
+    <value>分部德。建筑公司</value>
+  </data>
+  <data name="DisplayName_Item_ConstructionComponentT3" xml:space="preserve">
+    <value>分部CLa.建筑公司</value>
+  </data>
+  <data name="DisplayName_Item_DarkEnergyGas" xml:space="preserve">
+    <value>暗能量气体</value>
+  </data>
+  <data name="DisplayName_Item_DarkEnergyIngot" xml:space="preserve">
+    <value>暗能量锭</value>
+  </data>
+  <data name="DisplayName_Item_DarkMatterOldOre" xml:space="preserve">
+    <value>已过时：旧暗物质矿石</value>
+  </data>
+  <data name="DisplayName_Item_DarkMatterOre" xml:space="preserve">
+    <value>暗物质矿石</value>
+  </data>
+  <data name="DisplayName_Item_DetectorComponentsT1" xml:space="preserve">
+    <value>分部你。探测器组件</value>
+  </data>
+  <data name="DisplayName_Item_DetectorComponentsT2" xml:space="preserve">
+    <value>分部德。探测器组件</value>
+  </data>
+  <data name="DisplayName_Item_DetectorComponentsT3" xml:space="preserve">
+    <value>分部CLa.探测器组件</value>
+  </data>
+  <data name="DisplayName_Item_DisplayT1" xml:space="preserve">
+    <value>分部你。显示</value>
+  </data>
+  <data name="DisplayName_Item_DisplayT2" xml:space="preserve">
+    <value>分部德。显示</value>
+  </data>
+  <data name="DisplayName_Item_DisplayT3" xml:space="preserve">
+    <value>分部CLa.显示</value>
+  </data>
+  <data name="DisplayName_Item_GirderT1" xml:space="preserve">
+    <value>分部你。梁</value>
+  </data>
+  <data name="DisplayName_Item_GirderT2" xml:space="preserve">
+    <value>分部德。梁</value>
+  </data>
+  <data name="DisplayName_Item_GirderT3" xml:space="preserve">
+    <value>分部CLa.梁</value>
+  </data>
+  <data name="DisplayName_Item_GravityGeneratorComponentsT1" xml:space="preserve">
+    <value>分部你。重力补偿</value>
+  </data>
+  <data name="DisplayName_Item_GravityGeneratorComponentsT2" xml:space="preserve">
+    <value>分部德。重力补偿</value>
+  </data>
+  <data name="DisplayName_Item_GravityGeneratorComponentsT3" xml:space="preserve">
+    <value>分部CLa.重力补偿</value>
+  </data>
+  <data name="DisplayName_Item_HydrogenBottleT1" xml:space="preserve">
+    <value>增强型氢气瓶</value>
+  </data>
+  <data name="DisplayName_Item_HydrogenBottleT2" xml:space="preserve">
+    <value>熟练的氢气瓶</value>
+  </data>
+  <data name="DisplayName_Item_HydrogenBottleT3" xml:space="preserve">
+    <value>精英氢气瓶</value>
+  </data>
+  <data name="DisplayName_Item_InteriorPlateT1" xml:space="preserve">
+    <value>分部你。内板</value>
+  </data>
+  <data name="DisplayName_Item_InteriorPlateT2" xml:space="preserve">
+    <value>分部德。内板</value>
+  </data>
+  <data name="DisplayName_Item_InteriorPlateT3" xml:space="preserve">
+    <value>分部CLa.内板</value>
+  </data>
+  <data name="DisplayName_Item_LargeCalibreAmmoT1" xml:space="preserve">
+    <value>分部你。炮弹</value>
+  </data>
+  <data name="DisplayName_Item_LargeCalibreAmmoT2" xml:space="preserve">
+    <value>分部德。炮弹</value>
+  </data>
+  <data name="DisplayName_Item_LargeCalibreAmmoT3" xml:space="preserve">
+    <value>分部CLa.炮弹</value>
+  </data>
+  <data name="DisplayName_Item_LargeRailgunAmmoT1" xml:space="preserve">
+    <value>分部你。大型轨道炮弹</value>
+  </data>
+  <data name="DisplayName_Item_LargeRailgunAmmoT2" xml:space="preserve">
+    <value>分部De 大型轨道炮弹</value>
+  </data>
+  <data name="DisplayName_Item_LargeRailgunAmmoT3" xml:space="preserve">
+    <value>分部CLa.大型轨道炮弹</value>
+  </data>
+  <data name="DisplayName_Item_LargeSteelTubeT1" xml:space="preserve">
+    <value>分部你。大型钢管</value>
+  </data>
+  <data name="DisplayName_Item_LargeSteelTubeT2" xml:space="preserve">
+    <value>分部德。大型钢管</value>
+  </data>
+  <data name="DisplayName_Item_LargeSteelTubeT3" xml:space="preserve">
+    <value>分部CLa.大型钢管</value>
+  </data>
+  <data name="DisplayName_Item_MediumCalibreAmmoT1" xml:space="preserve">
+    <value>分部你。突击炮弹</value>
+  </data>
+  <data name="DisplayName_Item_MediumCalibreAmmoT2" xml:space="preserve">
+    <value>分部德。突击炮弹</value>
+  </data>
+  <data name="DisplayName_Item_MediumCalibreAmmoT3" xml:space="preserve">
+    <value>分部CLa.突击炮弹</value>
+  </data>
+  <data name="DisplayName_Item_MedkitT1" xml:space="preserve">
+    <value>增强型医疗包</value>
+  </data>
+  <data name="DisplayName_Item_MedkitT2" xml:space="preserve">
+    <value>精通医疗包</value>
+  </data>
+  <data name="DisplayName_Item_MedkitT3" xml:space="preserve">
+    <value>精英医疗包</value>
+  </data>
+  <data name="DisplayName_Item_MetalGridT1" xml:space="preserve">
+    <value>分部你。金属网格</value>
+  </data>
+  <data name="DisplayName_Item_MetalGridT2" xml:space="preserve">
+    <value>分部德。金属网格</value>
+  </data>
+  <data name="DisplayName_Item_MetalGridT3" xml:space="preserve">
+    <value>分部CLa.金属网格</value>
+  </data>
+  <data name="DisplayName_Item_Missile200mmT1" xml:space="preserve">
+    <value>分部你。火箭</value>
+  </data>
+  <data name="DisplayName_Item_Missile200mmT2" xml:space="preserve">
+    <value>分部德。火箭</value>
+  </data>
+  <data name="DisplayName_Item_Missile200mmT3" xml:space="preserve">
+    <value>分部CLa.火箭</value>
+  </data>
+  <data name="DisplayName_Item_MotorT1" xml:space="preserve">
+    <value>分部你。发动机</value>
+  </data>
+  <data name="DisplayName_Item_MotorT2" xml:space="preserve">
+    <value>分部德。发动机</value>
+  </data>
+  <data name="DisplayName_Item_MotorT3" xml:space="preserve">
+    <value>分部CLa.发动机</value>
+  </data>
+  <data name="DisplayName_Item_NATO_25x184mmT1" xml:space="preserve">
+    <value>分部你。加特林弹药箱</value>
+  </data>
+  <data name="DisplayName_Item_NATO_25x184mmT2" xml:space="preserve">
+    <value>分部德。加特林弹药箱</value>
+  </data>
+  <data name="DisplayName_Item_NATO_25x184mmT3" xml:space="preserve">
+    <value>分部CLa.加特林弹药箱</value>
+  </data>
+  <data name="DisplayName_Item_OxygenBottleT1" xml:space="preserve">
+    <value>增强型氧气瓶</value>
+  </data>
+  <data name="DisplayName_Item_OxygenBottleT2" xml:space="preserve">
+    <value>熟练氧气瓶</value>
+  </data>
+  <data name="DisplayName_Item_OxygenBottleT3" xml:space="preserve">
+    <value>精英氧气瓶</value>
+  </data>
+  <data name="DisplayName_Item_PowerCellT1" xml:space="preserve">
+    <value>分部你。动力电池</value>
+  </data>
+  <data name="DisplayName_Item_PowerCellT2" xml:space="preserve">
+    <value>分部德。动力电池</value>
+  </data>
+  <data name="DisplayName_Item_PowerCellT3" xml:space="preserve">
+    <value>分部CLa.动力电池</value>
+  </data>
+  <data name="DisplayName_Item_PowerkitT1" xml:space="preserve">
+    <value>增强型 Powerkit</value>
+  </data>
+  <data name="DisplayName_Item_PowerkitT2" xml:space="preserve">
+    <value>精通 Powerkit</value>
+  </data>
+  <data name="DisplayName_Item_PowerkitT3" xml:space="preserve">
+    <value>精英动力套件</value>
+  </data>
+  <data name="DisplayName_Item_RadioCommunicationComponentsT1" xml:space="preserve">
+    <value>分部你。无线电通信公司</value>
+  </data>
+  <data name="DisplayName_Item_RadioCommunicationComponentsT2" xml:space="preserve">
+    <value>分部德。无线电通信公司</value>
+  </data>
+  <data name="DisplayName_Item_RadioCommunicationComponentsT3" xml:space="preserve">
+    <value>分部CLa.无线电通信公司</value>
+  </data>
+  <data name="DisplayName_Item_ReactorComponentsT1" xml:space="preserve">
+    <value>分部你。反应堆组件</value>
+  </data>
+  <data name="DisplayName_Item_ReactorComponentsT2" xml:space="preserve">
+    <value>分部德。反应堆组件</value>
+  </data>
+  <data name="DisplayName_Item_ReactorComponentsT3" xml:space="preserve">
+    <value>分部CLa.反应堆组件</value>
+  </data>
+  <data name="DisplayName_Item_SmallRailgunAmmoT1" xml:space="preserve">
+    <value>分部你。小型轨道炮弹</value>
+  </data>
+  <data name="DisplayName_Item_SmallRailgunAmmoT2" xml:space="preserve">
+    <value>分部德。小型轨道炮弹</value>
+  </data>
+  <data name="DisplayName_Item_SmallRailgunAmmoT3" xml:space="preserve">
+    <value>分部CLa.小型轨道炮弹</value>
+  </data>
+  <data name="DisplayName_Item_SmallSteelTubeT1" xml:space="preserve">
+    <value>分部你。小钢管</value>
+  </data>
+  <data name="DisplayName_Item_SmallSteelTubeT2" xml:space="preserve">
+    <value>分部德。小钢管</value>
+  </data>
+  <data name="DisplayName_Item_SmallSteelTubeT3" xml:space="preserve">
+    <value>分部CLa.小钢管</value>
+  </data>
+  <data name="DisplayName_Item_SolarCellT1" xml:space="preserve">
+    <value>分部你。太阳能电池</value>
+  </data>
+  <data name="DisplayName_Item_SolarCellT2" xml:space="preserve">
+    <value>分部德。太阳能电池</value>
+  </data>
+  <data name="DisplayName_Item_SolarCellT3" xml:space="preserve">
+    <value>分部CLa.太阳能电池</value>
+  </data>
+  <data name="DisplayName_Item_SteelPlateT1" xml:space="preserve">
+    <value>分部你。钢板</value>
+  </data>
+  <data name="DisplayName_Item_SteelPlateT2" xml:space="preserve">
+    <value>分部德。钢板</value>
+  </data>
+  <data name="DisplayName_Item_SteelPlateT3" xml:space="preserve">
+    <value>分部CLa.钢板</value>
+  </data>
+  <data name="DisplayName_Item_SuperconductorT1" xml:space="preserve">
+    <value>分部你。超导体</value>
+  </data>
+  <data name="DisplayName_Item_SuperconductorT2" xml:space="preserve">
+    <value>分部德。超导体</value>
+  </data>
+  <data name="DisplayName_Item_SuperconductorT3" xml:space="preserve">
+    <value>分部CLa.超导体</value>
+  </data>
+  <data name="DisplayName_Item_ThrustComponentsT1" xml:space="preserve">
+    <value>分部你。推进器组件</value>
+  </data>
+  <data name="DisplayName_Item_ThrustComponentsT2" xml:space="preserve">
+    <value>分部德。推进器组件</value>
+  </data>
+  <data name="DisplayName_Item_ThrustComponentsT3" xml:space="preserve">
+    <value>分部CLa.推进器组件</value>
+  </data>
+  <data name="DisplayName_Item_TriviumIngot" xml:space="preserve">
+    <value>Trivium锭</value>
+  </data>
+  <data name="DisplayName_Item_TriviumOldOre" xml:space="preserve">
+    <value>已过时： Old Trivium Ore</value>
+  </data>
+  <data name="DisplayName_Item_TriviumOre" xml:space="preserve">
+    <value>Trivium 矿石</value>
+  </data>
+  <data name="DisplayName_Ore_DarkMatter" xml:space="preserve">
+    <value>暗物质</value>
+  </data>
+  <data name="DisplayName_OreConversion" xml:space="preserve">
+    <value>矿石转化</value>
+  </data>
+  <data name="Trivium" xml:space="preserve">
+    <value>三学科</value>
+  </data>
+</root>
