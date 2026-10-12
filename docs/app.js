@@ -30,6 +30,11 @@
   });
   selectTab(location.hash === '#modular-panel' ? 1 : 0);
   tablist.hidden = false;
+  document.querySelectorAll('a[href="#modular-panel"], a[href="#complete-panel"]').forEach(link => {
+    link.addEventListener('click', () => {
+      selectTab(panels.findIndex(panel => '#' + panel.id === link.getAttribute('href')));
+    });
+  });
   window.addEventListener('hashchange', () => {
     const index = panels.findIndex(panel => '#' + panel.id === location.hash);
     if (index !== -1) selectTab(index);
