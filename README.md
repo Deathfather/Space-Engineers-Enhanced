@@ -2,9 +2,9 @@
 
 [Client installation](https://deathfather.github.io/Space-Engineers-Enhanced/) | [Workshop mod guide](https://deathfather.github.io/Space-Engineers-Enhanced/mods.html) | [Community](https://discord.gg/V2mS2hEQAy)
 
-This repository contains Enhanced localization files and the player-facing website. The main guide explains how to install and enable the Enhanced Research Pulsar client companion. During private testing, matching client packages are supplied by server staff; the guide does not imply a public Pulsar catalog listing.
+This repository contains Enhanced localization files and the player-facing website. The main guide explains how to download, install, and enable the Enhanced Research Pulsar client companion. Client-only test ZIPs for Interim (.NET 10) and Legacy (.NET Framework 4.8) are available under `docs/downloads/`, with SHA-256 checksums and client installation notes. This is manual distribution, not a public Pulsar catalog listing.
 
-The server plugin remains private. This repository does not distribute client or server binaries, server installation instructions, player data, or private settings.
+The server plugin and development source repository remain private. Public ZIPs contain only `plugin.dll`, its required shared `EnhancedResearch.Core.dll`, `plugin.xml`, and client installation notes. No Torch plugin binaries, server installation instructions, player data, or private settings are distributed here.
 
 Choose Complete Edition **or** Core Framework (Modular). Modular requires Weapons and exactly one Production pack: Normal **or** Hard. Start a new save for the modular rebuild.
 

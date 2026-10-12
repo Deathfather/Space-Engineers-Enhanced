@@ -1,0 +1,50 @@
+Space Engineers [Enhanced] - Research
+Pulsar client companion | Test build 0.1.0 / 20261012.1
+
+CLIENT ONLY
+This package contains the client plugin, its required shared library, and its
+local Pulsar descriptor. It does not contain the Torch server plugin, server
+configuration, player data, game assemblies, or Workshop content.
+
+CHOOSE ONE BUILD
+Interim: Space Engineers 1 using .NET 10 (the current tested setup).
+Legacy: Space Engineers 1 using .NET Framework 4.8.
+Do not combine the two builds. Pulsar Modern is for Space Engineers 2.
+Use a client version matching your server's instructions.
+
+INSTALL
+1. Install Pulsar from its official project:
+   https://github.com/SpaceGT/Pulsar
+2. Fully close Space Engineers and Pulsar.
+3. Extract the EnhancedResearch folder from this ZIP into the Local folder of
+   your active Pulsar data directory. The tested SE1 installation uses:
+   %APPDATA%\Pulsar\Legacy\Local
+   An Interim installation can still use this Legacy data folder. If your
+   installation uses a different data directory, use its Local folder instead.
+4. Keep these files together directly inside Local\EnhancedResearch:
+   plugin.xml
+   plugin.dll
+   EnhancedResearch.Core.dll
+   Do not nest EnhancedResearch inside another EnhancedResearch folder.
+   Do not put these files in the Space Engineers Mods folder.
+5. Launch Space Engineers through the matching Pulsar launcher.
+6. Open the in-game Pulsar menu. Click + BELOW THE LEFT PLUGINS LIST, search
+   Space Engineers [Enhanced] - Research, then add and enable the plugin.
+   Select Apply and restart through Pulsar if prompted.
+7. Join the compatible server and open G > Progression. Look for Research,
+   Purchased, Completed, and your research queue.
+
+UPDATES
+Close the game and Pulsar before replacing this plugin's files. Keep other
+plugins and Pulsar profiles unchanged. Research progress is stored by the
+server; reinstalling the client does not reset it.
+
+AVAILABILITY
+This is an experimental client download, not a public Pulsar catalog listing.
+Install these local files before searching for the plugin in Pulsar.
+The server plugin and development repository remain private.
+No companion is required just to use the Enhanced Workshop mods; individual
+servers may require it. Unrelated servers retain their original menu.
+
+Full guide: https://deathfather.github.io/Space-Engineers-Enhanced/
+Support: https://discord.gg/V2mS2hEQAy

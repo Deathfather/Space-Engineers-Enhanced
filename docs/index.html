@@ -12,14 +12,14 @@
   <meta property="og:url" content="https://deathfather.github.io/Space-Engineers-Enhanced/">
   <meta property="og:image" content="https://deathfather.github.io/Space-Engineers-Enhanced/assets/enhanced.jpg">
   <link rel="canonical" href="https://deathfather.github.io/Space-Engineers-Enhanced/">
-  <link rel="stylesheet" href="styles.css?v=4">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <a class="skip" href="#main">Skip to guide</a>
   <header class="site-header">
     <a class="wordmark" href="#main">Space Engineers <span>[Enhanced]</span></a>
     <nav aria-label="Main navigation">
-      <a href="#install">Install</a><a href="mods.html">Mods</a><a href="#help">Help</a>
+      <a href="#downloads">Download</a><a href="#install">Install</a><a href="mods.html">Mods</a><a href="#help">Help</a>
       <a class="community-link" href="https://discord.gg/V2mS2hEQAy">Community <span aria-hidden="true">&#8599;</span></a>
     </nav>
   </header>
@@ -46,16 +46,24 @@
         <p class="eyebrow">PULSAR CLIENT INSTALLATION</p>
         <h1>Enhanced Research</h1>
         <p class="intro">Get ready to join the server with timed research, your own research profile, and a queue you control.</p>
-        <div class="intro-meta"><span>Space Engineers 1</span><span>Windows</span><span>Private testing</span></div>
+        <div class="intro-meta"><span>Space Engineers 1</span><span>Windows</span><span>Public client test build</span></div>
+        <div id="downloads" class="client-downloads" aria-label="Client downloads">
+          <div class="install-links">
+            <a class="button primary" href="downloads/EnhancedResearch-Client-Interim-0.1.0-20261012.1.zip" download>Download client (.NET 10) <span aria-hidden="true">&#8595;</span></a>
+            <a class="text-link" href="downloads/EnhancedResearch-Client-Legacy-0.1.0-20261012.1.zip" download>Legacy client (.NET 4.8) <span aria-hidden="true">&#8595;</span></a>
+          </div>
+          <p>Interim is the current tested build. Choose one runtime, not both.</p>
+          <p class="download-meta">Test build 0.1.0 / 20261012.1 &middot; 64 KB each &middot; Client only &middot; <a href="downloads/checksums.json">SHA-256 checksums</a></p>
+        </div>
         <p class="guide-switch">Only installing the Enhanced Workshop mod? <a href="mods.html">Use the mod guide.</a> No client plugin is required just to play the mod.</p>
       </div>
 
       <section id="install" aria-labelledby="install-title">
         <div class="section-title"><span class="section-number">01</span><h2 id="install-title">Install the client companion</h2></div>
-        <div class="notice"><strong>Get the current client package from server staff.</strong><p>Enhanced Research is in private testing and is not publicly listed in Pulsar yet. Ask in <a href="https://discord.gg/V2mS2hEQAy">our Discord</a> for the client ZIP that matches the server. The server plugin is not a public download.</p></div>
+        <div class="notice"><strong>Install the download above as a local Pulsar plugin.</strong><p>The client is publicly downloadable here, but is not publicly listed in Pulsar yet. Use a build matching your server. The server plugin remains private.</p></div>
         <ol class="steps">
           <li><div><h4>Install Pulsar for Space Engineers 1</h4><p>Use the official Windows installer, or follow Pulsar's portable installation instructions. Already using Pulsar? Keep your existing installation.</p><div class="install-links"><a class="button primary" href="https://github.com/StarCpt/Pulsar-Installer/releases/latest">Get Pulsar for Windows <span aria-hidden="true">&#8599;</span></a><a class="text-link" href="https://github.com/SpaceGT/Pulsar#readme">Official setup instructions <span aria-hidden="true">&#8599;</span></a></div></div></li>
-          <li><div><h4>Match the client package to your game runtime</h4><p>Use the build supplied for your Space Engineers 1 version. Install one build, not both.</p>
+          <li><div><h4>Download the client for your game runtime</h4><p>Choose the matching ZIP in <a href="#downloads">Client downloads</a>. Install one build, not both.</p>
             <dl class="runtime-list">
               <div><dt>Interim client</dt><dd>Space Engineers 1 on .NET 10. This is the build used for our current test setup.</dd></div>
               <div><dt>Legacy client</dt><dd>Space Engineers 1 on .NET Framework 4.8. Only use this if your game and the server's instructions call for it.</dd></div>
@@ -81,7 +89,7 @@
         <div class="section-title"><span class="section-number">02</span><h2 id="activate-title">Enable it and join</h2></div>
         <ol class="steps">
           <li><div><h4>Launch Space Engineers through Pulsar</h4><p>Use the launcher matching your Space Engineers 1 runtime. Starting the game without Pulsar will not load the companion.</p></div></li>
-          <li><div><h4>Add it from the Plugins list</h4><p>Open the in-game Pulsar menu. Click the <strong>+ below the left Plugins list</strong>, then search for <strong>Space Engineers [Enhanced] - Research</strong> and add it.</p><p>The + on the right is for Mods. Your local client files must be installed first for this private plugin to appear.</p></div></li>
+          <li><div><h4>Add it from the Plugins list</h4><p>Open the in-game Pulsar menu. Click the <strong>+ below the left Plugins list</strong>, then search for <strong>Space Engineers [Enhanced] - Research</strong> and add it.</p><p>The + on the right is for Mods. Your local client files must be installed first for this plugin to appear.</p></div></li>
           <li><div><h4>Enable, apply, and restart</h4><p>Check the plugin's Enabled box, select <strong>Apply</strong>, and restart the game through Pulsar if prompted.</p></div></li>
           <li><div><h4>Connect to the server</h4><p>Use the connection details supplied by server staff and let the server's Workshop downloads finish. Once in the world, open <strong>G &gt; Progression</strong>.</p></div></li>
         </ol>
@@ -103,14 +111,14 @@
 
       <section id="updates" aria-labelledby="updates-title">
         <div class="section-title"><span class="section-number">04</span><h2 id="updates-title">Updating the client</h2></div>
-        <p>Get the new matching client ZIP from server staff, then fully close Space Engineers and Pulsar. Replace this plugin's files in the same <code>Local/EnhancedResearch</code> folder and launch again through Pulsar.</p>
-        <p>Leave your other plugins and Pulsar profiles alone. Private test builds are updated manually unless staff provide different instructions.</p>
+        <p>Get the matching client ZIP from <a href="#downloads">Client downloads</a>, then fully close Space Engineers and Pulsar. Replace this plugin's files in the same <code>Local/EnhancedResearch</code> folder and launch again through Pulsar.</p>
+        <p>Leave your other plugins and Pulsar profiles alone. These local test builds are updated manually; follow staff instructions if your server requires a different version.</p>
         <p class="footnote">Reinstalling the client does not erase your research. Your personal research profile is stored by the server.</p>
       </section>
 
       <section id="help" aria-labelledby="help-title">
         <div class="section-title"><span class="section-number">05</span><h2 id="help-title">Troubleshooting</h2></div>
-        <details><summary>I cannot find Enhanced Research in Pulsar.</summary><div><p>Install the private client package first, then restart through Pulsar. Check that <code>plugin.xml</code>, <code>plugin.dll</code>, and <code>EnhancedResearch.Core.dll</code> are directly inside your active <code>Local/EnhancedResearch</code> folder.</p><p>Click the <strong>+ below the left Plugins list</strong> and search there. It will not be publicly discoverable without the local package while testing is private.</p></div></details>
+        <details><summary>I cannot find Enhanced Research in Pulsar.</summary><div><p>Install the downloaded client package first, then restart through Pulsar. Check that <code>plugin.xml</code>, <code>plugin.dll</code>, and <code>EnhancedResearch.Core.dll</code> are directly inside your active <code>Local/EnhancedResearch</code> folder.</p><p>Click the <strong>+ below the left Plugins list</strong> and search there. This download is not a Pulsar catalog listing, so the local package must be installed before it appears.</p></div></details>
         <details><summary>The plugin is installed, but does not load.</summary><div><p>Check that you have the correct Interim or Legacy build, that it is enabled in your active Pulsar profile, and that you launched through Pulsar. Do not mix files from the two builds. Send staff the Pulsar log if it still fails.</p></div></details>
         <details><summary>I still see the original Progression tree.</summary><div><p>Confirm that you are connected to the Enhanced Research server, not a different server or a local world. Check the plugin is enabled, apply the change, and restart through Pulsar. The custom page only activates on a compatible server.</p></div></details>
         <details><summary>The server says my companion is missing or incompatible.</summary><div><p>Ask staff for the client version matching the server. Close the game, install that package, enable it in Pulsar, and reconnect. Installing only the Workshop mods does not install the companion.</p></div></details>
@@ -118,7 +126,7 @@
         <details><summary>Do players need the server plugin too?</summary><div><p>No. Players only install the Pulsar client companion. The server component is managed by the server operator and is not being publicly distributed.</p></div></details>
       </section>
 
-      <section class="community" aria-labelledby="community-title"><div><p class="eyebrow">CLIENT BUILDS &amp; SETUP HELP</p><h2 id="community-title">Join us in Discord</h2><p>Ask server staff for the current client package and connection details.</p></div><a class="button primary" href="https://discord.gg/V2mS2hEQAy">Open community Discord <span aria-hidden="true">&#8599;</span></a></section>
+      <section class="community" aria-labelledby="community-title"><div><p class="eyebrow">SETUP HELP &amp; SERVER NEWS</p><h2 id="community-title">Join us in Discord</h2><p>Get connection details, help with installation, and client update news.</p></div><a class="button primary" href="https://discord.gg/V2mS2hEQAy">Open community Discord <span aria-hidden="true">&#8599;</span></a></section>
       <footer><p>Space Engineers [Enhanced] by Deathfather. A community project, not affiliated with Keen Software House.</p><div><a href="mods.html">Workshop mod guide</a><a href="https://github.com/SpaceGT/Pulsar">Official Pulsar project</a><a href="#main">Back to top &#8593;</a></div></footer>
     </main>
   </div>
