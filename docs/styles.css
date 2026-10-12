@@ -34,7 +34,7 @@ strong { font-weight: 650; }
 .skip:focus { top: 10px; }
 .site-header { position: sticky; top: 0; z-index: 10; min-height: 76px; padding: 14px max(24px, calc((100% - 1320px) / 2)); background: #0b0f12; border-bottom: 1px solid var(--line); color: white; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
 .wordmark { color: white; font-size: 20px; font-weight: 800; text-decoration: none; line-height: 1.25; }
-.wordmark span { display: block; font-size: 10px; font-weight: 500; color: #bfd0c4; }
+.wordmark span { color: var(--green); }
 .wordmark:hover { color: var(--mint); }
 .site-header nav { display: flex; gap: 28px; align-items: center; }
 .site-header nav a { color: #e2e9e4; text-decoration: none; font-size: 14px; }
@@ -134,8 +134,9 @@ footer > div { display: flex; flex-wrap: wrap; gap: 12px 24px; margin-top: 20px;
 @media (min-width: 1700px) { .page-layout { gap: 82px; } }
 @media (max-width: 1050px) { .page-layout { grid-template-columns: 195px minmax(0, 1fr); gap: 32px; } }
 @media (max-width: 800px) { .sidebar { display: none; } .page-layout { display: block; padding-top: 26px; } .page-intro { background-image: url('assets/enhanced.jpg'); background-repeat: no-repeat; background-size: 160px auto; background-position: right top; } .page-intro h1 { padding-top: 103px; } .page-intro .eyebrow { max-width: 145px; min-height: 27px; } }
+@media (max-width: 700px) { .site-header { flex-direction: column; align-items: flex-start; gap: 10px; } html { scroll-padding-top: 115px; } }
 @media (max-width: 520px) {
-  html { scroll-padding-top: 100px; }
+  html { scroll-padding-top: 115px; }
   body::before { background-position: 88% center; opacity: .55; }
   .site-header { padding: 14px 18px; gap: 12px; }
   .wordmark { font-size: 16px; }
