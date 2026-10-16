@@ -1,18 +1,20 @@
 {
   "packages": [
     {
-      "file": "EnhancedResearch-Client-Interim-0.1.0-20261012.1.zip",
+      "file": "EnhancedResearch-Client-Interim-0.1.0-20261016.1.zip",
       "runtime": "Interim",
-      "version": "0.1.0-20261012.1",
-      "bytes": 65257,
-      "sha256": "cb3e95d58c6e77f191a907c0cc7da085ca5f233843859261081f3fff96311ef6"
+      "version": "0.1.0-20261016.1",
+      "protocol": 3,
+      "bytes": 77146,
+      "sha256": "9982363d81b657ad52e31ed4bdf4a7c9ae6466f589683f4415c3be287527d477"
     },
     {
-      "file": "EnhancedResearch-Client-Legacy-0.1.0-20261012.1.zip",
+      "file": "EnhancedResearch-Client-Legacy-0.1.0-20261016.1.zip",
       "runtime": "Legacy",
-      "version": "0.1.0-20261012.1",
-      "bytes": 64994,
-      "sha256": "7b5c4839a2421f04cf0943a7c89eb2eb2628e0af800777f8ea9c642e0140afad"
+      "version": "0.1.0-20261016.1",
+      "protocol": 3,
+      "bytes": 76911,
+      "sha256": "1ea7ae2848045ffc3c102a99dd83511759087a2b00cebde930f2aad6c0327ef7"
     }
   ]
 }
