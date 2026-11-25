@@ -1,6 +1,22 @@
 {
   "packages": [
     {
+      "file": "EnhancedResearch-Client-Legacy-0.1.6.zip",
+      "runtime": "Legacy",
+      "version": "0.1.6",
+      "protocol": 3,
+      "bytes": 123778,
+      "sha256": "55c097e62eaab3ba313a40a6d18848a480be5f184b25d5bcc90d1d0430bc69cb"
+    },
+    {
+      "file": "EnhancedResearch-Client-Interim-0.1.6.zip",
+      "runtime": "Interim",
+      "version": "0.1.6",
+      "protocol": 3,
+      "bytes": 124302,
+      "sha256": "ae6277594eebe5accdcdf00a46326ad8f7305e22bd2983d049255842e0b95b0f"
+    },
+    {
       "file": "EnhancedResearch-Client-Interim-0.1.0-20261016.1.zip",
       "runtime": "Interim",
       "version": "0.1.0-20261016.1",
